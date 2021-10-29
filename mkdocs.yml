@@ -1,3 +1,5 @@
 site_name: CS自学指南
 theme:
   name: material
+repo_url: https://pkuflyingpig.github.io/pku-cs-self-learning/
+
