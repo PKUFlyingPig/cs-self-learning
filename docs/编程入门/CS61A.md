@@ -4,7 +4,7 @@
 - 先修要求：无
 - 编程语言：Python，Scheme，SQL
 - 课程难度：🌟🌟🌟
-- 预计学时：50 hour
+- 预计学时：50小时
 
 伯克利CS61系列的第一门课程，也是我的Python入门课。
 
@@ -25,4 +25,4 @@ CS61B和CS61C在本书中均有收录。
 - 课程作业：课程网站会有每个作业对应的文档链接以及代码框架的下载链接。
 
 ## 资源汇总
-我学习这门课中的所有资源和作业实现都汇总在[这个](https://github.com/PKUFlyingPig/CS61A)Github仓库中。
+我在学习这门课中的用到的所有资源和作业实现都汇总在[这个Github仓库](https://github.com/PKUFlyingPig/CS61A)中。
