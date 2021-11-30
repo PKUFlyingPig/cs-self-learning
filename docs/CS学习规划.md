@@ -16,7 +16,7 @@ IDE（Integrated Development Environment）：集成开发环境，说白了就�
 
 [Github](必学工具/Github.md)：基于Git的代码托管平台。全世界最大的代码开源社区，大佬集聚地。
 
-[Makefile](必学工具/Makefile.md)：一款工程构建工具。善用Makefile会让你养成代码模块化的习惯，同时也能让你熟悉一些稍大的工程的编译链接流程。
+[Makefile](必学工具/Makefile.md)：一款工程构建工具。善用Makefile会让你养成代码模块化的习惯，同时也能让你熟悉一些大型工程的编译链接流程。
 
 [LaTex](必学工具/Latex.md)：<del>逼格提升</del>论文排版工具。
 
