@@ -9,6 +9,6 @@ Berkeley计算机系教授Christos Papadimitriou曾说过一句半开玩笑的�
 ## 如何学习LaTex
 推荐的学习路线如下：
 
-- LaTex的环境配置是个比较头疼的问题。如果你本地配置LaTex环境出现了问题，可以考虑使用[Overleaf](www.overleaf.com)这个在线LaTex编辑网站。站内不仅有各种各样的LaTex模版供你选择还免去了环境配置的难题。
+- LaTex的环境配置是个比较头疼的问题。如果你本地配置LaTex环境出现了问题，可以考虑使用[Overleaf](https://www.overleaf.com)这个在线LaTex编辑网站。站内不仅有各种各样的LaTex模版供你选择还免去了环境配置的难题。
 - 阅读下面三篇Tutorial: [Part-1](https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1), [Part-2](https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-2), [Part-3](https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-3).
 - 学习LaTex最好的方式当然是写论文，不过从一门数学课入手用LaTex写作业也是一个不错的选择。

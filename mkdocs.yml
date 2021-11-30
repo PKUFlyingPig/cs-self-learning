@@ -2,3 +2,19 @@ site_name: CS自学指南
 theme:
   name: material
 repo_url: https://github.com/pkuflyingpig/pku-cs-self-learning/
+nav:
+  - 前言: 'index.md'
+  - 一个仅供参考的CS学习规划: 'CS学习规划.md'
+  - 必学工具:
+    - 翻墙: '必学工具/翻墙.md'
+    - Vim: '必学工具/Vim.md'
+    - Git: '必学工具/Git.md'
+    - Github: '必学工具/Github.md'
+    - Makefile: '必学工具/Makefile.md'
+    - Latex: '必学工具/Latex.md'
+  - 编程入门:
+    - MIT-Missing-Semester: '编程入门/MIT-Missing-Semester.md'
+    - 'CS50: This is CS50x': '编程入门/CS50.md'
+    - 'CS61A: Structure and Interpretation of Computer Programs': '编程入门/CS61A.md'
+    - 'CS106L: Standard C++ Programming': '编程入门/CS106L.md'
+    - 'CS110L: Safety in Systems Programming': '编程入门/CS110L.md'
