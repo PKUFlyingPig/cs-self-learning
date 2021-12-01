@@ -22,3 +22,7 @@ nav:
     - 'CS61B: Data Structures and Algorithms': '数据结构与算法/CS61B.md'
     - 'Coursera: Algorithms I & II': '数据结构与算法/Algo.md'
     - 'CS170: Efficient Algorithms and Intractable Problems': '数据结构与算法/CS170.md'
+  - 体系结构: 
+    - 'Coursera: Nand2Tetris': '体系结构/N2T.md'
+    - 'CS61C: Great Ideas in Computer Architecture': '体系结构/CS61C.md'
+    - 'CMU CS15213: CSAPP': '体系结构/CSAPP.md'
