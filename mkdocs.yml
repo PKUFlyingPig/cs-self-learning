@@ -35,3 +35,8 @@ nav:
   - 人工智能:
     - 'CS50’s Introduction to AI with Python': '人工智能/CS50.md'
     - 'CS188: Introduction to Artificial Intelligence': '人工智能/CS188.md'
+  - 机器学习:
+    - 'Coursera: Machine Learning': '机器学习/ML.md'
+    - 'CS229: Machine Learning': '机器学习/CS229.md' 
+    - 'CS189: Introduction to Machine Learning': '机器学习/CS189.md'
+    
