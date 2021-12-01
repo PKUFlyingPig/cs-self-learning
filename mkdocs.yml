@@ -29,4 +29,6 @@ nav:
   - 操作系统:
     - 'MIT 6.S081: Operating System Engineering': '操作系统/MIT6.S081.md'
     - 'CS162: Operating System': '操作系统/CS162.md'
-  
+  - 计算机网络:
+    - 'Computer Networking: A Top-Down Approach': '计算机网络/topdown.md'
+    - 'CS144: Computer Network': '计算机网络/CS144.md'
