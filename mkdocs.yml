@@ -39,4 +39,10 @@ nav:
     - 'Coursera: Machine Learning': '机器学习/ML.md'
     - 'CS229: Machine Learning': '机器学习/CS229.md' 
     - 'CS189: Introduction to Machine Learning': '机器学习/CS189.md'
-    
+  - 深度学习:
+    - 'Coursera: Deep Learning': '深度学习/CS230.md'
+    - '台湾国立大学：李宏毅机器学习': '深度学习/LHY.md'
+    - 'CS231n: CNN for Visual Recognition': '深度学习/CS231.md'
+    - 'CS224n: Natural Language Processing': '深度学习/CS224n.md'
+    - 'CS224w: Machine Learning with Graphs': '深度学习/CS224w.md'
+    - 'CS285: Deep Reinforcement Learning': '深度学习/CS285.md'
