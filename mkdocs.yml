@@ -26,3 +26,7 @@ nav:
     - 'Coursera: Nand2Tetris': '体系结构/N2T.md'
     - 'CS61C: Great Ideas in Computer Architecture': '体系结构/CS61C.md'
     - 'CMU CS15213: CSAPP': '体系结构/CSAPP.md'
+  - 操作系统:
+    - 'MIT 6.S081: Operating System Engineering': '操作系统/MIT6.S081.md'
+    - 'CS162: Operating System': '操作系统/CS162.md'
+  
