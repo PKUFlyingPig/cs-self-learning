@@ -18,3 +18,7 @@ nav:
     - 'CS61A: Structure and Interpretation of Computer Programs': '编程入门/CS61A.md'
     - 'CS106L: Standard C++ Programming': '编程入门/CS106L.md'
     - 'CS110L: Safety in Systems Programming': '编程入门/CS110L.md'
+  - 数据结构与算法:
+    - 'CS61B: Data Structures and Algorithms': '数据结构与算法/CS61B.md'
+    - 'Coursera: Algorithms I & II': '数据结构与算法/Algo.md'
+    - 'CS170: Efficient Algorithms and Intractable Problems': '数据结构与算法/CS170.md'
