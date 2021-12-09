@@ -12,6 +12,7 @@ nav:
     - Github: '必学工具/Github.md'
     - Makefile: '必学工具/Makefile.md'
     - Latex: '必学工具/Latex.md'
+    - 实用工具箱: '必学工具/tools.md'
   - 编程入门:
     - MIT-Missing-Semester: '编程入门/MIT-Missing-Semester.md'
     - 'Harvard CS50: This is CS50x': '编程入门/CS50.md'
