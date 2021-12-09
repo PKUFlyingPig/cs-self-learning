@@ -27,8 +27,8 @@
 ## 课程资源
 - 课程网站：[Algorithm I](https://www.coursera.org/learn/algorithms-part1), [Algorithm II](https://www.coursera.org/learn/algorithms-part2)
 - 课程视频：详见课程网站
-- 课程教材：https://algs4.cs.princeton.edu/home/
-- 课程作业：10个Project
+- [课程教材](https://algs4.cs.princeton.edu/home/)
+- 课程作业：10个Project，具体要求详见课程网站
 
 ## 资源汇总
 我在学习这门课中用到的所有资源和作业实现都汇总在[这个Github仓库](https://github.com/PKUFlyingPig/Princeton-Algorithm)中。

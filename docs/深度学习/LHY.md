@@ -14,7 +14,7 @@ RL、Compression、Life-Long Learning以及Meta Learning。可谓是包罗万象
 大家也大可不必担心作业的难度，因为所有作业都会提供助教的示例代码，帮你完成数据处理、模型搭建等，你只需要在其基础上进行适量的修改即可。这也是一个学习别人优质代码的极好机会，大家需要水课程大作业的话，这里也是一个不错的资料来源。
 
 ## 课程资源
-- 课程网站：https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
-- 课程视频：参见课程网站
+- [课程网站](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)
+- [课程视频](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)：每节课的链接参见课程网站
 - 课程教材：无
-- 课程作业：15个lab，几乎覆盖了主流深度学习的所有领域
+- [课程作业](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)：15个lab，几乎覆盖了主流深度学习的所有领域

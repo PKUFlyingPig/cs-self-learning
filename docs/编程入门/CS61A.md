@@ -19,9 +19,9 @@ CS61B和CS61C在本书中均有收录。
 回到CS61A，注意这不仅仅是一门编程语言课，而是会深入到程序构造与运行的原理。最后你将在第4个Project中用Python实现一个Scheme的解释器。此外，抽象将是这门课的一大主题，你将学习到函数式编程、数据抽象、面向对象等等知识来让你的代码更易读，更模块化。当然，学习编程语言也是这门课的一大内容，你将会掌握Python、Scheme和SQL这三种编程语言，在它们的学习和比较中，相信你会拥有快速掌握一门新的编程语言的能力。
 
 ## 课程资源
-- 课程网站：https://inst.eecs.berkeley.edu/~cs61a/su20/
-- 课程视频：https://www.youtube.com/watch?v=0_LryzvBxFw&list=PL6BsET-8jgYVkdaPYJNyvuNga3QA_U1gA
-- 课程教材：http://composingprograms.com/
+- [课程网站](https://inst.eecs.berkeley.edu/~cs61a/su20/)
+- [课程视频](https://www.youtube.com/watch?v=0_LryzvBxFw&list=PL6BsET-8jgYVkdaPYJNyvuNga3QA_U1gA)
+- [课程教材](http://composingprograms.com/)
 - 课程作业：课程网站会有每个作业对应的文档链接以及代码框架的下载链接。
 
 ## 资源汇总

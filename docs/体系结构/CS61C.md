@@ -16,10 +16,10 @@
 总而言之，这是个人上过的最好的计算机体系结构的课程。
 
 ## 课程资源
-- 课程网站：https://cs61c.org/su20/
+- [课程网站](https://cs61c.org/su20/)
 - 课程视频：[B站](https://www.bilibili.com/video/BV1fC4y147iZ?from=search&seid=1039011700066128636), [Youtube](https://www.youtube.com/playlist?list=PLDoI-XvXO0aqgoMQvogzmf7CKiSMSUS3M)
 - 课程教材：无
-- 课程作业：11个lab，4个project
+- 课程作业：11个lab，4个project，具体要求详见课程网站
 
 ## 资源汇总
 我在学习这门课中用到的所有资源和作业实现都汇总在[这个Github仓库](https://github.com/PKUFlyingPig/CS61C-summer20)中。

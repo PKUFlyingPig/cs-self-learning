@@ -30,6 +30,9 @@ nav:
   - 操作系统:
     - 'MIT 6.S081: Operating System Engineering': '操作系统/MIT6.S081.md'
     - 'UCB CS162: Operating System': '操作系统/CS162.md'
+  - 并行与分布式系统:
+    - 'Stanford CS149: Parallel Computing': '并行与分布式系统/CS149.md'
+    - 'MIT 6.824: Distributed System': '并行与分布式系统/MIT6.824.md'
   - 计算机网络:
     - 'Computer Networking: A Top-Down Approach': '计算机网络/topdown.md'
     - 'Stanford CS144: Computer Network': '计算机网络/CS144.md'

@@ -19,10 +19,10 @@
 最前沿的研究方向。
 
 ## 课程资源
-- 课程网站：https://pdos.csail.mit.edu/6.828/2020/schedule.html
-- 课程视频：详见课程网站
-- 课程教材：https://pdos.csail.mit.edu/6.828/2021/xv6/book-riscv-rev2.pdf
-- 课程作业：11个lab，具体要求详见课程网站
+- [课程网站](https://pdos.csail.mit.edu/6.828/2021/schedule.html)
+- [课程视频](https://www.youtube.com/watch?v=L6YqHxYHa7A)：每节课的链接详见课程网站
+- [课程教材](https://pdos.csail.mit.edu/6.828/2021/xv6/book-riscv-rev2.pdf)
+- [课程作业](https://pdos.csail.mit.edu/6.828/2021/schedule.html)：11个lab，具体要求详见课程网站
 
 ## 资源汇总
 我在学习这门课中用到的所有资源和作业实现都汇总在[这个Github仓库](https://github.com/PKUFlyingPig/MIT6.S081-2020fall)中。

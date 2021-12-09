@@ -18,10 +18,10 @@
 另外还有3个Project更是让你有机会接触上千行的工程代码，在实战中磨练自己的Java能力。
 
 ## 课程资源
-- 课程网站：https://sp18.datastructur.es/
-- 课程视频：详见课程网站链接
+- [课程网站](https://sp18.datastructur.es/)
+- [课程视频](https://sp18.datastructur.es/)：每节课的链接详见课程网站
 - 课程教材：无
-- 课程作业：每年略有不同，18年春季学期有14个lab，10个homework以及3个project。
+- 课程作业：每年略有不同，18年春季学期有14个lab，10个homework以及3个project，具体要求详见课程网站。
 
 ## 资源汇总
 我在学习这门课中用到的所有资源和作业实现都汇总在[这个Github仓库](https://github.com/PKUFlyingPig/CS61B)中。

@@ -13,7 +13,7 @@
 当然，这门课作为一个公开慕课，难度上刻意放低了些，很多数学推导大多一带而过，如果你有志于从事机器学习理论研究，想要深究这些算法背后的数学理论，可以参考[CS229](./CS229.md)和[CS189](./CS189.md)。
 
 ## 课程资源
-- 课程网站：https://www.coursera.org/learn/machine-learning
+- [课程网站](https://www.coursera.org/learn/machine-learning)
 - 课程视频：参见课程网站
 - 课程教材：无
 - 课程作业：参见课程网站
