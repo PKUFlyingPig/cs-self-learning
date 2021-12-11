@@ -14,8 +14,14 @@ nav:
     - Latex: '必学工具/Latex.md'
     - 实用工具箱: '必学工具/tools.md'
   - 数学基础:
-    - 'MIT Calculus Course': '数学基础/MITmaths.md'
-    - 'MIT Linear Algebra': '数学基础/MITLA.md'
+    - 'MIT18.01/18.02: Calculus': '数学基础/MITmaths.md'
+    - 'MIT18.06: Linear Algebra': '数学基础/MITLA.md'
+    - 'MIT6.050J: Information theory and Entropy': '数学基础/information.md'
+  - 数学进阶:
+    - 'UCB CS70: discrete Math and probability theory': '数学进阶/CS70.md'
+    - 'UCB CS126: probability theory': '数学进阶/CS126.md'
+    - 'MIT18.330: Introduction to numerical analysis': '数学进阶/numerical.md'
+    - 'Standford EE364A: Convex Optimization': '数学进阶/convex.md'
   - 编程入门:
     - MIT-Missing-Semester: '编程入门/MIT-Missing-Semester.md'
     - 'Harvard CS50: This is CS50x': '编程入门/CS50.md'

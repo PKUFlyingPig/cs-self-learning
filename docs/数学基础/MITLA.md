@@ -6,7 +6,7 @@
 - 课程难度：🌟🌟🌟
 - 预计学时：因人而异
 
-数学大牛`Gilbert Strang`老先生年逾古稀仍坚持授课，其经典教材[`Introduction to Linear Algebra`](https://math.mit.edu/~gs/linearalgebra/)已被清华采用为官方教材。写得非常好，吊打国内一众公式堆砌的线代教材。我当时看完盗版PDF之后深感愧疚，含泪花了两百多买了一本英文正版收藏。下面附上此书封面，如果你能完全理解封面图的数学含义，那你对线性代数的理解一定会达到新的高度。
+数学大牛`Gilbert Strang`老先生年逾古稀仍坚持授课，其经典教材[`Introduction to Linear Algebra`](https://math.mit.edu/~gs/linearalgebra/)已被清华采用为官方教材。我当时看完盗版PDF之后深感愧疚，含泪花了两百多买了一本英文正版收藏。下面附上此书封面，如果你能完全理解封面图的数学含义，那你对线性代数的理解一定会达到新的高度。
 ![image](https://math.mit.edu/~gs/linearalgebra/linearalgebra5_Front.jpg)
 
 配合油管数学网红**3Blue1Brown**的[线性代数的本质](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)系列视频食用更佳。

@@ -3,10 +3,10 @@
 - 所属大学：MIT
 - 先修要求：英语
 - 编程语言：无
-- 课程难度：🌟🌟🌟
+- 课程难度：🌟🌟
 - 预计学时：因人而异
 
-MIT的微积分课由`MIT18.01: Single variable calculus`和`MIT18.02: Multi variable calculus`两门课组成。对自己数学基础比较自信的同学可以只看课程notes，写得非常浅显生动并且抓住本质，让你不再疲于做题而是能够真正窥见微积分的本质美丽。
+MIT的微积分课由`MIT18.01: Single variable calculus`和`MIT18.02: Multi variable calculus`两门课组成。对自己数学基础比较自信的同学可以只看课程notes，写得非常浅显生动并且抓住本质，让你不再疲于做题而是能够真正窥见微积分的本质魅力。
 
 配合油管数学网红**3Blue1Brown**的[微积分的本质](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)系列视频食用更佳。
 
