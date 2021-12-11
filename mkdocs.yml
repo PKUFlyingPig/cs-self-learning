@@ -32,6 +32,9 @@ nav:
     - 'UCB CS61B: Data Structures and Algorithms': '数据结构与算法/CS61B.md'
     - 'Coursera: Algorithms I & II': '数据结构与算法/Algo.md'
     - 'UCB CS170: Efficient Algorithms and Intractable Problems': '数据结构与算法/CS170.md'
+  - 软件工程:
+    - 'MIT 6.031: Software Construction': '软件工程/6031.md'
+    - 'UCB CS169: software engineering': '软件工程/CS169.md'
   - 体系结构: 
     - 'Coursera: Nand2Tetris': '体系结构/N2T.md'
     - 'UCB CS61C: Great Ideas in Computer Architecture': '体系结构/CS61C.md'
@@ -42,11 +45,20 @@ nav:
   - 并行与分布式系统:
     - 'CMU 15-418/Stanford CS149: Parallel Computing': '并行与分布式系统/CS149.md'
     - 'MIT 6.824: Distributed System': '并行与分布式系统/MIT6.824.md'
+  - 计算机系统安全:
+    - 'UCB CS161: Computer Security': '系统安全/CS161.md'
   - 计算机网络:
     - 'Computer Networking: A Top-Down Approach': '计算机网络/topdown.md'
     - 'Stanford CS144: Computer Network': '计算机网络/CS144.md'
   - 数据库系统:
     - 'UCB CS186: Introduction to Database System': '数据库系统/CS186.md'
+  - 编译原理:
+    - 'Stanford CS143: Compilers': '编译原理/CS143.md'
+  - Web开发:
+    - 'MIT web development course': 'Web开发/mitweb.md'
+    - 'Stanford CS142: Web Applications': 'Web开发/CS142.md'
+  - 数据科学:
+    - 'UCB Data100: Principles and Techniques of Data Science': '数据科学/Data100.md'
   - 人工智能:
     - 'Harvard CS50’s Introduction to AI with Python': '人工智能/CS50.md'
     - 'UCB CS188: Introduction to Artificial Intelligence': '人工智能/CS188.md'
