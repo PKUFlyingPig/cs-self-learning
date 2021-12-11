@@ -71,19 +71,31 @@ under construction.
 [MIT18.781: Theory of Numbers](https://ocw.mit.edu/courses/mathematics/18-781-theory-of-numbers-spring-2012/index.htm)
 #### 密码学
 [Standford CS255: Cryptography](http://crypto.stanford.edu/~dabo/cs255/)
+
+
 ### 编程入门
 
-### 系统入门
+### 数据结构与算法
+
+### 软件工程
 
 ### 体系结构
 
+### 系统入门
+
 ### 操作系统
 
-### 网络
+### 并行与分布式系统
+
+### 系统安全
+
+### 计算机网络
+
+### 数据库系统
 
 ### 编译原理
 
-### 软件工程
+### 数据科学
 
 ### 人工智能
 
