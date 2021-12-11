@@ -45,6 +45,8 @@ nav:
   - 计算机网络:
     - 'Computer Networking: A Top-Down Approach': '计算机网络/topdown.md'
     - 'Stanford CS144: Computer Network': '计算机网络/CS144.md'
+  - 数据库系统:
+    - 'UCB CS186: Introduction to Database System': '数据库系统/CS186.md'
   - 人工智能:
     - 'Harvard CS50’s Introduction to AI with Python': '人工智能/CS50.md'
     - 'UCB CS188: Introduction to Artificial Intelligence': '人工智能/CS188.md'
