@@ -8,7 +8,7 @@
 
 [翻墙](必学工具/翻墙.md)：由于一些众所周知的原因，谷歌、Github等网站在大陆无法访问。然而很多时候，谷歌和Stackoverflow可以解决你在开发过程中遇到的95%的问题。因此，学会翻墙几乎是一个内地CSer的必备技能。（考虑到法律问题，这个文档提供的翻墙方式仅对拥有北大邮箱的用户适用）。
 
-IDE（Integrated Development Environment）：集成开发环境，说白了就是你写代码的地方。作为一个码农，IDE的重要性不言而喻，一个轻便的编辑器可以让你从产生一个编程点子到开始写代码之间只隔了一个快捷键。个人推荐常用的IDE是VSCode和Sublime（准确的说Sublime只是一个编辑器，但丰富的插件使它基本满足了我的轻量级编程需求）。当然对于大型项目我还是会采用略重型的IDE，例如Pycharm（Python），IDEA（Java）等等（免责申明：所有的IDE都是世界上最好的IDE）。
+IDE（Integrated Development Environment）：集成开发环境，说白了就是你写代码的地方。作为一个码农，IDE的重要性不言而喻，但由于很多IDE是为大型工程项目设计的，体量较大，功能也过于丰富。其实如今一些轻便的文本编辑器配合丰富的插件生态基本可以满足日常的轻量编程需求。个人常用的编辑器是VSCode和Sublime（前者的插件配置非常简单，后者略显复杂但颜值很高）。当然对于大型项目我还是会采用略重型的IDE，例如Pycharm（Python），IDEA（Java）等等（免责申明：所有的IDE都是世界上最好的IDE）。
 
 [Vim](必学工具/Vim.md)：一款命令行编辑工具。这是一个学习曲线有些陡峭的编辑器，不过学会它我觉得是非常有必要的，因为它将极大地提高你的开发效率。现在绝大多数IDE也都支持Vim插件，让你在享受现代开发环境的同时保留极客的炫酷（yue）。
 
@@ -74,34 +74,123 @@ under construction.
 
 
 ### 编程入门
+在学习主流编程语言的同时，培养利用编程抽象来解决实际问题的能力。
+#### Shell
+- [MIT-Missing-Semester](编程入门/MIT-Missing-Semester.md)
+#### Python
+- [Harvard CS50: This is CS50x](编程入门/CS50.md)
+- [UCB CS61A: Structure and Interpretation of Computer Programs](编程入门/CS61A.md)
+#### C++
+- [Stanford CS106L: Standard C++ Programming](编程入门/CS106L.md)
+#### Rust
+- [Stanford CS110L: Safety in Systems Programming](编程入门/CS110L.md)
 
 ### 数据结构与算法
+#### 数据结构与算法
+- [UCB CS61B: Data Structures and Algorithms](数据结构与算法/CS61B.md)
+- [Coursera: Algorithms I & II](数据结构与算法/Algo.md)
+#### 算法设计与分析
+- [UCB CS170: Efficient Algorithms and Intractable Problems](数据结构与算法/CS170.md)
 
 ### 软件工程
+#### 入门课
+一份“能跑”的代码，和一份高质量的工业级代码是有本质区别的。因此我非常推荐低年级的同学学习一下[MIT 6.031: Software Construction](软件工程/6031.md)这门课，它会以Java语言为基础，以丰富细致的阅读材料和精心设计的编程练习传授如何编写**不易出bug、简明易懂、易于维护修改**的高质量代码。大到宏观数据结构设计，小到如何写注释，遵循这些前人总结的细节和经验，对于你此后的编程生涯大有裨益。
+
+#### 专业课
+当然，如果你想系统性地上一门软件工程的课程，那我推荐的是伯克利的[UCB CS169: software engineering](软件工程/CS169.md)。但需要提醒的是，和大多学校（包括贵校）的软件工程课程不同，这门课不会涉及传统的**design and document**模式，即强调各种类图、流程图及文档设计，而是采用近些年流行起来的小团队快速迭代**Agile Develepment**开发模式以及利用云平台的**Software as a service**服务模式。
 
 ### 体系结构
+#### 入门课
+从小我就一直听说，计算机的世界是由01构成的，我不理解但大受震撼。如果你的内心也怀有这份好奇，不妨花一到两个月的时间学习[Coursera: Nand2Tetris](体系结构/N2T.md)这门无门槛的计算机课程。这门麻雀虽小五脏俱全的课程会从01开始让你亲手造出一台计算机，并在上面运行俄罗斯方块小游戏。一门课里涵盖了编译、虚拟机、汇编、体系结构、数字电路、逻辑门等等从上至下、从软至硬的各类知识，非常全面。难度上也是通过精心的设计，略去了众多现代计算机复杂的细节，提取出了最核心本质的东西，力图让每个人都能理解。在低年级，如果就能从宏观上建立对整个计算机体系的鸟瞰图，是大有裨益的。
+
+#### 专业课
+当然，如果想深入现代计算机体系结构的复杂细节，还得上一门大学本科难度的课程[UCB CS61C: Great Ideas in Computer Architecture](体系结构/CS61C.md)。UC Berkeley作为RISC-V架构的发源地，在体系结构领域算得上首屈一指。其课程非常注重实践，你会在Project中手写汇编构造神经网络，从零开始搭建一个CPU，这些实践都会让你对计算机体系结构有更为深入的理解，而不是仅停留于“取指译码执行访存写回”的单调背诵里。
 
 ### 系统入门
+计算机系统是一个庞杂而深刻的主题，在深入学习某个细分领域之前，对各个领域有一个宏观概念性的理解，对一些通用性的设计原则有所知晓，会让你在之后的深入学习中不断强化一些最为核心乃至哲学的概念，而不会桎梏于复杂的内部细节和各种trick。因为在我看来，学习系统最关键的还是想让你领悟到这些最核心的东西，从而能够设计和实现出属于自己的系统。
+
+[MIT6.033: System Engineering](http://web.mit.edu/6.033/www/)是MIT的系统入门课，主题涉及了操作系统、网络、分布式和系统安全，除了知识点的传授外，这门课还会讲授一些写作和表达上的技巧，让你学会如何设计并向别人介绍和分析自己的系统。这本书配套的教材**Principles of Computer System Design: An Introduction**也写得非常好，推荐大家阅读。
+
+[CMU 15-213: Introduction to Computer System](体系结构/CSAPP.md)是CMU的系统入门课，内容覆盖了体系结构、操作系统、链接、并行、网络等等，兼具广度和深度，配套的教材**Computer Systems: A Programmer's Perspective**也是质量极高，强烈建议阅读。
 
 ### 操作系统
+操作系统作为所有应用软件和底层硬件交互的掌舵者，了解它的内部原理和设计原则对于一个不满足于调包侠的程序员来说是很有帮助的。同时，国外操统课程的质量也是让上了多年网课的我也感到瞠目结舌。
+
+[MIT 6.S081: Operating System Engineering](操作系统/MIT6.S081.md)，MIT著名PDOS实验室出品，11个Project会让你在一个2万多行的教学用迷你操作系统上增加各类功能模块。这门课也让我深刻认识到，做系统不是靠PPT念出来的，是得几万行代码一点点累起来的。
+
+[UCB CS162: Operating System](操作系统/CS162.md)，伯克利的操作系统课，采用和Stanford同样的Project —— 一个教学用操作系统Pintos。我作为下学期北京大学操作系统实验班的助教，会尝试引入这个Project，欢迎大家选课尝试，同时课程资源也会全部开源，目前[课程网站](https://pkuos.systems)正在建设当中。
 
 ### 并行与分布式系统
+想必这两年各类CS讲座里最常听到的话就是“摩尔定律正在走向终结”，此话不假。同时如今深度学习的兴起导致对计算机算力与存储的要求都达到了前所未有的高度，因此并行和分布式系统已成为一项热门技术话题。
+#### 并行计算
+[CMU 15-418/Stanford CS149: Parallel Computing](并行与分布式系统/CS149.md)
+#### 分布式系统
+[MIT 6.824: Distributed System](并行与分布式系统/MIT6.824.md)
 
 ### 系统安全
+不知道你当年选择计算机是不是因为怀着一个中二的黑客梦想，但现实却是成为黑客道阻且长。
+#### 理论
+[UCB CS161: Computer Security](系统安全/CS161.md)是伯克利的系统安全课程，会涵盖栈攻击、密码学、网站安全、网络安全等等内容。
+
+#### 实践
+掌握这些理论知识之后，还需要在实践中培养和锻炼这些“安全素养”。[CTF夺旗赛](https://ctf-wiki.org/)是一项比较热门的系统安全比赛，赛题中会融会贯通地考察你对计算机各个领域知识的理解和运用。北大今年也成功举办了[第0届和第1届](https://geekgame.pku.edu.cn/)，也鼓励大家后期踊跃参与，在实践中提高自己。下面列举一些我平时学习（摸鱼）用到的资源：
+
+- [CTF-wiki](https://ctf-wiki.org/)
+- [CTF-101](https://ctf101.org/)
+- [Hacker-101](https://ctf.hacker101.com/auth?error=0)
 
 ### 计算机网络
+计网著名教材《自顶向下方法》的配套学习资源[Computer Networking: A Top-Down Approach](计算机网络/topdown.md)。
+
+没有什么能比自己写个TCP/IP协议栈更能加深自己对计算机网络的理解了，所以不妨试试[Stanford CS144: Computer Network](计算机网络/CS144.md)，8个Project带你实现整个协议栈。
 
 ### 数据库系统
+没有什么能比自己写个关系型数据库更能加深自己对数据库系统的理解了。
+#### C++版
+[CMU 15-445: Introduction to Database System](https://15445.courses.cs.cmu.edu/fall2020/)
+#### Java版
+[UCB CS186: Introduction to Database System](数据库系统/CS186.md)
 
 ### 编译原理
+没有什么能比自己写个编译器更能加深自己对编译器的理解了。
+
+[Stanford CS143: Compilers](编译原理/CS143.md)
+
+### Web开发
+网站的开发很少在计算机的培养方案里被重视，但其实掌握这项技能还是好处多多的，例如搭建自己的个人主页，抑或是给自己的课程项目做一个精彩的展示网页。
+#### 两周速成版
+[MIT web development course](Web开发/mitweb.md)
+#### 系统学习版
+[Stanford CS142: Web Applications](Web开发/CS142.md)
 
 ### 数据科学
+[UCB Data100: Principles and Techniques of Data Science](数据科学/Data100.md)
 
 ### 人工智能
+#### 入门课
+[Harvard CS50’s Introduction to AI with Python](人工智能/CS50.md)
+#### 专业课
+[UCB CS188: Introduction to Artificial Intelligence](人工智能/CS188.md)
 
 ### 机器学习
+#### 入门课
+[Coursera: Machine Learning](机器学习/ML.md)
+#### 专业课
+- [Stanford CS229: Machine Learning](机器学习/CS229.md)
+- [UCB CS189: Introduction to Machine Learning](机器学习/CS189.md)
 
 ### 深度学习
+#### 入门课
+- [Coursera: Deep Learning](深度学习/CS230.md)
+- [台湾国立大学：李宏毅机器学习](深度学习/LHY.md)
+#### 计算机视觉
+[Stanford CS231n: CNN for Visual Recognition](深度学习/CS231.md)
+#### 自然语言处理
+[Stanford CS224n: Natural Language Processing](深度学习/CS224n.md)
+#### 图神经网络
+[Stanford CS224w: Machine Learning with Graphs](深度学习/CS224w.md)
+#### 强化学习
+[UCB CS285: Deep Reinforcement Learning](深度学习/CS285.md)
 
 ## <a id="yourmap">定制属于你的课程地图</a>
 > 授人以鱼不如授人以渔。
