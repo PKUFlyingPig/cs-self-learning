@@ -11,7 +11,9 @@ nav:
     - Git: '必学工具/Git.md'
     - Github: '必学工具/Github.md'
     - Makefile: '必学工具/Makefile.md'
+    - CMake: '必学工具/CMake.md'
     - Latex: '必学工具/Latex.md'
+    - Docker: '必学工具/Docker.md'
     - 实用工具箱: '必学工具/tools.md'
   - 好书推荐: '好书推荐.md'
   - 数学基础:
@@ -56,6 +58,7 @@ nav:
     - 'Stanford CS144: Computer Network': '计算机网络/CS144.md'
   - 数据库系统:
     - 'UCB CS186: Introduction to Database System': '数据库系统/CS186.md'
+    - 'CMU 15-445: Database Systems': '数据库系统/15445.md'
   - 编译原理:
     - 'Stanford CS143: Compilers': '编译原理/CS143.md'
   - Web开发:
