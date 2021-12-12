@@ -13,6 +13,7 @@ nav:
     - Makefile: '必学工具/Makefile.md'
     - Latex: '必学工具/Latex.md'
     - 实用工具箱: '必学工具/tools.md'
+  - 好书推荐: '好书推荐.md'
   - 数学基础:
     - 'MIT18.01/18.02: Calculus': '数学基础/MITmaths.md'
     - 'MIT18.06: Linear Algebra': '数学基础/MITLA.md'
