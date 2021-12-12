@@ -77,3 +77,4 @@ nav:
     - 'Stanford CS224n: Natural Language Processing': '深度学习/CS224n.md'
     - 'Stanford CS224w: Machine Learning with Graphs': '深度学习/CS224w.md'
     - 'UCB CS285: Deep Reinforcement Learning': '深度学习/CS285.md'
+  - 后记: '后记.md'
