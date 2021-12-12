@@ -50,7 +50,7 @@ under construction.
 
 [ComputationalThinking](https://computationalthinking.mit.edu/Spring21/)是MIT开设的一门计算思维入门课，所有课程内容全部开源，可以在课程网站直接访问。这门课利用Julia编程语言，在图像处理、社会科学与数据科学、气候学建模三个topic下带领学生理解算法、数学建模、数据分析、交互设计、图例展示，让学生体验计算与科学的美妙结合。内容虽然不难，但给我最深刻的感受就是，科学的魅力并不是故弄玄虚的艰深理论，不是诘屈聱牙的术语行话，而是用直观生动的案例，用简练深刻的语言，让每个普通人都能理解。
 
-上完上面的体验课之后，如果意犹未尽的话，不妨试试MIT的[18.330 : Introduction to numerical analysis](./数学进阶/numerical.md)，这门课的编程作业同样会用Julia编程语言，不过难度和深度上都上了一个台阶。内容涉及了浮点编码、Root finding、线性系统、微分方程等等方面，整门课的主旨就是让你利用离散化的计算机表示去估计和逼近一个数学上连续的概念。这门课的教授还专门撰写了一本配套的开源教材[Fundamentals of Numerical Computation](studyh5.zhihuishu.com/videoStudy.html#/studyVideo?recruitAndCourseId=425a5f5a43524258454a58595e465144)，里面附有丰富的Julia代码实例和严谨的公式推导。
+上完上面的体验课之后，如果意犹未尽的话，不妨试试MIT的[18.330 : Introduction to numerical analysis](./数学进阶/numerical.md)，这门课的编程作业同样会用Julia编程语言，不过难度和深度上都上了一个台阶。内容涉及了浮点编码、Root finding、线性系统、微分方程等等方面，整门课的主旨就是让你利用离散化的计算机表示去估计和逼近一个数学上连续的概念。这门课的教授还专门撰写了一本配套的开源教材[Fundamentals of Numerical Computation](https://fncbook.github.io/fnc/frontmatter.html)，里面附有丰富的Julia代码实例和严谨的公式推导。
 
 如果你还意犹未尽的话，还有MIT的研究生课程[18.335: Introduction to numerical method](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm)供你参考。
 #### 微分方程
@@ -72,7 +72,6 @@ under construction.
 #### 密码学
 [Standford CS255: Cryptography](http://crypto.stanford.edu/~dabo/cs255/)
 
-
 ### 编程入门
 在学习主流编程语言的同时，培养利用编程抽象来解决实际问题的能力。
 #### Shell
@@ -84,6 +83,13 @@ under construction.
 - [Stanford CS106L: Standard C++ Programming](编程入门/CS106L.md)
 #### Rust
 - [Stanford CS110L: Safety in Systems Programming](编程入门/CS110L.md)
+
+### 电子基础
+#### 电路基础
+作为计算机系的学生，了解一些基础的电路知识，感受从传感器收集数据到数据分析再到算法预测整条流水线，对于后续知识的学习以及计算思维的培养还是很有帮助的。[EE16A&B: Designing Information Devices and Systems I&II](./电子基础/EE16.md)是伯克利EE学生的大一入门课，其中EE16A注重通过电路从实际环境中收集和分析数据，而EE16B则侧重从这些收集到的数据进行分析并做出预测行为。
+#### 信号与系统
+信号与系统是一门我觉得非常值得一上的课，最初学它只是为了满足我对傅里叶变换的好奇，但学完之后我才不禁感叹，傅立叶变换给我提供了一个全新的视角去看待这个世界，就如同微分方程一样，让你沉浸在用数学去精确描绘和刻画这个世界的优雅与神奇之中。
+[MIT 6.003 : signal and systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/lecture-videos/lecture-1-signals-and-systems/)提供了全部的课程录影、书面作业以及答案。而[UCB EE120 : Signal and Systems](电子基础/signal.md)关于傅立叶变换的notes写得非常好，并且提供了6个非常有趣的Python编程作业，让你实践中运用信号与系统的理论与算法。
 
 ### 数据结构与算法
 #### 数据结构与算法

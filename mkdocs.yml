@@ -28,6 +28,9 @@ nav:
     - 'UCB CS61A: Structure and Interpretation of Computer Programs': '编程入门/CS61A.md'
     - 'Stanford CS106L: Standard C++ Programming': '编程入门/CS106L.md'
     - 'Stanford CS110L: Safety in Systems Programming': '编程入门/CS110L.md'
+  - 电子基础:
+    - 'EE16A&B: Designing Information Devices and Systems I&II': '电子基础/EE16.md'
+    - 'UCB EE120 : Signal and Systems': '电子基础/signal.md'
   - 数据结构与算法:
     - 'UCB CS61B: Data Structures and Algorithms': '数据结构与算法/CS61B.md'
     - 'Coursera: Algorithms I & II': '数据结构与算法/Algo.md'

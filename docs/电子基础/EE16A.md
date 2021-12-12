@@ -1,1 +1,0 @@
-# EE16A: Designing Information Devices and Systems I
