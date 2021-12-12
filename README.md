@@ -16,3 +16,8 @@
 你可以[在线免费阅读这本书](https://pkuflyingpig.github.io/pku-cs-self-learning/)。
 
 英文版请移步[这里](https://github.com/PKUFlyingPig/Self-learning-Computer-Science)。
+
+## 如何成为贡献者
+一个人的力量终究是有限的，对于书中任意章节你若有想要补充的内容，欢迎各位提出[Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)。如果你想贡献一门新的课程，可以参考目前repo中的[template](./template.md)文件作为模版。
+
+同时由于个人水平有限，书中难免有笔误甚至概念错误之处，也请各位不吝赐教，在issue中提出来。

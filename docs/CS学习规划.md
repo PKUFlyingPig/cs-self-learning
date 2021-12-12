@@ -18,7 +18,11 @@ IDE（Integrated Development Environment）：集成开发环境，说白了就�
 
 [Makefile](必学工具/Makefile.md)：一款工程构建工具。善用Makefile会让你养成代码模块化的习惯，同时也能让你熟悉一些大型工程的编译链接流程。
 
+[CMake](必学工具/CMake.md)：一款功能比Makefile更为强大的构建工具，建议掌握Makefile之后再加以学习。
+
 [LaTex](必学工具/Latex.md)：<del>逼格提升</del>论文排版工具。
+
+[Docker](必学工具/Docker.md)：一款相较于虚拟机更轻量级的软件打包与环境部署工具。
 
 [实用工具箱](必学工具/tools.md)：除了上面提到的这些在开发中使用频率极高的工具之外，我还收集了很多实用有趣的免费工具，例如一些下载工具、设计工具、学习网站等等。
 
