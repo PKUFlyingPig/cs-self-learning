@@ -18,6 +18,11 @@
 英文版请移步[这里](https://github.com/PKUFlyingPig/Self-learning-Computer-Science)。
 
 ## 如何成为贡献者
-一个人的力量终究是有限的，对于书中任意章节你若有想要补充的内容，欢迎各位提出[Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)。如果你想贡献一门新的课程，可以参考目前repo中的[template](./template.md)文件作为模版。
+一个人的力量终究是有限的，对于书中任意章节你若有想要补充的内容，欢迎各位提出[Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)。如果你想贡献一门新的课程，可以参考目前repo中的[template](./template.md)文件作为模版，并在[mkdocs.yml](./mkdocs.yml)文件中添加其navigation，当然你还可以在[CS学习规划](./CS学习规划.md)里的对应模块为其添加言简意赅的导语。
 
 同时由于个人水平有限，书中难免有笔误甚至概念错误之处，也请各位不吝赐教，在issue中提出来。
+
+## 关于交流社区的建立
+考虑到大家自学的需求、内容、方向参差不齐且众口难调，如果建立一个统一的QQ群会显得较为杂乱且难以管理。而考虑到大家建立交流群的目的大多是为了能结识志同道合的好友共同学习某一项课程，交流心得的同时起到互相监督的作用。因此如果你想自学某课程A，可以自己建立群聊后（QQ微信皆可）在issue里以`help wanted`绿色label的形式提交（在编写issue界面右侧可以选择label，这样方便后来人搜索过滤）。当然如果issue里已经有前人建立了类似群聊，可以直接加入。
+
+北大内部群可以在树洞内搜索加入。
