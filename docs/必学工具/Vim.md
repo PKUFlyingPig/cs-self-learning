@@ -16,3 +16,7 @@ Vim的学习资料浩如烟海，但掌握它最好的方式还是将它用在�
 - 用Vim自带的vimtutor进行练习，安装完Vim之后直接在命令行里输入vimtutor即可进入练习程序。
 - 最后就是强迫自己使用Vim进行开发，IDE里可以安装Vim插件。
 - 等你完全适应Vim之后新的世界便向你敞开了大门，你可以按需配置自己的Vim（修改.vimrc文件），网上有数不胜数的资源可以借鉴。
+
+## 推荐参考资料
+- Neil, Drew. Practical Vim: Edit Text at the Speed of Thought. N.p., Pragmatic Bookshelf, 2015.
+- Neil, Drew. Modern Vim: Craft Your Development Environment with Vim 8 and Neovim. United States, Pragmatic Bookshelf.
