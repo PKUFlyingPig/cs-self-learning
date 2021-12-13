@@ -61,6 +61,8 @@ nav:
     - 'CMU 15-445: Database Systems': '数据库系统/15445.md'
   - 编译原理:
     - 'Stanford CS143: Compilers': '编译原理/CS143.md'
+  - 计算机图形学:
+    - 'Games101': '计算机图形学/GAMES101.md'
   - Web开发:
     - 'MIT web development course': 'Web开发/mitweb.md'
     - 'Stanford CS142: Web Applications': 'Web开发/CS142.md'
