@@ -85,7 +85,7 @@ under construction.
 [Standford CS255: Cryptography](http://crypto.stanford.edu/~dabo/cs255/)
 
 ### 编程入门
-在学习主流编程语言的同时，培养利用编程抽象来解决实际问题的能力。
+> Languages are tools, you choose the right tool to do the right thing. Since there's no universally perfect tool, there's no universally perfect language.
 #### Shell
 - [MIT-Missing-Semester](编程入门/MIT-Missing-Semester.md)
 #### Python
@@ -95,6 +95,8 @@ under construction.
 - [Stanford CS106L: Standard C++ Programming](编程入门/CS106L.md)
 #### Rust
 - [Stanford CS110L: Safety in Systems Programming](编程入门/CS110L.md)
+#### OCaml
+- [Cornell CS3110 textbook: Functional Programming in OCaml](https://cs3110.github.io/textbook/cover.html)
 
 ### 电子基础
 #### 电路基础
