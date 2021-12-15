@@ -53,6 +53,7 @@ nav:
     - 'MIT 6.824: Distributed System': '并行与分布式系统/MIT6.824.md'
   - 计算机系统安全:
     - 'UCB CS161: Computer Security': '系统安全/CS161.md'
+    - 'MIT 6.858: Computer System Security': '系统安全/MIT6.858.md'
   - 计算机网络:
     - 'Computer Networking: A Top-Down Approach': '计算机网络/topdown.md'
     - 'Stanford CS144: Computer Network': '计算机网络/CS144.md'
