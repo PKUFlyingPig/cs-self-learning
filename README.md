@@ -1,6 +1,8 @@
 # CS自学指南
 > *Everyone should enjoy CS if you have a good teacher to teach you a good course.*
 
+**:tada:更新：本书最新网址 [csdiy.wiki](https://csdiy.wiki) ，欢迎大家访问 ～:tada:**
+
 新冠肆虐，网课当道，CS爆火，这一系列的事件都让自学计算机成为了一种潮流。
 
 随着欧美众多名校将质量极高的计算机课程全部开源，自学CS成了一件可操作性极强的事情。毫不夸张的说，只要你有毅力和兴趣，自学的成果完全不亚于你在国内任何一所大学受到的本科CS教育（当然，这里单指计算机专业领域，大学带给你的显然不止是专业知识）。
