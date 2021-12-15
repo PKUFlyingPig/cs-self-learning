@@ -3,6 +3,7 @@
 - [Libgen](http://libgen.is/)：PDF电子书下载网站。
 - [z-epub](https://z-epub.com/)：ePub电子书下载网站。
 - [bitdownloader](https://bitdownloader.io/)：油管视频下载器。
+- [zlibrary](https://1lib.limited/)：电子书下载网站(可能需要翻墙)。
 
 ## 设计工具
 - [excalidraw](https://excalidraw.com/%E4%B9%88)：一款手绘风格的绘图工具，非常适合绘制课程报告或者PPT内的示意图。
