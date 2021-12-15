@@ -1,7 +1,7 @@
 site_name: CS自学指南
 theme:
   name: material
-repo_url: https://github.com/pkuflyingpig/pku-cs-self-learning/
+repo_url: https://github.com/pkuflyingpig/cs-self-learning/
 nav:
   - 前言: 'index.md'
   - 一个仅供参考的CS学习规划: 'CS学习规划.md'
