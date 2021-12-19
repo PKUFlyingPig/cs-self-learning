@@ -14,6 +14,8 @@
 - 课程视频：[bilibili](https://space.bilibili.com/494117284)
 - 课程教材：智能计算系统（陈云霁）
 - 课程作业：6个实验(包括编写卷积算子，为tensorflow添加算子，用BCL编写算子并集成到tensorflow中等)(具体内容在官网可以找到)
+- [实验手册](http://forum.cambricon.com/show-8-708-1.html)：实验2.0指导手册
+- [学习笔记](https://sanzo.top/categories/AI-Computing-Systems/)：参考实验手册总结的笔记
 
 ## 资源汇总
 我在学习这门课中用到的所有资源和作业实现都汇总在[这个Github仓库](https://github.com/ysj1173886760/Learning/tree/master/ai-system)中。
