@@ -20,7 +20,7 @@ CS61B和CS61C在本书中均有收录。
 
 ## 课程资源
 - [课程网站](https://inst.eecs.berkeley.edu/~cs61a/su20/)
-- [课程视频](https://www.youtube.com/watch?v=0_LryzvBxFw&list=PL6BsET-8jgYVkdaPYJNyvuNga3QA_U1gA)
+- 课程视频: 参见课程网站链接
 - [课程教材](http://composingprograms.com/)
 - 课程作业：课程网站会有每个作业对应的文档链接以及代码框架的下载链接。
 
