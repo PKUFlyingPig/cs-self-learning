@@ -36,7 +36,9 @@ IDE（Integrated Development Environment）：集成开发环境，说白了就�
 
 > 实际上的开发 —— 配环境配几天还没开始写代码。
 
-under construction.
+一份灵感来自 [6.NULL MIT-Missing-Semester](编程入门/MIT-Missing-Semester.md) 的 [环境配置指南](https://taylover2016.github.io/%E6%96%B0%E6%9C%BA%E5%99%A8%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97%EF%BC%88%E6%96%B0%E6%89%8B%E5%90%91%EF%BC%89/index.html)，重点在于终端的美化配置。此外还包括常用软件源（如`GitHub`, `Anaconda`, `pip`等）的加速与替换以及一些IDE的配置与激活教程。
+
+More contents under construction.
 
 ## 课程地图
 > 正如这章开头提到的，这份课程地图仅仅是一个**仅供参考**的课程规划，我作为一个临近毕业的本科生。深感自己没有权利也没有能力向别人宣扬“应该怎么学”。因此如果你觉得以下的课程分类与选择有不合理之处，我全盘接受，并深感抱歉。你可以在下一节<a href="#yourmap">定制属于你的课程地图</a>
