@@ -21,3 +21,5 @@ CMU大名鼎鼎的镇系神课，以其内容庞杂，project巨难而闻名遐�
 - [课程视频](https://www.bilibili.com/video/BV1iW411d7hd?from=search&seid=10373073684006382632&spm_id_from=333.337.0.0)
 - 课程教材：Computer Systems: A Programmer's Perspective, 3/E
 - 课程作业：11个Project，[代码框架全部开源](http://csapp.cs.cmu.edu/3e/labs.html)
+
+补充：相信大家在看完CSAPP这本书以后，可能会对书中的第七章链接有一定的疑问。这里推荐一本书《程序员的自我修养》，书的副标题是链接，装载与库。这本书能够帮助我们完善对程序链接的理解，以及对CSAPP第七章部分知识点的一个详细的阐述。相信你在看完这本书以后可以对程序的链接，ELF文件，动态库有一个更加深入的理解。十分推荐在读完CSAPP，对计算机系统有一定的了解以后作为补充资料来阅读。
