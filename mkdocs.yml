@@ -19,14 +19,14 @@ nav:
   - 数学基础:
     - 'MIT18.01/18.02: Calculus': '数学基础/MITmaths.md'
     - 'MIT18.06: Linear Algebra': '数学基础/MITLA.md'
-    - 'MIT 6.042J: Mathematics for Computer Science': '数学基础/6.042J.md'
     - 'MIT6.050J: Information theory and Entropy': '数学基础/information.md'
-    - 'The Information Theory, Patter Recognition, and Neural Networks': '数学基础/The Information Theory, Pattern Recognition, and Neural Networks.md'
   - 数学进阶:
     - 'UCB CS70: discrete Math and probability theory': '数学进阶/CS70.md'
     - 'UCB CS126: probability theory': '数学进阶/CS126.md'
+    - 'MIT 6.042J: Mathematics for Computer Science': '数学进阶/6.042J.md'
     - 'MIT18.330: Introduction to numerical analysis': '数学进阶/numerical.md'
     - 'Standford EE364A: Convex Optimization': '数学进阶/convex.md'
+    - 'The Information Theory, Patter Recognition, and Neural Networks': '数学进阶/The Information Theory, Pattern Recognition, and Neural Networks.md'
   - 编程入门:
     - 'MIT-Missing-Semester': '编程入门/MIT-Missing-Semester.md'
     - 'Harvard CS50: This is CS50x': '编程入门/CS50.md'
@@ -34,13 +34,13 @@ nav:
     - 'Stanford CS106L: Standard C++ Programming': '编程入门/CS106L.md'
     - 'Stanford CS110L: Safety in Systems Programming': '编程入门/CS110L.md'
   - 电子基础:
-    - 'MIT 6.007 Signals and Systems': '电子基础/Signals and Systems_AVO.md'
     - 'EE16A&B: Designing Information Devices and Systems I&II': '电子基础/EE16.md'
     - 'UCB EE120 : Signal and Systems': '电子基础/signal.md'
+    - 'MIT 6.007 Signals and Systems': '电子基础/Signals and Systems_AVO.md'
   - 数据结构与算法:
-    - 'CS106B/X': '数据结构与算法/CS106B_CS106X.md'
     - 'UCB CS61B: Data Structures and Algorithms': '数据结构与算法/CS61B.md'
     - 'Coursera: Algorithms I & II': '数据结构与算法/Algo.md'
+    - 'Stanford CS106B/X': '数据结构与算法/CS106B_CS106X.md'
     - 'UCB CS170: Efficient Algorithms and Intractable Problems': '数据结构与算法/CS170.md'
   - 软件工程:
     - 'MIT 6.031: Software Construction': '软件工程/6031.md'
