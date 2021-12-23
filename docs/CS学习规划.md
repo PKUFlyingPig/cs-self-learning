@@ -91,7 +91,7 @@ More contents under construction.
 #### Shell
 - [MIT-Missing-Semester](编程入门/MIT-Missing-Semester.md)
 #### Python
-- [Harvard CS50: This is CS50x](编程入门/CS50.md)
+- [Harvard CS50: This is CS50x](编程入门/CS50.md) 最好的计算机基础入门课，你绝对会爱上的。
 - [UCB CS61A: Structure and Interpretation of Computer Programs](编程入门/CS61A.md)
 #### C++
 - [Stanford CS106L: Standard C++ Programming](编程入门/CS106L.md)
