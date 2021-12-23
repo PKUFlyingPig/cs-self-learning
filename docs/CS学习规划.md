@@ -105,10 +105,12 @@ More contents under construction.
 作为计算机系的学生，了解一些基础的电路知识，感受从传感器收集数据到数据分析再到算法预测整条流水线，对于后续知识的学习以及计算思维的培养还是很有帮助的。[EE16A&B: Designing Information Devices and Systems I&II](./电子基础/EE16.md)是伯克利EE学生的大一入门课，其中EE16A注重通过电路从实际环境中收集和分析数据，而EE16B则侧重从这些收集到的数据进行分析并做出预测行为。
 #### 信号与系统
 信号与系统是一门我觉得非常值得一上的课，最初学它只是为了满足我对傅里叶变换的好奇，但学完之后我才不禁感叹，傅立叶变换给我提供了一个全新的视角去看待这个世界，就如同微分方程一样，让你沉浸在用数学去精确描绘和刻画这个世界的优雅与神奇之中。
-[MIT 6.003 : signal and systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/lecture-videos/lecture-1-signals-and-systems/)提供了全部的课程录影、书面作业以及答案。而[UCB EE120 : Signal and Systems](电子基础/signal.md)关于傅立叶变换的notes写得非常好，并且提供了6个非常有趣的Python编程作业，让你实践中运用信号与系统的理论与算法。
+[MIT 6.003 : signal and systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/lecture-videos/lecture-1-signals-and-systems/)提供了全部的课程录影、书面作业以及答案。也可以去看这门课的[远古版本](电子基础/Signals%20and%20Systems_AVO.md)
+而[UCB EE120 : Signal and Systems](电子基础/signal.md)关于傅立叶变换的notes写得非常好，并且提供了6个非常有趣的Python编程作业，让你实践中运用信号与系统的理论与算法。
 
 ### 数据结构与算法
 #### 数据结构与算法
+- [Stanford CS106B/X: Programming Abstractions](数据结构与算法/CS106B_CS106X.md)
 - [UCB CS61B: Data Structures and Algorithms](数据结构与算法/CS61B.md)
 - [Coursera: Algorithms I & II](数据结构与算法/Algo.md)
 #### 算法设计与分析
