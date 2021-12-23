@@ -36,7 +36,9 @@ IDE（Integrated Development Environment）：集成开发环境，说白了就�
 
 > 实际上的开发 —— 配环境配几天还没开始写代码。
 
-under construction.
+一份灵感来自 [6.NULL MIT-Missing-Semester](编程入门/MIT-Missing-Semester.md) 的 [环境配置指南](https://taylover2016.github.io/%E6%96%B0%E6%9C%BA%E5%99%A8%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97%EF%BC%88%E6%96%B0%E6%89%8B%E5%90%91%EF%BC%89/index.html)，重点在于终端的美化配置。此外还包括常用软件源（如`GitHub`, `Anaconda`, `pip`等）的加速与替换以及一些IDE的配置与激活教程。
+
+More contents under construction.
 
 ## 课程地图
 > 正如这章开头提到的，这份课程地图仅仅是一个**仅供参考**的课程规划，我作为一个临近毕业的本科生。深感自己没有权利也没有能力向别人宣扬“应该怎么学”。因此如果你觉得以下的课程分类与选择有不合理之处，我全盘接受，并深感抱歉。你可以在下一节<a href="#yourmap">定制属于你的课程地图</a>
@@ -89,7 +91,7 @@ under construction.
 #### Shell
 - [MIT-Missing-Semester](编程入门/MIT-Missing-Semester.md)
 #### Python
-- [Harvard CS50: This is CS50x](编程入门/CS50.md)
+- [Harvard CS50: This is CS50x](编程入门/CS50.md) 最好的计算机基础入门课，你绝对会爱上的。
 - [UCB CS61A: Structure and Interpretation of Computer Programs](编程入门/CS61A.md)
 #### C++
 - [Stanford CS106L: Standard C++ Programming](编程入门/CS106L.md)
@@ -103,10 +105,12 @@ under construction.
 作为计算机系的学生，了解一些基础的电路知识，感受从传感器收集数据到数据分析再到算法预测整条流水线，对于后续知识的学习以及计算思维的培养还是很有帮助的。[EE16A&B: Designing Information Devices and Systems I&II](./电子基础/EE16.md)是伯克利EE学生的大一入门课，其中EE16A注重通过电路从实际环境中收集和分析数据，而EE16B则侧重从这些收集到的数据进行分析并做出预测行为。
 #### 信号与系统
 信号与系统是一门我觉得非常值得一上的课，最初学它只是为了满足我对傅里叶变换的好奇，但学完之后我才不禁感叹，傅立叶变换给我提供了一个全新的视角去看待这个世界，就如同微分方程一样，让你沉浸在用数学去精确描绘和刻画这个世界的优雅与神奇之中。
-[MIT 6.003 : signal and systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/lecture-videos/lecture-1-signals-and-systems/)提供了全部的课程录影、书面作业以及答案。而[UCB EE120 : Signal and Systems](电子基础/signal.md)关于傅立叶变换的notes写得非常好，并且提供了6个非常有趣的Python编程作业，让你实践中运用信号与系统的理论与算法。
+[MIT 6.003 : signal and systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/lecture-videos/lecture-1-signals-and-systems/)提供了全部的课程录影、书面作业以及答案。也可以去看这门课的[远古版本](电子基础/Signals%20and%20Systems_AVO.md)
+而[UCB EE120 : Signal and Systems](电子基础/signal.md)关于傅立叶变换的notes写得非常好，并且提供了6个非常有趣的Python编程作业，让你实践中运用信号与系统的理论与算法。
 
 ### 数据结构与算法
 #### 数据结构与算法
+- [Stanford CS106B/X: Programming Abstractions](数据结构与算法/CS106B_CS106X.md)
 - [UCB CS61B: Data Structures and Algorithms](数据结构与算法/CS61B.md)
 - [Coursera: Algorithms I & II](数据结构与算法/Algo.md)
 #### 算法设计与分析
