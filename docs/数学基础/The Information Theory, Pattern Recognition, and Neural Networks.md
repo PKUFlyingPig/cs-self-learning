@@ -5,6 +5,8 @@
 - 课程难度：🌟🌟🌟
 - 预计学时：30-50 小时
 
+剑桥大学 Sir David MacKay 教授的信息论课程。教授是一位十分精通信息论与神经网络的学者，课程对应教材也是信息论领域的一部经典著作。可惜天妒英才...
+
 ## 课程资源
 - [课程网站](http://www.inference.org.uk/mackay/itila/)
 - [课程视频](https://www.bilibili.com/video/BV1rs411T71e)
