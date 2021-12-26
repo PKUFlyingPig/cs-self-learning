@@ -36,7 +36,9 @@ IDE（Integrated Development Environment）：集成开发环境，说白了就�
 
 > 实际上的开发 —— 配环境配几天还没开始写代码。
 
-一份灵感来自 [6.NULL MIT-Missing-Semester](编程入门/MIT-Missing-Semester.md) 的 [环境配置指南](https://taylover2016.github.io/%E6%96%B0%E6%9C%BA%E5%99%A8%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97%EF%BC%88%E6%96%B0%E6%89%8B%E5%90%91%EF%BC%89/index.html)，重点在于终端的美化配置。此外还包括常用软件源（如`GitHub`, `Anaconda`, `pip`等）的加速与替换以及一些IDE的配置与激活教程。
+推荐一个非常不错的Github项目[DevOps-Guide](https://github.com/Tikam02/DevOps-Guide)，其中涵盖了非常多的运维方面的基础知识和教程，例如Docker，K8s，Linux，CI-CD，Github Actions等等。
+
+另外大家可以参考一份灵感来自 [6.NULL MIT-Missing-Semester](编程入门/MIT-Missing-Semester.md) 的 [环境配置指南](https://taylover2016.github.io/%E6%96%B0%E6%9C%BA%E5%99%A8%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97%EF%BC%88%E6%96%B0%E6%89%8B%E5%90%91%EF%BC%89/index.html)，重点在于终端的美化配置。此外还包括常用软件源（如`GitHub`, `Anaconda`, `pip`等）的加速与替换以及一些IDE的配置与激活教程。
 
 More contents under construction.
 
