@@ -7,3 +7,6 @@
 [Docker 官方文档](https://docs.docker.com/)当然是最好的初学教材，但最好的导师一定是你自己——尝试去使用Docker才能享受它带来的便利。Docker在工业界发展迅猛并已经非常成熟，你可以下载它的桌面端并使用图形界面。
 
 当然，如果你像我一样，是一个疯狂的造轮子爱好者，那不妨自己亲手写一个[迷你Docker](https://github.com/PKUFlyingPig/rubber-docker)来加深理解。
+
+[KodeKloud Docker for the Absolute Beginner](https://kodekloud.com/courses/docker-for-the-absolute-beginner/) 全面的介绍了Docker的基础功能，并且有大量的配套练习，同时提供免费的云环境来完成练习。其余的云相关的课程如Kubernetes需要付费，但个人强烈推荐：讲解非常仔细，适合从0开始的新手；有配套的Kubernetes的实验环境，不用被搭建环境劝退。
+
