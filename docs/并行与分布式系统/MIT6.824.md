@@ -19,4 +19,4 @@
 - 课程作业：4个非常虐的Project，具体要求参见课程网站
 
 ## 资源汇总
-我在学习这门课中用到的所有资源和作业实现都汇总在[这个Github仓库](https://github.com/PKUFlyingPig/MIT6.824)中。
+我在学习这门课中用到的所有资源和作业实现都汇总在[这个Github仓库](https://github.com/PKUFlyingPig/MIT6.824)中。此外也可以参考 [OneSizeFitsQuorum](https://github.com/OneSizeFitsQuorum) 的 [lab 文档](https://github.com/OneSizeFitsQuorum/MIT6.824-2021)，其较为清晰地介绍了实现 lab1-4 和 challenge1-2 需要考虑的许多细节，在遇到瓶颈期时可以阅读一下~
