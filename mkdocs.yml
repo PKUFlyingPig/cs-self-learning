@@ -1,7 +1,74 @@
 site_name: CS自学指南
+site_url: https://csdiy.wiki/
+site_author: PKUFlyingPig
+site_description: >-
+  CS自学指南
+
+repo_name: cs-self-learning
+repo_url: https://github.com/pkuflyingpig/cs-self-learning/
+
+copyright: Copyright &copy; 2021-present <a href="https://github.com/PKUFlyingPig" target="_blank" rel="noopener noreferrer">PKUFlyingPig</a>
+
 theme:
   name: material
-repo_url: https://github.com/pkuflyingpig/cs-self-learning/
+  language: zh
+
+  static_templates:
+    - 404.html
+
+  include_search_page: false
+  search_index_only: true
+
+  features:
+    - header.autohide
+    # - navigation.instant
+    # - navigation.expand
+    # - navigation.sections
+    - navigation.tracking
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    # - navigation.indexes
+    - search.highlight
+    - search.share
+    - search.suggest
+    # - toc.integrate
+    - content.code.annotate
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light blue
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: cyan
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search:
+      lang: ja
+  - git-revision-date-localized
+  - minify:
+      minify_html: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/pkuflyingpig/cs-self-learning/
+
 nav:
   - 前言: 'index.md'
   - 一个仅供参考的CS学习规划: 'CS学习规划.md'
@@ -45,7 +112,7 @@ nav:
   - 软件工程:
     - 'MIT 6.031: Software Construction': '软件工程/6031.md'
     - 'UCB CS169: software engineering': '软件工程/CS169.md'
-  - 体系结构: 
+  - 体系结构:
     - 'Coursera: Nand2Tetris': '体系结构/N2T.md'
     - 'UCB CS61C: Great Ideas in Computer Architecture': '体系结构/CS61C.md'
     - 'CMU 15-213: CSAPP': '体系结构/CSAPP.md'
@@ -79,7 +146,7 @@ nav:
     - '智能计算系统': '人工智能/CYJ.md'
   - 机器学习:
     - 'Coursera: Machine Learning': '机器学习/ML.md'
-    - 'Stanford CS229: Machine Learning': '机器学习/CS229.md' 
+    - 'Stanford CS229: Machine Learning': '机器学习/CS229.md'
     - 'UCB CS189: Introduction to Machine Learning': '机器学习/CS189.md'
   - 深度学习:
     - 'Coursera: Deep Learning': '深度学习/CS230.md'

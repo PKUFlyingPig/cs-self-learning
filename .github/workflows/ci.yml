@@ -1,17 +1,22 @@
-name: ci 
+name: ci
+
 on:
   push:
-    branches: 
+    branches:
       - master
       - main
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      - run: pip install mkdocs-material 
-      - run: mkdocs gh-deploy --force
 
+      - run: pip3 install -U -r requirements.txt
+      - run: mkdocs gh-deploy --force
