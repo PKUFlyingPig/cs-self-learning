@@ -1,4 +1,4 @@
-mkdocs-material
+mkdocs-material==7.3.6
 
 mkdocs-minify-plugin >= 0.4.0
 mkdocs-git-revision-date-localized-plugin >= 0.9.3
