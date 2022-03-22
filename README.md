@@ -1,7 +1,7 @@
 # CS自学指南
 > *Everyone should enjoy CS if you have a good teacher to teach you a good course.*
 
-**:tada:更新：本书最新网址 [csdiy.wiki](https://csdiy.wiki) ，欢迎大家访问 ～:tada:**
+**:tada:更新：本书添加了评论功能，欢迎大家在课程页面下方组队学习 ～:tada:**
 
 新冠肆虐，网课当道，CS爆火，这一系列的事件都让自学计算机成为了一种潮流。
 
@@ -25,7 +25,7 @@
 同时由于个人水平有限，书中难免有笔误甚至概念错误之处，也请各位不吝赐教，在issue中提出来。
 
 ## 关于交流社区的建立
-考虑到大家自学的需求、内容、方向参差不齐且众口难调，如果建立一个统一的QQ群会显得较为杂乱且难以管理。而考虑到大家建立交流群的目的大多是为了能结识志同道合的好友共同学习某一项课程，交流心得的同时起到互相监督的作用。因此如果你想自学某课程，可以自己建立群聊后（QQ微信皆可）提交一个issue，注明你想学习的课程以及加入交流群的途径，我将给这类issue打上`help wanted`的绿色label（这样方便后来人搜索过滤）。当然如果issue里已经有前人建立了类似群聊，可以直接加入。我在issue里提交了一个[简单的例子](https://github.com/PKUFlyingPig/cs-self-learning/issues/11)，供大家参考。
+本书支持页面评论功能，因此如果你想自学某课程，可以自己建立群聊后（QQ微信皆可）在对应的课程页面下方发表评论，注明你的学习目标以及加入交流群的途径。此外，过去已有不少朋友在issue里建立了类似群聊，可以自行选择直接加入。
 
 ## 许可
 项目贡献者编写的部分依照[MIT LICENSE](https://www.tawesoft.co.uk/kb/article/mit-license-faq)。
