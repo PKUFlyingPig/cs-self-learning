@@ -13,4 +13,5 @@
 ## 学习网站
 - [HFS](https://hepsoftwarefoundation.org/training/curriculum.html)：各类软件教程。
 - [os-wiki](https://wiki.osdev.org/Main_Page)：操作系统技术资源百科全书。
+- [Shadertoy](https://www.shadertoy.com/): 编写各式各样的shader。
 
