@@ -9,6 +9,7 @@
 - [origamiway](https://www.origamiway.com/paper-folding-crafts-step-by-step.shtml)：手把手教你怎么折纸。
 - [thingiverse](https://www.thingiverse.com/)：囊括各类2D/3D设计资源，其STL文件下载可直接3D打印。
 - [iconfont](https://www.iconfont.cn)：国内最大的图标和插画资源库，可用于开发或绘制系统架构图。
+- [turbosquid](https://www.turbosquid.com/): 可以购买各式各样的模型。
 
 ## 学习网站
 - [HFS](https://hepsoftwarefoundation.org/training/curriculum.html)：各类软件教程。
