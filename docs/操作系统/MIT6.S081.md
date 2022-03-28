@@ -22,6 +22,7 @@
 - [课程网站](https://pdos.csail.mit.edu/6.828/2021/schedule.html)
 - [课程视频](https://www.youtube.com/watch?v=L6YqHxYHa7A)：每节课的链接详见课程网站
   - [课程视频翻译文档](https://mit-public-courses-cn-translatio.gitbook.io/mit6-s081/)
+  - [xv6操作系统的深入讲解](https://space.bilibili.com/1040264970/)
 
 - [课程教材](https://pdos.csail.mit.edu/6.828/2021/xv6/book-riscv-rev2.pdf)
   - [xv6中文文档](https://th0ar.gitbooks.io/xv6-chinese/content/index.html)
