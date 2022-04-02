@@ -35,7 +35,7 @@
 ### 一些可以参考的博客
 - [doraemonzzz](http://doraemonzzz.com/tags/6-S081/)
 - [Xiao Fan (樊潇)](https://fanxiao.tech/posts/MIT-6S081-notes/)
-- [Miigon's blog](https://blog.miigon.net/tags/operating-system/)
+- [Miigon's blog](https://blog.miigon.net/categories/mit6-s081/)
 - [Zhou Fang](https://walkerzf.github.io/categories/6-S081/index.html)
 - [Yichun's Blog](https://www.yichuny.page/tags/Operating%20System)
 - [解析Ta](https://blog.csdn.net/u013577996/article/details/108679997)
