@@ -14,6 +14,6 @@ MIT 在每年 1 月份会有一个为期 4 周的 [Independent Activities Period
 
 ## 课程资源
 
-- [课程网站](https://weblab.mit.edu/schedule/)
+- 课程网站：<https://weblab.mit.edu/schedule/>
 - 课程视频：参见课程网站链接
 - 课程作业：参见课程 Schedule

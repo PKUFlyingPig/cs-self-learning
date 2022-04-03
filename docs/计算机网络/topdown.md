@@ -12,11 +12,11 @@
 
 ## 课程资源
 
-- [课程网站](https://gaia.cs.umass.edu/kurose_ross/index.php)
-- [课程视频](https://gaia.cs.umass.edu/kurose_ross/lectures.php)
+- 课程网站：<https://gaia.cs.umass.edu/kurose_ross/index.php>
+- 课程视频：<https://gaia.cs.umass.edu/kurose_ross/lectures.php>
 - 课程教材：Computer Networking: A Top-Down Approach
-- [课程作业](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)
+- 课程作业：<https://gaia.cs.umass.edu/kurose_ross/wireshark.php>
 
 ## 资源汇总
 
-我在学习这门课中用到的所有资源和作业实现都汇总在[这个 GitHub 仓库](https://github.com/PKUFlyingPig/Computer-Network-A-Top-Down-Approach)中。
+我在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPig/Computer-Network-A-Top-Down-Approach - GitHub](https://github.com/PKUFlyingPig/Computer-Network-A-Top-Down-Approach) 中。

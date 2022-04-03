@@ -12,10 +12,10 @@
 
 ## 课程资源
 
-- [课程网站](https://inst.eecs.berkeley.edu/~ee120/fa19/)
+- 课程网站：<https://inst.eecs.berkeley.edu/~ee120/fa19/>
 - 课程教材：参见课程 notes
 - 课程作业：5 个书面作业 + 6 个编程作业
 
 ## 资源汇总
 
-我在学习这门课中用到的所有资源和作业实现都汇总在[这个 GitHub 仓库](https://github.com/PKUFlyingPig/UCB-EE120)中。
+我在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPig/UCB-EE120 - GitHub](https://github.com/PKUFlyingPig/UCB-EE120) 中。

@@ -14,7 +14,7 @@
 
 ## 课程资源
 
-- [课程网站](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/index.htm)
-- [课程视频](https://www.bilibili.com/video/BV1CZ4y1j7hs)
+- 课程网站：<https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/index.htm>
+- 课程视频：<https://www.bilibili.com/video/BV1CZ4y1j7hs>
 - 课程教材：Signals and Systems, 2nd Edition
-- [课程作业](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/assignments)
+- 课程作业：<https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/assignments>

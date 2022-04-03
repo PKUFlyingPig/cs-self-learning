@@ -12,7 +12,7 @@
 
 ## 课程资源
 
-- [课程网站](https://ds100.org/fa21/)
+- 课程网站：<https://ds100.org/fa21/>
 - 课程视频：参见课程网站
-- [课程教材](https://www.textbook.ds100.org/intro.html)
+- 课程教材：<https://www.textbook.ds100.org/intro.html>
 - 课程作业：参见课程网站

@@ -29,4 +29,4 @@
 
 ## 资源汇总
 
-我在学习这门课中用到的所有资源和作业实现都汇总在[这个 GitHub 仓库](https://github.com/liudeyuan2021/UCSB-GAMES202-Spring-2021)中。
+我在学习这门课中用到的所有资源和作业实现都汇总在 [liudeyuan2021/UCSB-GAMES202-Spring-2021 - GitHub](https://github.com/liudeyuan2021/UCSB-GAMES202-Spring-2021) 中。

@@ -16,7 +16,7 @@
 
 ## 课程资源
 
-- [课程网站](https://www.coursera.org/learn/machine-learning)
+- 课程网站：<https://www.coursera.org/learn/machine-learning>
 - 课程视频：参见课程网站
 - 课程教材：无
 - 课程作业：参见课程网站

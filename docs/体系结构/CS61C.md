@@ -19,11 +19,11 @@
 
 ## 课程资源
 
-- [课程网站](https://cs61c.org/su20/)
+- 课程网站：<https://cs61c.org/su20/>
 - 课程视频：[B 站](https://www.bilibili.com/video/BV1fC4y147iZ), [Youtube](https://www.youtube.com/playlist?list=PLDoI-XvXO0aqgoMQvogzmf7CKiSMSUS3M)
 - 课程教材：无
 - 课程作业：11 个 Lab，4 个 Project，具体要求详见课程网站
 
 ## 资源汇总
 
-我在学习这门课中用到的所有资源和作业实现都汇总在[这个 GitHub 仓库](https://github.com/PKUFlyingPig/CS61C-summer20)中。
+我在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPig/CS61C-summer20 - GitHub](https://github.com/PKUFlyingPig/CS61C-summer20) 中。

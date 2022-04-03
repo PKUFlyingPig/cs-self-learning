@@ -18,12 +18,12 @@
 - 课程视频：[bilibili](https://space.bilibili.com/494117284)
 - 课程教材：智能计算系统（陈云霁）
 - 课程作业：6 个实验(包括编写卷积算子，为 TensorFlow 添加算子，用 BCL 编写算子并集成到 TensorFlow 中等)(具体内容在官网可以找到)
-- [实验手册](http://forum.cambricon.com/show-8-708-1.html)：实验 2.0 指导手册
-- [学习笔记](https://sanzo.top/categories/AI-Computing-Systems/)：参考实验手册总结的笔记
+- 实验手册：<http://forum.cambricon.com/show-8-708-1.html>，实验 2.0 指导手册
+- 学习笔记：<https://sanzo.top/categories/AI-Computing-Systems/>，参考实验手册总结的笔记
 
 ## 资源汇总
 
-我在学习这门课中用到的所有资源和作业实现都汇总在[这个 GitHub 仓库](https://github.com/ysj1173886760/Learning/tree/master/ai-system)中。
+我在学习这门课中用到的所有资源和作业实现都汇总在 [ysj1173886760/Learning: ai-system - GitHub](https://github.com/ysj1173886760/Learning/tree/master/ai-system) 中。
 
 我做了其中的 2,3,4,5 这几个实验，其中综合实验和硬件实验没有做，如果有做了的同学欢迎大家补上你的链接
 

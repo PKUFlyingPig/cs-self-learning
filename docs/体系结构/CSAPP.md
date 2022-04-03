@@ -20,9 +20,9 @@ CMU 大名鼎鼎的镇系神课，以其内容庞杂，Project 巨难而闻名�
 
 ## 课程资源
 
-- [课程网站](http://csapp.cs.cmu.edu/)
-- [课程视频](https://www.bilibili.com/video/BV1iW411d7hd)
-  - [九曲阑干](https://space.bilibili.com/354767108/)对CSAPP的[中文讲解](https://www.bilibili.com/video/BV1cD4y1D7uR)（据说CMU的中国留学生也在CMU的课堂上看这个视频呢）
+- 课程网站：<http://csapp.cs.cmu.edu/>
+- 课程视频：<https://www.bilibili.com/video/BV1iW411d7hd>
+  - [九曲阑干](https://space.bilibili.com/354767108/)对 CSAPP 的[中文讲解](https://www.bilibili.com/video/BV1cD4y1D7uR)（据说CMU的中国留学生也在CMU的课堂上看这个视频呢）
 - 课程教材：Computer Systems: A Programmer's Perspective, 3/E
 - 课程作业：11 个 Project，[代码框架全部开源](http://csapp.cs.cmu.edu/3e/labs.html)
 

@@ -17,4 +17,4 @@
 
 ## 资源汇总
 
-我在学习这门课中用到的所有资源和作业实现都汇总在[这个 GitHub 仓库]中。
+我在学习这门课中用到的所有资源和作业实现都汇总在 [user/repo - GitHub](https://github.com/user/repo) 中。

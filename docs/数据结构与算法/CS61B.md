@@ -20,11 +20,11 @@
 
 ## 课程资源
 
-- [课程网站](https://sp18.datastructur.es/)
-- [课程视频](https://sp18.datastructur.es/)：每节课的链接详见课程网站
+- 课程网站：<https://sp18.datastructur.es/>
+- 课程视频：<https://sp18.datastructur.es/>，每节课的链接详见课程网站
 - 课程教材：无
 - 课程作业：每年略有不同，18 年春季学期有 14 个 Lab，10 个 Homework以及 3 个 Project，具体要求详见课程网站。
 
 ## 资源汇总
 
-我在学习这门课中用到的所有资源和作业实现都汇总在[这个 GitHub 仓库](https://github.com/PKUFlyingPig/CS61B)中。
+我在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPig/CS61B - GitHub](https://github.com/PKUFlyingPig/CS61B) 中。

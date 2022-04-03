@@ -16,10 +16,10 @@
 
 ## 课程资源
 
-- [课程网站](https://github.com/mitmath/18330)
-- [课程教材](https://fncbook.github.io/fnc/frontmatter.html)
+- 课程网站：<https://github.com/mitmath/18330>
+- 课程教材：<https://fncbook.github.io/fnc/frontmatter.html>
 - 课程作业：10 个 Julia 编程作业
 
 ## 资源汇总
 
-我在学习这门课中用到的所有资源和作业实现都汇总在[这个 GitHub 仓库](https://github.com/PKUFlyingPig/MIT18.330)中。
+我在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPig/MIT18.330 - GitHub](https://github.com/PKUFlyingPig/MIT18.330) 中。

@@ -12,8 +12,8 @@
 
 ## 课程资源
 
-- [课程网站](http://www.inference.org.uk/mackay/itila/)
-- [课程视频](https://www.bilibili.com/video/BV1rs411T71e)
+- 课程网站：<http://www.inference.org.uk/mackay/itila/>
+- 课程视频：<https://www.bilibili.com/video/BV1rs411T71e>
 - 课程教材：Information Theory, Inference, and Learning Algorithms 在课程网站可以下载到免费的电子版
 - 课程作业：在每一节课视频的最后会留教材上的课后习题
 

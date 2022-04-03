@@ -21,7 +21,7 @@ MIT 的计算机系统安全课程，实验环境是一个 Web Application Zooba
 
 ## 课程资源
 
-- [课程网站](http://css.csail.mit.edu/6.858/2022/)
+- 课程网站：<http://css.csail.mit.edu/6.858/2022/>
 - 课程视频：参见课程网站
 - 课程教材：无
 - 课程作业：4 个 Lab + Final Project / Lab5

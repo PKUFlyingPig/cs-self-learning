@@ -13,6 +13,6 @@
 
 ## 课程资源
 
-- [课程网站](https://missing.csail.mit.edu/2020/)
-- [课程视频](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
+- 课程网站：<https://missing.csail.mit.edu/2020/>
+- 课程视频：<https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J>
 - 课程作业：一些随堂小练习，具体见课程网站。
