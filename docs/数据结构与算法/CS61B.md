@@ -27,4 +27,21 @@
 
 ## 资源汇总
 
-我在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPig/CS61B - GitHub](https://github.com/PKUFlyingPig/CS61B) 中。
+我在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPig/CS61B - GitHub](https://github.com/PKUFlyingPig/CS61B) 中。  
+Algorithms, 4th Edition: https://algs4.cs.princeton.edu/home/  
+CS61B Exams and Solutions: https://tbp.berkeley.edu/courses/cs/61B/  
+COS226 Spring 2008 Midterm Solution: https://www.cs.princeton.edu/courses/archive/spring15/cos226/exams/mid-s08-sol.pdf  
+COS226 Fall 2008 Midterm Solution: https://www.cs.princeton.edu/courses/archive/spring15/cos226/exams/mid-f08-sol.pdf  
+COS226 Fall 2009 Midterm Solution: https://www.cs.princeton.edu/courses/archive/spring15/cos226/exams/mid-f09-sol.pdf  
+CS61B Fall 2009 Exam Solutions (Final, Midterm, Midterm2, Midterm3): https://inst.eecs.berkeley.edu//~cs61b/fa13/samples/  
+COS226 Fall 2010 Midterm Solution: https://www.cs.princeton.edu/courses/archive/spring15/cos226/exams/mid-f10.pdf  
+COS226 Fall 2011 Midterm Solution: https://www.cs.princeton.edu/courses/archive/spring15/cos226/exams/mid-f11-sol.pdf  
+COS226 Spring 2012 Midterm Solution: https://www.cs.princeton.edu/courses/archive/spring15/cos226/exams/mid-s12-sol.pdf  
+COS226 Fall 2012 Midterm Solution: https://www.cs.princeton.edu/courses/archive/spring15/cos226/exams/mid-f12-sol.pdf  
+COS226 Spring 2013 Midterm Solution: https://www.cs.princeton.edu/courses/archive/fall13/cos226/exams/mid-s13-sol.pdf  
+CS61B Fall 2014 Test Solutions (Final, Final2, final3, Midterm, Midterm2): https://inst.eecs.berkeley.edu/~cs61b/fa14/test-solutions/  
+CS61B Spring 2016 Midterm2 Walkthrough: https://www.youtube.com/watch?v=rciRgoiJVGY  
+CS61B Spring 2017 Midterm2 Walkthrough: https://www.youtube.com/channel/UCqiudaLea8HNE23GBC34R5Q/videos  
+CS61B Spring 2016 MT1, Spring 2017 Exam Prep, Spring 2018 MT1, Spring 2019 MT1, Spring 2019 MT2, CS61B Fall 2020 MT1: https://www.youtube.com/channel/UCNBSbBTFx8nFahcQyZOYOgQ/videos  
+CS61B Spring 2019 Discussion: https://www.youtube.com/channel/UCdh0Rpk6C1w1ypiEjjKh_Uw/videos  
+CS61B Fall 2020 Discussion: https://www.youtube.com/channel/UCtic6FhXmfR0PSntIXjhwaw/videos
