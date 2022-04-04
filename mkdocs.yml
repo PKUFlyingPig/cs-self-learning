@@ -78,10 +78,10 @@ nav:
       - 翻墙: "必学工具/翻墙.md"
       - Vim: "必学工具/Vim.md"
       - Git: "必学工具/Git.md"
-      - Github: "必学工具/Github.md"
-      - Makefile: "必学工具/Makefile.md"
+      - GitHub: "必学工具/GitHub.md"
+      - "GNU Make": "必学工具/GNU_Make.md"
       - CMake: "必学工具/CMake.md"
-      - Latex: "必学工具/Latex.md"
+      - LaTex: "必学工具/LaTex.md"
       - Docker: "必学工具/Docker.md"
       - 实用工具箱: "必学工具/tools.md"
   - 好书推荐: "好书推荐.md"
@@ -95,7 +95,7 @@ nav:
       - "MIT 6.042J: Mathematics for Computer Science": "数学进阶/6.042J.md"
       - "MIT18.330: Introduction to numerical analysis": "数学进阶/numerical.md"
       - "Standford EE364A: Convex Optimization": "数学进阶/convex.md"
-      - "The Information Theory, Patter Recognition, and Neural Networks": "数学进阶/The Information Theory, Pattern Recognition, and Neural Networks.md"
+      - "The Information Theory, Patter Recognition, and Neural Networks": "数学进阶/The_Information_Theory_Pattern_Recognition_and_Neural_Networks.md"
   - 编程入门:
       - "MIT-Missing-Semester": "编程入门/MIT-Missing-Semester.md"
       - "Harvard CS50: This is CS50x": "编程入门/CS50.md"
@@ -105,7 +105,7 @@ nav:
   - 电子基础:
       - "EE16A&B: Designing Information Devices and Systems I&II": "电子基础/EE16.md"
       - "UCB EE120 : Signal and Systems": "电子基础/signal.md"
-      - "MIT 6.007 Signals and Systems": "电子基础/Signals and Systems_AVO.md"
+      - "MIT 6.007 Signals and Systems": "电子基础/Signals_and_Systems_AVO.md"
   - 数据结构与算法:
       - "UCB CS61B: Data Structures and Algorithms": "数据结构与算法/CS61B.md"
       - "Coursera: Algorithms I & II": "数据结构与算法/Algo.md"
@@ -146,7 +146,7 @@ nav:
   - 数据科学:
       - "UCB Data100: Principles and Techniques of Data Science": "数据科学/Data100.md"
   - 人工智能:
-      - "Harvard CS50’s Introduction to AI with Python": "人工智能/CS50.md"
+      - "Harvard CS50's Introduction to AI with Python": "人工智能/CS50.md"
       - "UCB CS188: Introduction to Artificial Intelligence": "人工智能/CS188.md"
       - "智能计算系统": "人工智能/CYJ.md"
   - 机器学习:
