@@ -6,7 +6,7 @@
 
 新冠肆虐，网课当道，CS 爆火，这一系列的事件都让自学计算机成为了一种潮流。
 
-随着欧美众多名校将质量极高的计算机课程全部开源，自学 CS 成了一件可操作性极强的事情。毫不夸张的说，只要你有毅力和兴趣，自学的成果完全不亚于你在国内任何一所大学受到的本科 CS 教育（当然，这里单指计算机专业领域，大学带给你的显然不止是专业知识）。
+随着欧美众多名校将质量极高的计算机课程全部开源，自学 CS 成了一件可操作性极强的事情。毫不夸张地说，只要你有毅力和兴趣，自学的成果完全不亚于你在国内任何一所大学受到的本科 CS 教育（当然，这里单指计算机专业领域，大学带给你的显然不止是专业知识）。
 
 我很庆幸在自己大一的时候就选择了自学 CS 这条路，它让我爱上了计算机这门学科，也无比丰富了我的视野。
 
@@ -24,7 +24,9 @@
 
 一个人的力量终究是有限的，对于书中任意章节你若有想要补充的内容，欢迎各位提出 [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)。如果你想贡献一门新的课程，可以参考目前 repo 中的 [template](./template.md) 文件作为模版，并在 [mkdocs.yml](./mkdocs.yml) 文件中添加其navigation，当然你还可以在 [CS 学习规划](./docs/CS学习规划.md) 里的对应模块为其添加言简意赅的导语。
 
-同时由于个人水平有限，书中难免有笔误甚至概念错误之处，也请各位不吝赐教，在issue中提出来。
+对于中英混合排版的要点规范，可以参考[这个仓库](https://github.com/lhajh/chinese-copywriting-guidelines/blob/master/README.md)，我们将会对您的 Pull Request 做相应的校对，具体原因参见这个 [issue](https://github.com/PKUFlyingPig/cs-self-learning/issues/114)。
+
+同时由于个人水平有限，书中难免有笔误甚至概念错误之处，也请各位不吝赐教，在 issue 中提出来。
 
 ## 关于交流社区的建立
 
