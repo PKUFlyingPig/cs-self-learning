@@ -27,6 +27,6 @@
 - 课程教材：Real-Time Rendering, 4th edition.
 - 课程作业：[5个project](http://games-cn.org/forums/topic/games202zuoyehuizong/)
 
-## 资源汇总
+<!-- ## 资源汇总
 
-我在学习这门课中用到的所有资源和作业实现都汇总在 [liudeyuan2021/UCSB-GAMES202-Spring-2021 - GitHub](https://github.com/liudeyuan2021/UCSB-GAMES202-Spring-2021) 中。
+我在学习这门课中用到的所有资源和作业实现都汇总在 [liudeyuan2021/UCSB-GAMES202-Spring-2021 - GitHub](https://github.com/liudeyuan2021/UCSB-GAMES202-Spring-2021) 中。 -->
