@@ -31,4 +31,4 @@
 
 ## 资源汇总
 
-我们在学习这门课中用到的所有资源和作业实现都汇总在 [liudeyuan2021/UCSB-GAMES101-Spring-2020 - GitHub](https://github.com/liudeyuan2021/UCSB-GAMES101-Spring-2020) 和 [ysj1173886760/Learning: graphics/GAMES101 - GitHub](https://github.com/ysj1173886760/Learning/tree/master/graphics/GAMES101) 中。
+我们在学习这门课中用到的所有资源和作业实现都汇总在[ysj1173886760/Learning: graphics/GAMES101 - GitHub](https://github.com/ysj1173886760/Learning/tree/master/graphics/GAMES101) 中。
