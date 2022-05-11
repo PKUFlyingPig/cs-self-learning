@@ -15,9 +15,9 @@
 
 ## 课程资源
 
-- 课程网站：https://safari.ethz.ch/digitaltechnik/spring2020/
-- 课程视频：https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2
+- 课程网站：<https://safari.ethz.ch/digitaltechnik/spring2020/>
+- 课程视频：<https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2>
 - 课程教材1：Patt and Patel, Introduction to Computing Systems 
 - 课程教材2：Harris and Harris, Digital Design and Computer Architecture (MIPS Edition)
 - 课程lab：9个lab从零开始设计MIPS计算机，详见课程网站
-- Vivado设计软件下载地址：https://china.xilinx.com/products/design-tools/vivado.html
+- Vivado设计软件下载地址：<https://china.xilinx.com/products/design-tools/vivado.html>
