@@ -2,7 +2,7 @@
 
 > *Everyone should enjoy CS if you have a good teacher to teach you a good course.*
 
-**:tada:更新：本书添加了评论功能，欢迎大家在课程页面下方组队学习 ～:tada:**
+[![License](https://img.shields.io/github/license/PKUFlyingPig/cs-self-learning)](https://github.com/The-Run-Philosophy-Organization/run/blob/main/README.md)[![Issues](https://img.shields.io/github/issues/PKUFlyingPig/cs-self-learning)](https://github.com/PKUFlyingPig/cs-self-learning/issues)[![Stars](https://img.shields.io/github/stars/PKUFlyingPig/cs-self-learning)](https://github.com/PKUFlyingPig/cs-self-learning)
 
 新冠肆虐，网课当道，CS 爆火，这一系列的事件都让自学计算机成为了一种潮流。
 
@@ -31,6 +31,10 @@
 ## 关于交流社区的建立
 
 本书支持页面评论功能，因此如果你想自学某课程，可以自己建立群聊后（QQ 微信皆可）在对应的课程页面下方发表评论，注明你的学习目标以及加入交流群的途径。此外，过去已有不少朋友在 issue 里建立了类似群聊，可以自行选择直接加入。
+
+## 鸣谢
+
+[![contributors](https://opencollective.com/cs-self-learning/contributors.svg?width=890)](https://github.com/PKUFlyingPig/cs-self-learning/graphs/contributors)
 
 ## 许可
 
