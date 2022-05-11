@@ -28,7 +28,7 @@ IDE (Integrated Development Environment)：集成开发环境，说白了就是�
 
 [CMake](必学工具/CMake.md)：一款功能比 GNU Make 更为强大的构建工具，建议掌握 GNU Make 之后再加以学习。
 
-[LaTex](必学工具/LaTeX.md)：~~逼格提升~~论文排版工具。
+[LaTex](必学工具/LaTeX.md)：~~逼格提升~~ 论文排版工具。
 
 [Docker](必学工具/Docker.md)：一款相较于虚拟机更轻量级的软件打包与环境部署工具。
 
@@ -338,7 +338,7 @@ More contents under construction.
 
 > 授人以鱼不如授人以渔。
 
-以上的课程规划难免有强烈的个人倾向和喜好，不一定适合所有人，更多的是起到抛砖引玉的作用。如果你想挑选自己感兴趣的方向和内容加以学习，可以参考我在下面列出来的资源。
+以上的课程规划难免带有强烈的个人偏好，不一定适合所有人，更多是起到抛砖引玉的作用。如果你想挑选自己感兴趣的方向和内容加以学习，可以参考我在下面列出来的资源。
 
 - [MIT OpenCourseWare](https://ocw.mit.edu/): 麻省理工学院的课程资源开放共享项目，收录了数以千计的各科课程资源，其中计算机类的课号是 6.xxx。
 - [MIT CS Course List](http://student.mit.edu/catalog/m6a.html): 麻省理工学院的 CS 课程列表。
