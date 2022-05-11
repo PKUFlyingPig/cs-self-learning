@@ -316,7 +316,7 @@ More contents under construction.
 #### 入门课
 
 - [Coursera: Deep Learning](深度学习/CS230.md)
-- [台湾国立大学：李宏毅机器学习](深度学习/LHY.md)
+- [国立台湾大学：李宏毅机器学习](深度学习/LHY.md)
 
 #### 计算机视觉
 
