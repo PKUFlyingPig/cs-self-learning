@@ -2,7 +2,9 @@
 
 > *Everyone should enjoy CS if you have a good teacher to teach you a good course.*
 
-[![License](https://img.shields.io/github/license/PKUFlyingPig/cs-self-learning)](https://github.com/The-Run-Philosophy-Organization/run/blob/main/README.md)[![Issues](https://img.shields.io/github/issues/PKUFlyingPig/cs-self-learning)](https://github.com/PKUFlyingPig/cs-self-learning/issues)[![Stars](https://img.shields.io/github/stars/PKUFlyingPig/cs-self-learning)](https://github.com/PKUFlyingPig/cs-self-learning)
+[![License](https://img.shields.io/github/license/PKUFlyingPig/cs-self-learning)](https://github.com/The-Run-Philosophy-Organization/run/blob/main/README.md)
+[![Issues](https://img.shields.io/github/issues/PKUFlyingPig/cs-self-learning)](https://github.com/PKUFlyingPig/cs-self-learning/issues)
+[![Stars](https://img.shields.io/github/stars/PKUFlyingPig/cs-self-learning)](https://github.com/PKUFlyingPig/cs-self-learning)
 
 新冠肆虐，网课当道，CS 爆火，这一系列的事件都让自学计算机成为了一种潮流。
 
