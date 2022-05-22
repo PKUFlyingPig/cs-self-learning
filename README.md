@@ -2,7 +2,7 @@
 
 > *Everyone should enjoy CS if you have a good teacher to teach you a good course.*
 
-[![License](https://img.shields.io/github/license/PKUFlyingPig/cs-self-learning)](https://github.com/The-Run-Philosophy-Organization/run/blob/main/README.md)
+[![License](https://img.shields.io/github/license/PKUFlyingPig/cs-self-learning)](https://github.com/PKUFlyingPig/cs-self-learning)
 [![Issues](https://img.shields.io/github/issues/PKUFlyingPig/cs-self-learning)](https://github.com/PKUFlyingPig/cs-self-learning/issues)
 [![Stars](https://img.shields.io/github/stars/PKUFlyingPig/cs-self-learning)](https://github.com/PKUFlyingPig/cs-self-learning)
 
