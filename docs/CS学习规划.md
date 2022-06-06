@@ -28,7 +28,7 @@ IDE (Integrated Development Environment)：集成开发环境，说白了就是�
 
 [CMake](必学工具/CMake.md)：一款功能比 GNU Make 更为强大的构建工具，建议掌握 GNU Make 之后再加以学习。
 
-[LaTex](必学工具/LaTeX.md)：~~逼格提升~~ 论文排版工具。
+[LaTex](必学工具/LaTeX.md)：<del>逼格提升</del> 论文排版工具。
 
 [Docker](必学工具/Docker.md)：一款相较于虚拟机更轻量级的软件打包与环境部署工具。
 
@@ -212,15 +212,17 @@ More contents under construction.
 
 ### 操作系统
 
-操作系统作为所有应用软件和底层硬件交互的掌舵者，了解它的内部原理和设计原则对于一个不满足于调包侠的程序员来说是很有帮助的。同时，国外操统课程的质量也是让上了多年网课的我也感到瞠目结舌。
+操作系统作为各类纷繁复杂的底层硬件虚拟化出一套规范优雅的抽象，给所有应用软件提供丰富的功能支持。了解操作系统的设计原则和内部原理对于一个不满足于当调包侠的程序员来说是大有裨益的。出于对操作系统的热爱，我上过国内外很多操作系统课程，它们各有侧重和优劣，大家可以根据兴趣各取所需。
 
-[MIT 6.S081: Operating System Engineering](操作系统/MIT6.S081.md)，MIT 著名 PDOS 实验室出品，11 个 Project 会让你在一个 2 万多行的教学用迷你操作系统上增加各类功能模块。这门课也让我深刻认识到，做系统不是靠 PPT 念出来的，是得几万行代码一点点累起来的。
+[MIT 6.S081: Operating System Engineering](操作系统/MIT6.S081.md)，MIT 著名 PDOS 实验室出品，11 个 Project 让你在一个实现非常优雅的类Unix操作系统xv6上增加各类功能模块。这门课也让我深刻认识到，做系统不是靠 PPT 念出来的，是得几万行代码一点点累起来的。
 
-[UCB CS162: Operating System](操作系统/CS162.md)，伯克利的操作系统课，采用和 Stanford 同样的 Project —— 一个教学用操作系统 Pintos。我作为下学期北京大学操作系统实验班的助教，会尝试引入这个 Project，欢迎大家选课尝试，同时课程资源也会全部开源，目前[课程网站](https://pkuos.systems)正在建设当中。
+[UCB CS162: Operating System](操作系统/CS162.md)，伯克利的操作系统课，采用和 Stanford 同样的 Project —— 一个教学用操作系统 Pintos。我作为北京大学2022年春季学期操作系统实验班的助教，引入并改善了这个 Project，课程资源也会全部开源，具体参见[课程网站](https://pkuos.systems)。
+
+[NJU: Operating System Design and Implementation](操作系统/NJUOS.md)，南京大学的蒋炎岩老师开设的操作系统课程。蒋老师以其独到的视角
 
 ### 并行与分布式系统
 
-想必这两年各类 CS 讲座里最常听到的话就是“摩尔定律正在走向终结”，此话不假。同时如今深度学习的兴起导致对计算机算力与存储的要求都达到了前所未有的高度，因此并行和分布式系统已成为一项热门技术话题。
+想必这两年各类 CS 讲座里最常听到的话就是“摩尔定律正在走向终结”，此话不假，当单核能力达到上限时，多核乃至众核架构如日中天。硬件的变化带来的是上层编程逻辑的适应与改变，要想充分利用硬件性能，编写并行程序几乎成了程序员的必备技能。与此同时，深度学习的兴起对计算机算力与存储的要求都达到了前所未有的高度，大规模集群的部署和优化也成为热门技术话题。
 
 #### 并行计算
 
@@ -240,7 +242,7 @@ More contents under construction.
 
 #### 实践
 
-掌握这些理论知识之后，还需要在实践中培养和锻炼这些“安全素养”。[CTF 夺旗赛](https://ctf-wiki.org/)是一项比较热门的系统安全比赛，赛题中会融会贯通地考察你对计算机各个领域知识的理解和运用。北大今年也成功举办了[第 0 届和第 1 届](https://geekgame.pku.edu.cn/)，也鼓励大家后期踊跃参与，在实践中提高自己。下面列举一些我平时学习（摸鱼）用到的资源：
+掌握这些理论知识之后，还需要在实践中培养和锻炼这些“黑客素养”。[CTF 夺旗赛](https://ctf-wiki.org/)是一项比较热门的系统安全比赛，赛题中会融会贯通地考察你对计算机各个领域知识的理解和运用。北大今年也成功举办了[第 0 届和第 1 届](https://geekgame.pku.edu.cn/)，鼓励大家后期踊跃参与，在实践中提高自己。下面列举一些我平时学习（摸鱼）用到的资源：
 
 - [CTF-wiki](https://ctf-wiki.org/)
 - [CTF-101](https://ctf101.org/)
@@ -250,15 +252,15 @@ More contents under construction.
 
 计网著名教材《自顶向下方法》的配套学习资源 [Computer Networking: A Top-Down Approach](计算机网络/topdown.md)。
 
-没有什么能比自己写个 TCP/IP 协议栈更能加深自己对计算机网络的理解了，所以不妨试试 [Stanford CS144: Computer Network](计算机网络/CS144.md)，8 个 Project 带你实现整个协议栈。
+没有什么能比自己写个 TCP/IP 协议栈更能加深对计算机网络的理解了，所以不妨试试 [Stanford CS144: Computer Network](计算机网络/CS144.md)，8 个 Project 带你实现整个协议栈。
 
 ### 数据库系统
 
-没有什么能比自己写个关系型数据库更能加深自己对数据库系统的理解了。
+没有什么能比自己写个关系型数据库更能加深对数据库系统的理解了。
 
 #### C++版
 
-[CMU 15-445: Introduction to Database System](https://15445.courses.cs.cmu.edu/fall2020/)
+[CMU 15-445: Introduction to Database System](数据库系统/15445.md)
 
 #### Java版
 
@@ -266,13 +268,16 @@ More contents under construction.
 
 ### 编译原理
 
-没有什么能比自己写个编译器更能加深自己对编译器的理解了。
+没有什么能比自己写个编译器更能加深对编译器的理解了。
 
 [Stanford CS143: Compilers](编译原理/CS143.md)
 
 ### 计算机图形学
 
+[Stanford CS148](计算机图形学/CS148.md)
 [Games101](计算机图形学/GAMES101.md)
+[Games103](计算机图形学/GAMES103.md)
+[Games202](计算机图形学/GAMES202.md)
 
 ### Web开发
 
