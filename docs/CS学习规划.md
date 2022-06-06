@@ -144,6 +144,7 @@ More contents under construction.
 
 #### C++
 
+- [Stanford CS106B/X: Programming Abstractions](编程入门/CS106B_CS106X.md)
 - [Stanford CS106L: Standard C++ Programming](编程入门/CS106L.md)
 
 #### Rust
@@ -174,7 +175,6 @@ More contents under construction.
 
 #### 数据结构与算法
 
-- [Stanford CS106B/X: Programming Abstractions](数据结构与算法/CS106B_CS106X.md)
 - [UCB CS61B: Data Structures and Algorithms](数据结构与算法/CS61B.md)
 - [Coursera: Algorithms I & II](数据结构与算法/Algo.md)
 
