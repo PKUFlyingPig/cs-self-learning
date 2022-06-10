@@ -62,14 +62,17 @@ theme:
 plugins:
   - search:
       lang: ja
-#  - git-revision-date-localized
-#  - minify:
-#      minify_html: true
+  - git-revision-date-localized
+  - minify:
+      minify_html: true
 
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/pkuflyingpig/cs-self-learning/
+  analytics:
+    provider: google
+    property: G-KJB4RXSKZG
 
 nav:
   - 前言: "index.md"
