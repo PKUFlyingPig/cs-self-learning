@@ -62,9 +62,9 @@ theme:
 plugins:
   - search:
       lang: ja
-#   - git-revision-date-localized
-#   - minify:
-#       minify_html: true
+  - git-revision-date-localized
+  - minify:
+      minify_html: true
 
 extra:
   social:
