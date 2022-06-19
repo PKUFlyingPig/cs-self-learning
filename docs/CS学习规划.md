@@ -30,6 +30,8 @@ IDE (Integrated Development Environment)：集成开发环境，说白了就是�
 
 [LaTex](必学工具/LaTeX.md)：<del>逼格提升</del> 论文排版工具。
 
+[Thesis](必学工具/thesis.md)：毕业论文 Word 写作教程。
+
 [Docker](必学工具/Docker.md)：一款相较于虚拟机更轻量级的软件打包与环境部署工具。
 
 [实用工具箱](必学工具/tools.md)：除了上面提到的这些在开发中使用频率极高的工具之外，我还收集了很多实用有趣的免费工具，例如一些下载工具、设计工具、学习网站等等。
