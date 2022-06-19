@@ -34,9 +34,16 @@
 
 本书支持页面评论功能，因此如果你想自学某课程，可以自己建立群聊后（QQ 微信皆可）在对应的课程页面下方发表评论，注明你的学习目标以及加入交流群的途径。此外，过去已有不少朋友在 issue 里建立了类似群聊，可以自行选择直接加入。
 
-## 鸣谢
+## Star History
 
-[![contributors](https://opencollective.com/cs-self-learning/contributors.svg?width=890)](https://github.com/PKUFlyingPig/cs-self-learning/graphs/contributors)
+[![Star History Chart](https://api.star-history.com/svg?repos=PKUFlyingPig/cs-self-learning&type=Timeline)](https://star-history.com/#PKUFlyingPig/cs-self-learning&Timeline)
+
+## ✨ 鸣谢
+
+<a href="https://github.com/PKUFlyingPig/cs-self-learning/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=PKUFlyingPig/cs-self-learning"/>
+</a>
+<!--  https://contrib.rocks -->
 
 ## 许可
 
