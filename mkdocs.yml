@@ -135,6 +135,7 @@ nav:
       - "UCB CS161: Computer Security": "系统安全/CS161.md"
       - "MIT 6.858: Computer System Security": "系统安全/MIT6.858.md"
   - 计算机网络:
+      - "USTC Computer Networking:A Top-Down Approach": "计算机网络/topdown_ustc.md"
       - "Computer Networking: A Top-Down Approach": "计算机网络/topdown.md"
       - "Stanford CS144: Computer Network": "计算机网络/CS144.md"
   - 数据库系统:
