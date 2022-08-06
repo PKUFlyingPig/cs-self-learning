@@ -141,6 +141,7 @@ nav:
   - 数据库系统:
       - "UCB CS186: Introduction to Database System": "数据库系统/CS186.md"
       - "CMU 15-445: Database Systems": "数据库系统/15445.md"
+      - "Caltech CS122: Database System Implementation": "数据库系统/CS122.md"
   - 编译原理:
       - "Stanford CS143: Compilers": "编译原理/CS143.md"
   - 计算机图形学:
