@@ -24,7 +24,7 @@
 
 ## 如何成为贡献者
 
-一个人的力量终究是有限的，对于书中任意章节你若有想要补充的内容，欢迎各位提出 [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)。如果你想贡献一门新的课程，可以参考目前 repo 中的 [template](./template.md) 文件作为模版，并在 [mkdocs.yml](./mkdocs.yml) 文件中添加其navigation，当然你还可以在 [CS 学习规划](./docs/CS学习规划.md) 里的对应模块为其添加言简意赅的导语。如果你有想推荐的书籍，请参考 [好书推荐](./docs/好书推荐.md) 模块上方的注释按相应格式添加内容。
+一个人的力量终究是有限的，对于书中任意章节你若有想要补充的内容，欢迎各位提出 [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)。如果你想贡献一门新的课程，可以参考目前 repo 中的 [template](./template.md) 文件作为模版，并在 [mkdocs.yml](./mkdocs.yml) 文件中添加其navigation，当然你还可以在 [CS 学习规划](./docs/CS学习规划.md) 里的对应模块为其添加言简意赅的导语。如果你有想推荐的书籍，请参考 [好书推荐](https://raw.githubusercontent.com/PKUFlyingPig/cs-self-learning/master/docs/%E5%A5%BD%E4%B9%A6%E6%8E%A8%E8%8D%90.md) 模块上方的注释按相应格式添加内容。
 
 对于中英混合排版的要点规范，可以参考[这个仓库](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)，我们将会对您的 Pull Request 做相应的校对，具体原因参见这个 [issue](https://github.com/PKUFlyingPig/cs-self-learning/issues/114)。
 
