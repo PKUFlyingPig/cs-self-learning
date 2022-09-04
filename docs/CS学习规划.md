@@ -248,7 +248,7 @@ More contents under construction.
 
 - [CTF-wiki](https://ctf-wiki.org/)
 - [CTF-101](https://ctf101.org/)
-- [Hacker-101](https://ctf.hacker101.com/auth?error=0)
+- [Hacker-101](https://ctf.hacker101.com/)
 
 ### 计算机网络
 
