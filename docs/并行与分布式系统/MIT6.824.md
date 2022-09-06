@@ -23,4 +23,6 @@
 
 ## 资源汇总
 
-我在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPig/MIT6.824 - GitHub](https://github.com/PKUFlyingPig/MIT6.824) 中。此外也可以参考 [OneSizeFitsQuorum](https://github.com/OneSizeFitsQuorum) 的 [Lab 文档](https://github.com/OneSizeFitsQuorum/MIT6.824-2021)，其较为清晰地介绍了实现 lab 1-4 和 challenge 1-2 需要考虑的许多细节，在遇到瓶颈期时可以阅读一下~
+@PKUFlyingPig 在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPig/MIT6.824 - GitHub](https://github.com/PKUFlyingPig/MIT6.824) 中。
+
+@[OneSizeFitsQuorum](https://github.com/OneSizeFitsQuorum) 的 [Lab 文档](https://github.com/OneSizeFitsQuorum/MIT6.824-2021) 较为清晰地介绍了实现 lab 1-4 和 challenge 1-2 时需要考虑的许多细节，在遇到瓶颈期时可以阅读一下~~

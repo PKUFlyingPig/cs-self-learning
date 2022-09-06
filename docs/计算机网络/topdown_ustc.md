@@ -19,12 +19,5 @@
 
 - 课程网站：<http://staff.ustc.edu.cn/~qzheng/teaching.html>
 - 课程视频：<https://www.bilibili.com/video/BV1JV411t7ow/>
+- 课程课件：<http://staff.ustc.edu.cn/~qzheng/cn.zip>
 - 课程教材：计算机网络（自顶向下方法 第7版），机械工业出版社，2016
-
-## 资源汇总
-
-课程课件：<http://staff.ustc.edu.cn/~qzheng/cn.zip>
-
-## 备注
-
-根据[USTC评课社区](https://icourse.club/course/6266/)里对该课的评价，该课有实验且有一半课会点名，科大学生慎选。
