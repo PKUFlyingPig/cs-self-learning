@@ -1,4 +1,4 @@
-# Deep Dive Into Modern Web Development
+# University of Helsinki: Full Stack open 2022
 
 ## 课程简介
 
