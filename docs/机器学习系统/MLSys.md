@@ -1,10 +1,10 @@
-# Machine Learning System
+# CMU 10-414/714: Deep Learning Systems
 
 ## 课程简介
 
 - 所属大学：CMU
-- 先修要求：系统入门、深度学习入门
-- 编程语言：N/A
+- 先修要求：系统入门(eg.15-213)、深度学习入门、基本的数学知识
+- 编程语言：N/A（据课程主页，要求熟悉Python、C/C++）
 - 课程难度：N/A
 - 预计学时：N/A
 
