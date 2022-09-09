@@ -12,10 +12,9 @@ copyright: Copyright &copy; 2021-present <a href="https://github.com/PKUFlyingPi
 theme:
   name: material
   language: zh
-
   static_templates:
     - 404.html
-
+  favicon: images/favicon16x16.png
   include_search_page: false
   search_index_only: true
 
@@ -58,6 +57,10 @@ theme:
     repo: fontawesome/brands/github
 
   custom_dir: overrides
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
 
 plugins:
   - search:

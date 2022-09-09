@@ -1,3 +1,7 @@
+<div align="center">
+  <img src=./docs/images/csdiy-blue.png width="300" height="300">
+</div>
+
 # CS 自学指南
 
 > *Everyone should enjoy CS if you have a good teacher to teach you a good course.*
@@ -40,6 +44,7 @@
 
 ## ✨ 鸣谢
 
+特别感谢 @[AlfredThiel](https://github.com/AlfredThiel) 为项目制作了精美的 Logo。
 <!--  support by https://contrib.rocks -->
 <a href="https://github.com/PKUFlyingPig/cs-self-learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=PKUFlyingPig/cs-self-learning"/>
