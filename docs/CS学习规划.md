@@ -12,9 +12,9 @@
 
 [MIT-Missing-Semester](编程入门/MIT-Missing-Semester.md) 这门课覆盖了这些工具中绝大部分，而且有相当详细的使用指导，强烈建议小白学习。
 
-[翻墙](必学工具/翻墙.md)：由于一些众所周知的原因，谷歌、GitHub 等网站在大陆无法访问。然而很多时候，谷歌和 StackOverflow 可以解决你在开发过程中遇到的 95% 的问题。因此，学会翻墙几乎是一个内地 CSer 的必备技能。（考虑到法律问题，这个文档提供的翻墙方式仅对拥有北大邮箱的用户适用）。
+[翻墙](必学工具/翻墙.md)：由于一些众所周知的原因，谷歌、GitHub 等网站在大陆无法访问。然而很多时候，谷歌和 StackOverflow 可以解决你在开发过程中遇到的 99% 的问题。因此，学会翻墙几乎是一个内地 CSer 的必备技能。（考虑到法律问题，这个文档提供的翻墙方式仅对拥有北大邮箱的用户适用）。
 
-命令行：熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高极大地提高你作为工程师的灵活性以及生产力。[命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)是一份非常经典的教程，它源于 Quora 的一个提问，但在各路大神的贡献努力下已经成为了一个 GitHub 十万 stars 的顶流项目，被翻译成了十几种语言。教程不长，非常建议大家反复通读，在实践中内化吸收。同时，掌握 shell 脚本编程也是一项不容忽视的技术，可以参考这个[教程](https://www.shellscript.sh/)。
+命令行：熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会极大地提高你作为工程师的灵活性以及生产力。[命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)是一份非常经典的教程，它源于 Quora 的一个提问，但在各路大神的贡献努力下已经成为了一个 GitHub 十万 stars 的顶流项目，被翻译成了十几种语言。教程不长，非常建议大家反复通读，在实践中内化吸收。同时，掌握 Shell 脚本编程也是一项不容忽视的技术，可以参考这个[教程](https://www.shellscript.sh/)。
 
 IDE (Integrated Development Environment)：集成开发环境，说白了就是你写代码的地方。作为一个码农，IDE 的重要性不言而喻，但由于很多 IDE 是为大型工程项目设计的，体量较大，功能也过于丰富。其实如今一些轻便的文本编辑器配合丰富的插件生态基本可以满足日常的轻量编程需求。个人常用的编辑器是 VS Code 和 Sublime（前者的插件配置非常简单，后者略显复杂但颜值很高）。当然对于大型项目我还是会采用略重型的 IDE，例如 Pycharm (Python)，IDEA (Java) 等等（免责申明：所有的 IDE 都是世界上最好的 IDE）。
 
@@ -48,13 +48,17 @@ IDE (Integrated Development Environment)：集成开发环境，说白了就是�
 >
 > 实际上的开发 —— 配环境配几天还没开始写代码。
 
-推荐一个非常不错的 GitHub 项目 [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide)，其中涵盖了非常多的运维方面的基础知识和教程，例如 Docker, Kubernetes, Linux, CI-CD, GitHub Actions 等等。
+### PC 端环境配置
+
+如果你是 Mac 用户，那么你很幸运，这份[指南](https://sourabhbajaj.com/mac-setup/) 将会手把手地带你搭建起整套开发环境。如果你是 Windows 用户，可以参考这个相对简略的[教程](https://github.com/orlp/dev-on-windows/wiki)。
 
 另外大家可以参考一份灵感来自 [6.NULL MIT-Missing-Semester](编程入门/MIT-Missing-Semester.md) 的 [环境配置指南][guide]，重点在于终端的美化配置。此外还包括常用软件源（如 GitHub, Anaconda, PyPI 等）的加速与替换以及一些 IDE 的配置与激活教程。
 
 [guide]: https://taylover2016.github.io/%E6%96%B0%E6%9C%BA%E5%99%A8%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97%EF%BC%88%E6%96%B0%E6%89%8B%E5%90%91%EF%BC%89/index.html
 
-More contents under construction.
+### 服务器端环境配置
+
+推荐一个非常不错的 GitHub 项目 [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide)，其中涵盖了非常多的运维方面的基础知识和教程，例如 Docker, Kubernetes, Linux, CI-CD, GitHub Actions 等等。
 
 ## 课程地图
 
@@ -62,7 +66,7 @@ More contents under construction.
 
 以下课程类别中除了含有 *基础* 和 *入门* 字眼的以外，并无明确的先后次序，大家只要满足某个课程的先修要求，完全可以根据自己的需要和喜好选择想要学习的课程。
 
-另外由于贡献者的不断增加，这份课程地图已经从最初我的学习经历，发展成为很多 CS 自学者的资源合集，其中难免有内容交叉甚至重复的。但之所以都列出来，还是希望集百家之长，给大家尽可能多的选择与参考。
+另外由于贡献者的不断增加，这份课程地图已经从最初我的学习经历，发展成为很多 CS 自学者的资源合集，其中难免有内容交叉甚至重复的。之所以都列出来，还是希望集百家之长，给大家尽可能多的选择与参考。
 
 ### 数学基础
 
@@ -80,7 +84,7 @@ More contents under construction.
 
 集合论、图论、概率论等等是算法推导与证明的重要工具，也是后续高阶数学课程的基础。但我觉得这类课程的讲授很容易落入理论化与形式化的窠臼，让课堂成为定理结论的堆砌，而无法使学生深刻把握理论的本质，进而造成学了就背，考了就忘的怪圈。如果能在理论教学中穿插算法运用实例，学生在拓展算法知识的同时也能窥见理论的力量和魅力。
 
-[UCB CS70 : discrete Math and probability theory](./数学进阶/CS70.md) 和 [UCB CS126 : Probability theory](./数学进阶/CS126.md) 是 UC Berkeley 的概率论课程，前者覆盖了离散数学和概率论基础，后者则涉及随机过程以及深入的理论内容。两者都非常注重理论和实践的结合，有丰富的算法实际运用实例，后者还有大量的Python编程作业来让学生运用概率论的知识解决实际问题。
+[UCB CS70 : discrete Math and probability theory](./数学进阶/CS70.md) 和 [UCB CS126 : Probability theory](./数学进阶/CS126.md) 是 UC Berkeley 的概率论课程，前者覆盖了离散数学和概率论基础，后者则涉及随机过程以及深入的理论内容。两者都非常注重理论和实践的结合，有丰富的算法实际运用实例，后者还有大量的 Python 编程作业来让学生运用概率论的知识解决实际问题。
 
 #### 数值分析
 
@@ -90,7 +94,7 @@ More contents under construction.
 
 上完上面的体验课之后，如果意犹未尽的话，不妨试试 MIT 的 [18.330 : Introduction to numerical analysis](./数学进阶/numerical.md)，这门课的编程作业同样会用 Julia 编程语言，不过难度和深度上都上了一个台阶。内容涉及了浮点编码、Root finding、线性系统、微分方程等等方面，整门课的主旨就是让你利用离散化的计算机表示去估计和逼近一个数学上连续的概念。这门课的教授还专门撰写了一本配套的开源教材 [Fundamentals of Numerical Computation](https://fncbook.github.io/fnc/frontmatter.html)，里面附有丰富的 Julia 代码实例和严谨的公式推导。
 
-如果你还意犹未尽的话，还有 MIT 的研究生课程 [18.335: Introduction to numerical method][18.335] 供你参考。
+如果你还意犹未尽的话，还有 MIT 的数值分析研究生课程 [18.335: Introduction to numerical method][18.335] 供你参考。
 
 [18.335]: https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm
 
@@ -141,7 +145,7 @@ More contents under construction.
 
 #### Python
 
-- [Harvard CS50: This is CS50x](编程入门/CS50.md) 最好的计算机基础入门课，你绝对会爱上的。
+- [Harvard CS50: This is CS50x](编程入门/CS50.md)
 - [UCB CS61A: Structure and Interpretation of Computer Programs](编程入门/CS61A.md)
 
 #### C++
@@ -220,7 +224,7 @@ More contents under construction.
 
 [UCB CS162: Operating System](操作系统/CS162.md)，伯克利的操作系统课，采用和 Stanford 同样的 Project —— 一个教学用操作系统 Pintos。我作为北京大学2022年春季学期操作系统实验班的助教，引入并改善了这个 Project，课程资源也会全部开源，具体参见[课程网站](https://pkuos.systems)。
 
-[NJU: Operating System Design and Implementation](操作系统/NJUOS.md)，南京大学的蒋炎岩老师开设的操作系统课程。蒋老师以其独到的视角
+[NJU: Operating System Design and Implementation](操作系统/NJUOS.md)，南京大学的蒋炎岩老师开设的操作系统课程。蒋老师以其独到的系统视角结合丰富的代码示例将众多操作系统的概念讲得深入浅出，此外这门课的全部课程内容都是中文的，非常方便大家学习。
 
 ### 并行与分布式系统
 
