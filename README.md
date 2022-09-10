@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=./docs/images/csdiy-blue.png width="300" height="300">
+  <img src=./docs/images/title.png >
 </div>
 
 # CS 自学指南
