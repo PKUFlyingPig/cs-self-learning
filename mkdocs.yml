@@ -63,6 +63,19 @@ markdown_extensions:
   - md_in_html
 
 plugins:
+  - i18n:
+      default_language: zh
+      material_alternate: true
+      languages:
+        zh:
+          name: 简体中文
+          build: true
+        en:
+          name: English
+          build: true
+      nav_translations:
+        en:
+          前言: Introduction
   - search:
       lang: ja
   - git-revision-date-localized
