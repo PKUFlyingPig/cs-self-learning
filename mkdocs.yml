@@ -76,6 +76,31 @@ plugins:
       nav_translations:
         en:
           前言: Introduction
+          一个仅供参考的CS学习规划: Guideline
+          必学工具: Tools
+          好书推荐: Book Recommendation
+          数学基础: Mathematics Fundamental
+          数学进阶: Advanced Mathematics
+          编程入门: Programming Fundamental
+          电子基础: Electronic Fundamental
+          数据结构与算法: Data Structures and Algorithms
+          软件工程: Software Engineering
+          体系结构: Computer Architecture
+          操作系统: Operating Systems
+          并行与分布式系统: Distributed Systems
+          计算机系统安全: Computer Security
+          计算机网络: Computer Networking
+          数据库系统: Database Systems
+          编译原理: Compilers
+          计算机图形学: Computer Graphics
+          Web开发: Web Development
+          数据科学: Data Science
+          人工智能: AI Fundamental
+          机器学习: Machine Learning
+          机器学习系统: Machine Learning Systems
+          深度学习: Deep Learning
+          机器学习进阶: Advanced Machine Learning
+          后记: Postscript
   - search:
       lang: ja
   - git-revision-date-localized
