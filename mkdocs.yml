@@ -73,7 +73,7 @@ plugins:
         en:
           name: English
           build: true
-      site_name: CSDIY.wiki
+          site_name: CSDIY.wiki
       nav_translations:
         en:
           前言: Foreword
