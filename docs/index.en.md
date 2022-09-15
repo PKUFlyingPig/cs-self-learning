@@ -8,4 +8,4 @@ All the courses in this repository are developed in MIT, UC Berkeleys, Princeton
 
 Let's self-learning together and get better together !
 
-If you find this repo helpful for you, your star2 is the best gift for me ~
+If you find this repo helpful for you, your star is the best gift for me ~

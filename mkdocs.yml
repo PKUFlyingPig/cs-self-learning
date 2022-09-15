@@ -73,16 +73,17 @@ plugins:
         en:
           name: English
           build: true
+      site_name: CSDIY.wiki
       nav_translations:
         en:
-          前言: Introduction
+          前言: Foreword
           一个仅供参考的CS学习规划: Guideline
-          必学工具: Tools
+          必学工具: Productivity Toolkit
           好书推荐: Book Recommendation
-          数学基础: Mathematics Fundamental
+          数学基础: Fundamental Mathematics
           数学进阶: Advanced Mathematics
-          编程入门: Programming Fundamental
-          电子基础: Electronic Fundamental
+          编程入门: Fundamental Programming
+          电子基础: Fundamental Electronics
           数据结构与算法: Data Structures and Algorithms
           软件工程: Software Engineering
           体系结构: Computer Architecture
@@ -95,7 +96,7 @@ plugins:
           计算机图形学: Computer Graphics
           Web开发: Web Development
           数据科学: Data Science
-          人工智能: AI Fundamental
+          人工智能: Artificial Intelligence
           机器学习: Machine Learning
           机器学习系统: Machine Learning Systems
           深度学习: Deep Learning

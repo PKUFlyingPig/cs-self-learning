@@ -4,9 +4,9 @@
 
 - Offered by:
 - Prerequisites:
-- Programming lanuages used:
+- Programming lanuages:
 - Difficulty:
-- Credits:
+- Class Hour:
 
 <!-- Course Information -->
 

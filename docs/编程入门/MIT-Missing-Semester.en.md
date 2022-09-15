@@ -4,11 +4,11 @@
 
 - Offered by: MIT
 - Prerequisites: None
-- Programming lanuages used: Shell
+- Programming lanuages: Shell
 - Difficulty: 🌟🌟
-- Credits: 10 hours
+- Class Hour: 10 hours
 
-Just as the course name indicated, this course will teach the missing things in the university courses. It will cover shell programming, git, vim editor, tmux, ssh, sed, awk and even how to beatify your terminal. Trust me, this will be your first step to become a hacker !
+Just as the course name indicated, this course will teach the missing things in the university courses. It will cover shell programming, git, vim editor, tmux, ssh, sed, awk and even how to beautify your terminal. Trust me, this will be your first step to become a hacker!
 
 ## Resources
 
