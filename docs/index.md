@@ -1,17 +1,23 @@
+<figure markdown>
+  ![Image title](./images/title.png){ width="600" }
+</figure>
+
 # 前言
 
-**更新：本书最新网址 [csdiy.wiki](https://csdiy.wiki)，欢迎大家访问 ～**
+**最近更新：英文版正在[建设中](https://github.com/PKUFlyingPig/cs-self-learning/issues/222)，增加陈天奇[机器学习编译](机器学习系统/MLC.md)，增加 CMU [机器学习系统](机器学习系统/CMU10-414.md)， ～**
+<!-- **最近更新：增加[Caltech CS 122: Database System Implementation](./数据库系统/CS122.md) ，重新整理[好书推荐](./%E5%A5%BD%E4%B9%A6%E6%8E%A8%E8%8D%90.md)模块 ~** -->
+<!-- **最近更新：增加南京大学[操作系统课程](操作系统/NJUOS.md)，增加毕业论文[写作教程](必学工具/thesis.md) ～** -->
 
 这是一本计算机的自学指南，也是对自己大学三年自学生涯的一个纪念。
 
 这同时也是一份献给北大信科学弟学妹们的礼物。如果这本书能对你们的信科生涯有哪怕一丝一毫的帮助，都是对我极大的鼓励和慰藉。
 
-本书目前规划了以下部分(如果你有其他好的建议，或者想加入贡献者的行列，欢迎邮件 [zhongyinmin@pku.edu.cn](mailto:zhongyinmin@pku.edu.cn) 或者在 issue 里提问)：
+本书目前包括了以下部分(如果你有其他好的建议，或者想加入贡献者的行列，欢迎邮件 [zhongyinmin@pku.edu.cn](mailto:zhongyinmin@pku.edu.cn) 或者在 issue 里提问)：
 
 - 必学工具：IDE, 翻墙, StackOverflow, Git, GitHub, Vim, LaTeX, GNU Make, 实用工具 ...
-- **国外高质量 CS 课程汇总**：我将把我上过的所有高质量的国外 CS 课程分门别类进行汇总，并给出相关的自学建议，大部分课程都会有一个独立的仓库维护相关的资源以及我的作业实现。
-- 环境配置：Linux 基础，`bash`，环境变量，Anaconda ...
+- 环境配置：PC端以及服务器端开发环境配置、各类运维相关教材及资料 ...
 - 经典书籍推荐：看过 CSAPP 这本书的同学一定感叹好书的重要，我将列举推荐自己看过的计算机领域的必看好书与资源链接。
+- **国外高质量 CS 课程汇总**：我将把我上过的所有高质量的国外 CS 课程分门别类进行汇总，并给出相关的自学建议，大部分课程都会有一个独立的仓库维护相关的资源以及我的作业实现。
 
 ## 梦开始的地方 —— CS61A
 
