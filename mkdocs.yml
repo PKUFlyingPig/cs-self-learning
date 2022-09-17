@@ -12,10 +12,9 @@ copyright: Copyright &copy; 2021-present <a href="https://github.com/PKUFlyingPi
 theme:
   name: material
   language: zh
-
   static_templates:
     - 404.html
-
+  favicon: images/favicon16x16.png
   include_search_page: false
   search_index_only: true
 
@@ -59,7 +58,50 @@ theme:
 
   custom_dir: overrides
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
 plugins:
+  - i18n:
+      default_language: zh
+      material_alternate: true
+      languages:
+        zh:
+          name: 简体中文
+          build: true
+        en:
+          name: English
+          build: true
+          site_name: CSDIY.wiki
+      nav_translations:
+        en:
+          前言: Foreword
+          一个仅供参考的CS学习规划: Guideline
+          必学工具: Productivity Toolkit
+          好书推荐: Book Recommendation
+          数学基础: Fundamental Mathematics
+          数学进阶: Advanced Mathematics
+          编程入门: Fundamental Programming
+          电子基础: Fundamental Electronics
+          数据结构与算法: Data Structures and Algorithms
+          软件工程: Software Engineering
+          体系结构: Computer Architecture
+          操作系统: Operating Systems
+          并行与分布式系统: Distributed Systems
+          计算机系统安全: Computer Security
+          计算机网络: Computer Networking
+          数据库系统: Database Systems
+          编译原理: Compilers
+          计算机图形学: Computer Graphics
+          Web开发: Web Development
+          数据科学: Data Science
+          人工智能: Artificial Intelligence
+          机器学习: Machine Learning
+          机器学习系统: Machine Learning Systems
+          深度学习: Deep Learning
+          机器学习进阶: Advanced Machine Learning
+          后记: Postscript
   - search:
       lang: ja
   - git-revision-date-localized
@@ -70,6 +112,9 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/pkuflyingpig/cs-self-learning/
+  analytics:
+    provider: google
+    property: G-KJB4RXSKZG
 
 nav:
   - 前言: "index.md"
@@ -84,6 +129,7 @@ nav:
       - LaTeX: "必学工具/LaTeX.md"
       - Docker: "必学工具/Docker.md"
       - 实用工具箱: "必学工具/tools.md"
+      - 毕业论文: "必学工具/thesis.md"
   - 好书推荐: "好书推荐.md"
   - 数学基础:
       - "MIT18.01/18.02: Calculus": "数学基础/MITmaths.md"
@@ -101,6 +147,7 @@ nav:
       - "Harvard CS50: This is CS50x": "编程入门/CS50.md"
       - "UCB CS61A: Structure and Interpretation of Computer Programs": "编程入门/CS61A.md"
       - "Duke University: Introductory C Programming Specialization": "编程入门/Duke-Coursera-Intro-C.md"
+      - "Stanford CS106B/X": "编程入门/CS106B_CS106X.md"
       - "Stanford CS106L: Standard C++ Programming": "编程入门/CS106L.md"
       - "Stanford CS110L: Safety in Systems Programming": "编程入门/CS110L.md"
   - 电子基础:
@@ -110,7 +157,6 @@ nav:
   - 数据结构与算法:
       - "UCB CS61B: Data Structures and Algorithms": "数据结构与算法/CS61B.md"
       - "Coursera: Algorithms I & II": "数据结构与算法/Algo.md"
-      - "Stanford CS106B/X": "数据结构与算法/CS106B_CS106X.md"
       - "UCB CS170: Efficient Algorithms and Intractable Problems": "数据结构与算法/CS170.md"
   - 软件工程:
       - "MIT 6.031: Software Construction": "软件工程/6031.md"
@@ -123,6 +169,7 @@ nav:
   - 操作系统:
       - "MIT 6.S081: Operating System Engineering": "操作系统/MIT6.S081.md"
       - "UCB CS162: Operating System": "操作系统/CS162.md"
+      - "NJU OS: Operating System Design and Implementation": "操作系统/NJUOS.md"
   - 并行与分布式系统:
       - "CMU 15-418/Stanford CS149: Parallel Computing": "并行与分布式系统/CS149.md"
       - "MIT 6.824: Distributed System": "并行与分布式系统/MIT6.824.md"
@@ -130,11 +177,13 @@ nav:
       - "UCB CS161: Computer Security": "系统安全/CS161.md"
       - "MIT 6.858: Computer System Security": "系统安全/MIT6.858.md"
   - 计算机网络:
+      - "USTC Computer Networking:A Top-Down Approach": "计算机网络/topdown_ustc.md"
       - "Computer Networking: A Top-Down Approach": "计算机网络/topdown.md"
       - "Stanford CS144: Computer Network": "计算机网络/CS144.md"
   - 数据库系统:
       - "UCB CS186: Introduction to Database System": "数据库系统/CS186.md"
       - "CMU 15-445: Database Systems": "数据库系统/15445.md"
+      - "Caltech CS122: Database System Implementation": "数据库系统/CS122.md"
   - 编译原理:
       - "Stanford CS143: Compilers": "编译原理/CS143.md"
   - 计算机图形学:
@@ -145,6 +194,7 @@ nav:
   - Web开发:
       - "MIT web development course": "Web开发/mitweb.md"
       - "Stanford CS142: Web Applications": "Web开发/CS142.md"
+      - "University of Helsinki: Full Stack open 2022": "Web开发/fullstackopen.md"
   - 数据科学:
       - "UCB Data100: Principles and Techniques of Data Science": "数据科学/Data100.md"
   - 人工智能:
@@ -155,6 +205,9 @@ nav:
       - "Coursera: Machine Learning": "机器学习/ML.md"
       - "Stanford CS229: Machine Learning": "机器学习/CS229.md"
       - "UCB CS189: Introduction to Machine Learning": "机器学习/CS189.md"
+  - 机器学习系统:
+      - "Machine Learning Compilation": "机器学习系统/MLC.md"
+      - "CMU 10-414/714: Deep Learning Systems": "机器学习系统/CMU10-414.md"
   - 深度学习:
       - "Coursera: Deep Learning": "深度学习/CS230.md"
       - "国立台湾大学：李宏毅机器学习": "深度学习/LHY.md"
