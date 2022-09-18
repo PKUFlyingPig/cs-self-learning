@@ -8,7 +8,7 @@
 - Difficulty: 🌟🌟🌟
 - Class Hour: 80 hours
 
-Berkeley's introductory data science course is relatively basic, covering the basics of data cleaning, feature extraction, data visualization, machine learning and inference, as well as common data science tools such as Pandas, Numpy, and Matplotlib. The course is also rich in interesting programming assignments, which is one of the highlights of the course.
+This is Berkeley's introductory course in data science, covering the basics of data cleaning, feature extraction, data visualization, machine learning and inference, as well as common data science tools such as Pandas, Numpy, and Matplotlib. The course is also rich in interesting programming assignments, which is one of the highlights of the course.
 
 ## Resources
 - Course Website: <https://ds100.org/fa21/>
