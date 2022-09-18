@@ -4,7 +4,7 @@
 
 - Offered by: MIT
 - Prerequisites: None
-- Programming lanuages: Shell
+- Programming Languages: Shell
 - Difficulty: 🌟🌟
 - Class Hour: 10 hours
 
@@ -14,4 +14,4 @@ Just as the course name indicated, this course will teach the missing things in 
 
 - Homepage: <https://missing.csail.mit.edu/>
 - Records: <https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J>
-- Assignments: Some exercises behind each lecture.
+- Assignments: Some exercises after each lecture.
