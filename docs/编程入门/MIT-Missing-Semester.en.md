@@ -4,7 +4,7 @@
 
 - Offered by: MIT
 - Prerequisites: None
-- Programming lanuages: Shell
+- Programming Languages: Shell
 - Difficulty: 🌟🌟
 - Class Hour: 10 hours
 
