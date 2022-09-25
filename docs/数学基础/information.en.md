@@ -4,7 +4,7 @@
 
 - Offered by: MIT
 - Prerequisites: None
-- Programming Lanuages: None
+- Programming Languages: None
 - Difficulty: 🌟🌟🌟
 - Class Hour: 100 hours
 

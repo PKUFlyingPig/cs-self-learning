@@ -4,7 +4,7 @@
 
 - Offered by: UMass
 - Prerequisites: basic knowledge about computer system
-- Programming Lanuages: None
+- Programming Languages: None
 - Difficulty: 🌟🌟🌟
 - Class Hour: 40 hours
 

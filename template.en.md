@@ -4,7 +4,7 @@
 
 - Offered by:
 - Prerequisites:
-- Programming Lanuages:
+- Programming Languages:
 - Difficulty: 🌟🌟🌟
 - Class Hour:
 
