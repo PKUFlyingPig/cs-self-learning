@@ -10,7 +10,7 @@
 
 The calculus course at *MIT consists of MIT18.01: Single variable calculus* and *MIT18.02: Multi variable calculus*. If you are confident in your math, you can just read the course notes, which are written in a very simple and vivid way, so that you will not be tired of doing homework but can really see the essence of calculus.
 
-In addition to the course materials, the famous Youtuber **3Blue1Brown**'s video series [The Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) are also great learning resources.
+In addition to the course materials, the famous Youtuber **3Blue1Brown**'s video series [The Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) are also great learning resources.
 
 ## Course Resources
 
