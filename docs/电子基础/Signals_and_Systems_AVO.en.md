@@ -8,7 +8,7 @@
 - Difficulty: 🌟🌟
 - Class Hour: 50-70 hours
 
-The name of the course teacher: Prof. Alan V. Oppenheim
+The name of the instructor: Prof. Alan V. Oppenheim
 
 Okay, enough reason to take this class.
 
