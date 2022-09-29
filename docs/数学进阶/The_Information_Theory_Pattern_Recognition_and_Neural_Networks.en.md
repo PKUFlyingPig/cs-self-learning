@@ -8,7 +8,7 @@
 - Difficulty: 🌟🌟🌟
 - Class Hour: 30-50 hours
 
-This is a course on information theory taught by Sir David MacKay at the University of Cambridge. The professor is a very proficient scholar in information theory and neural networks, and the textbook for the course is a classic work in the field of information theory. Unfortunately, God is jealous...
+This is a course on information theory taught by Sir David MacKay at the University of Cambridge. The professor is a very famous scholar in information theory and neural networks, and the textbook for the course is a classic work in the field of information theory. Unfortunately, those whom God loves die young ...
 
 ## Course Resources
 
