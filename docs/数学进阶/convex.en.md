@@ -2,7 +2,7 @@
 
 ## Descriptions
 
-- Offered by: Sandford
+- Offered by: Stanford
 - Prerequisites: Python, Calculus, Linear Algebra, Probability Theory, Numerical Analysis
 - Programming Languages: Python
 - Difficulty: 🌟🌟🌟🌟🌟
@@ -10,7 +10,7 @@
 
 Professor [Stephen Boyd](http://web.stanford.edu/~boyd) is a great expert in the field of convex optimization and his textbook **Convex Optimization** has been adopted by many prestigious universities. His team has also developed a programming framework for solving common convex optimization problems in Python, Julia, and other popular programming languages, and its homework assignments also use this programming framework to solve real-life convex optimization problems.
 
-In practice, you will deeply understand that for the same problem, a small change in the modeling process can make a world of difference in the difficulty of solving the equation. It is an art to make the equations you model "convex".
+In practice, you will deeply understand that for the same problem, a small change in the modeling process can make a world of difference in the difficulty of solving the equation. It is an art to make the equations you formulate "convex".
 
 ## Course Resources
 
