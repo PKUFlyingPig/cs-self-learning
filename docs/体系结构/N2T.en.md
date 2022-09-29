@@ -4,23 +4,25 @@
 
 - Offered by: Hebrew University of Jerusalem
 - Prerequisites: None
-- Programming Languages: Choose by course taker
+- Programming Languages: Chosen by the course taker
 - Difficulty: 🌟🌟🌟
 - Class Hour: 40 hours
 
-As a popular course on [Coursera](https://www.coursera.org) marked by tens of thousands of people as full stars and adopted by over four hundred colleges, universities and high schools, it enables a layman in computer science to build a computer from Nand (Not And) logic gates, and run Tetris on it ultimately. 
+As one of the most popular courses on [Coursera](https://www.coursera.org), tens of thousands of people give it a full score, and over four hundred colleges and high schools teach it. It guides the students who may have no preparatory knowledge in computer science to build a whole computer from Nand logic gates and finally run the Tetris game on it. 
 
 Sounds cool, right? It's even cooler when you implement it!
 
-The course is divided into two parts, hardware and software respectively. 
+The course is divided into hardware modules and software modules respectively. 
 
-In hardware portion, you will dive into a world based on 0 and 1, create various logic gates from Nand gates, and step by step construct a CPU to run a set of simple assembly codes defined by course instructors. 
+In the hardware modules, you will dive into a world based on 0 and 1, create various logic gates from Nand gates, and construct a CPU step by step to run a simplified instruction set designed by the course instructors. 
 
-And in software part, you will write a compiler, and compile a high-level language *Jack* into byte codes which can run on virtual machines, and translate them into assembly language finally. The high-level language *Jack* is developed by the authors. You will also develop a simple and easy OS (operating system), which enable your computer to input and output graphic interfaces. 
+In the software modules, you will first write a compiler to compile a high-level language *Jack* which is designed by the instructors into byte codes that can run on virtual machines. Then you will further translate the byte codes into assembly language that can run on the CPU you create in the hardware modules. You will also develop a simple operating system that enables your computer to support GUI. 
 
-So now, you can use *Jack* to create your Tetris, compile it into assembly version, run it on your Nand-based CPU, and interact with it through the OS built by yourself. After taking this course, you will have a comprehensive and profound understanding of the entire computer architecture, which might be extremely helpful to your subsequent learning. 
+Finally, you can use *Jack* to create the Tetris game, compile it into assembly language, run it on your self-made CPU, and interact with it through the OS built by yourself. After taking this course, you will have a comprehensive and profound understanding of the entire computer architecture, which might be extremely helpful to your subsequent learning. 
 
-Probably, you may worry that the course is too difficult, but please note that the course is completely layman-orientated. Making even high school students understood the course is the authors' expectation. So as long as you keep pace with the syllabus and schedule, it's definitely enough for you to finish it within one month. Simple, yet all-encompassing and self-sufficient, this course superbly extracts the essence of computer, while not be trapped by tedious and complex details which are designed for efficiency and performance. Surely you will sense the elegance and magic of modern computers with a relaxing and jolly learning experience. 
+You may think that the course is too difficult. Don't worry, because it is completely designed for laymen. In the instructors' expectations, even high school students can understand the content. So as long as you keep pace with the syllabus, you can finish it within a month. 
+
+This course extracts the essence of computers while omitting the tedious and complex details in modern computer systems that are designed for efficiency and performance. Surely you will enjoy the elegance and magic of computers in a relaxing and jolly journey. 
 
 ## Course Resources
 
