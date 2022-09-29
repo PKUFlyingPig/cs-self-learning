@@ -8,22 +8,14 @@
 - Difficulty：🌟🌟🌟🌟🌟
 - Class Hour：150 hours
 
-麻省理工学院大名鼎鼎的 PDOS 实验室开设的面向MIT本科生的操作系统课程。开设这门课的教授之一 —— Robert Morris 教授曾是一位顶尖黑客，世界上第一个蠕虫病毒 Morris 就是出自他之手。
-
 This Operating System course is offered by the well-known PDOS Group in MIT, to MIT undergraduates. One of the professors teaching this course, Robert Morris, was once a top-level hacker. He created 'Morris', the world's first worm virus.
 
-
-这门课的前身是 MIT 著名的课程 6.828，MIT 的几位教授为了这门课曾专门开发了一个基于 x86 的教学用操作系统 JOS，被众多名校作为自己的操统课程实验。但随着 RISC-V 的横空出世，这几位教授又基于 RISC-V 开发了一个新的教学用操作系统 xv6，并开设了 MIT6.S081 这门课。由于 RISC-V 轻便易学的特点，学生不需要像此前 JOS 一样纠结于众多 x86 “特有的”为了兼容而遗留下来的复杂机制，而可以专注于操作系统层面的开发。
 The predecessor of this course was the famous MIT 6.828. A couple of MIT professors have created an operating system called JOS based on x86 for this course, which has been used by many other famous universities for their own OS course labs. While after the the birth of RISC-V, these professors have developed a new operating system called xv6 for teaching based on RISC-V, and further opened MIT 6.S081. RISC-V is lightweight and beginner friendly, so students don't need to struggle with the 'characteristic' x86 features left by historical reasons as in JOS, but focus on the development on pure operating system level. 
 
+The course professors have also written a [tutorial](https://pdos.csail.mit.edu/6.828/2021/xv6/book-riscv-rev2.pdf), elaborately explaining the ideas of design and details of implementation of xv6 operating system. 
 
-这几位教授还专门写了一本[教程](https://pdos.csail.mit.edu/6.828/2021/xv6/book-riscv-rev2.pdf)，详细讲解了 xv6 的设计思想和实现细节。
-These professors have also written a [tutorial](https://pdos.csail.mit.edu/6.828/2021/xv6/book-riscv-rev2.pdf), elaborately explaining the ideas of design and details of implementation of xv6 operating system. 
-
-这门课的讲授也很有意思，老师会带着学生依照 xv6 的源代码去理解操作系统的众多机制和设计细节，而不是停留于理论知识。每周都会有一个 lab，让你在 xv6 上增加一些新的机制和特性，非常注重学生动手能力的培养。整个学期一共有 11 个 lab，让你全方位地深刻理解操作系统的每个部分，非常有成就感。而且所有的lab都有着非常完善的测试框架，有的测试代码甚至上千行，让人不得不佩服 MIT 的几位教授为了教好这门课所付出的心血。
 The teaching style of this course is also interesting, professors guided the students to understand the numerous features and design details in operating system by going through xv6 source code, instead of merely teaching theoretical knowledge. Labs that come weekly will make you adding new features and properties to xv6, which focuses on enhancing students' practical skills. There are 11 labs in total in the whole semester for you to understand each aspects of operating system design, which is brings great sense of achievement. Each lab has a complete framework for testing, some testing codes are more than a thousand lines, which shows how many effort these MIT professors have put to each this course well. 
 
-这门课的后半程会讲授操作系统领域的多篇经典论文，涉及文件系统、系统安全、网络、虚拟化等等多个主题，让你有机会接触到学界最前沿的研究方向。
 In later half of the course, a couple of classical papers in operating system field will be taught, related to file systems, system security, networking, virtualization and so on, giving you a chance to have a taste of the cutting edge research directions in academic field.
 
 ## Course Resources
