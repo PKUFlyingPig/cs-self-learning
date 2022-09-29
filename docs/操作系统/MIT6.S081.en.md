@@ -3,20 +3,20 @@
 ## Descriptions
 
 - Offered by: MIT
-- Prerequistites：Computer Architecture + Solid C Programming Skills + RISC-V Assembly
-- Programming Languages：C, RISC-V
+- Prerequisites: Computer Architecture + Solid C Programming Skills + RISC-V Assembly
+- Programming Languages: C, RISC-V
 - Difficulty：🌟🌟🌟🌟🌟
 - Class Hour：150 hours
 
 This Operating System course is offered by the well-known PDOS Group in MIT, to MIT undergraduates. One of the professors teaching this course, Robert Morris, was once a top-level hacker. He created 'Morris', the world's first worm virus.
 
-The predecessor of this course was the famous MIT 6.828. A couple of MIT professors have created an operating system called JOS based on x86 for this course, which has been used by many other famous universities for their own OS course labs. While after the the birth of RISC-V, these professors have developed a new operating system called xv6 for teaching based on RISC-V, and further opened MIT 6.S081. RISC-V is lightweight and beginner friendly, so students don't need to struggle with the 'characteristic' x86 features left by historical reasons as in JOS, but focus on the development on pure operating system level. 
+The predecessor of this course was the famous MIT 6.828. A couple of MIT professors have created an operating system called JOS based on x86 for this course, which has been used by many other famous universities for their OS course labs. While after the birth of RISC-V, these professors developed a new operating system called xv6 for teaching based on RISC-V, and further opened MIT 6.S081. RISC-V is lightweight and beginner friendly, so students don't need to struggle with the 'characteristic' x86 features left by historical reasons as in JOS, but focus on the development at the pure operating system level. 
 
-The course professors have also written a [tutorial](https://pdos.csail.mit.edu/6.828/2021/xv6/book-riscv-rev2.pdf), elaborately explaining the ideas of design and details of implementation of xv6 operating system. 
+The course professors have also written a [tutorial](https://pdos.csail.mit.edu/6.828/2021/xv6/book-riscv-rev2.pdf), elaborately explaining the ideas of design and details of the implementation of xv6 operating system. 
 
-The teaching style of this course is also interesting, professors guided the students to understand the numerous features and design details in operating system by going through xv6 source code, instead of merely teaching theoretical knowledge. Labs that come weekly will make you adding new features and properties to xv6, which focuses on enhancing students' practical skills. There are 11 labs in total in the whole semester for you to understand each aspects of operating system design, which is brings great sense of achievement. Each lab has a complete framework for testing, some testing codes are more than a thousand lines, which shows how many effort these MIT professors have put to each this course well. 
+The teaching style of this course is also interesting, professors guided the students to understand the numerous features and design details in the operating system by going through xv6 source code, instead of merely teaching theoretical knowledge. Labs that come weekly will make you add new features and properties to xv6, which focuses on enhancing students' practical skills. There are 11 labs in total in the whole semester for you to understand each aspect of operating system design, which brings a great sense of achievement. Each lab has a complete framework for testing, some testing codes are more than a thousand lines, which shows how much effort these MIT professors have made to teach this course well. 
 
-In later half of the course, a couple of classical papers in operating system field will be taught, related to file systems, system security, networking, virtualization and so on, giving you a chance to have a taste of the cutting edge research directions in academic field.
+In the later half of the course, a couple of classical papers in the operating system field will be taught, related to file systems, system security, networking, virtualization, and so on, giving you a chance to have a taste of the cutting edge research directions in the academic field.
 
 ## Course Resources
 
@@ -35,7 +35,7 @@ In later half of the course, a couple of classical papers in operating system fi
 
 All resources used and assignments implemented by @PKUFlyingPig when learning this course are in [PKUFlyingPig/MIT6.S081-2020fall - GitHub][github_pkuflyingpig].
 
-@[KuangjuX] documented MIT 6.S081 labs' [Solutions][solution_kuangjux]，with detailed solutions and complementary knowledge. Moreover, @[KuangjuX] has reimplemented the xv6-riscv operating system with Rust: [xv6-rust], it contains more detailed review and discussion about xv6-riscv, please view the details if you are interested. 
+@[KuangjuX] documented MIT 6.S081 labs' [Solutions][solution_kuangjux], with detailed solutions and complementary knowledge. Moreover, @[KuangjuX] has reimplemented the xv6-riscv operating system with Rust: [xv6-rust], it contains some more detailed reviews and discussions about xv6-riscv, please view the details if you are interested. 
 
 [github_pkuflyingpig]: https://github.com/PKUFlyingPig/MIT6.S081-2020fall
 [KuangjuX]: https://github.com/KuangjuX
