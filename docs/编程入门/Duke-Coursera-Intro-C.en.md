@@ -15,7 +15,7 @@ This is an excellent course which I benefited a lot from.
 - The course provides excellent practice in GDB, Valgrind, and the assignments will cover some basic Git exercises.
 - The course instructor recommends using Emacs for homework, so it's a good opportunity to learn Emacs. If you already know how to use Vim, I suggest you use Evil. This way you don't lose the editing capabilities of Vim, and you get to experience the power of Emacs. Having both Emacs and Vim in your kit will increase your efficiency considerably. Emacs' org-mode, smooth integration of GDB, etc., are convenient for developers.
 - It may require payment, but I think it's worth it.
-- Although the course title is introductory, it has both breadth and depth.
+- Although this is an introductory course, it has both breadth and depth.
 
 ## Course Resources
 
