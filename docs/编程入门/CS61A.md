@@ -31,4 +31,4 @@ CS61B 和 CS61C 在本书中均有收录。
 
 ## 资源汇总
 
-@PKUFlyingPig 在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPic/CS61A - GitHub](https://github.com/PKUFlyingPig/CS61A) 中。
+@PKUFlyingPig 在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPig/CS61A - GitHub](https://github.com/PKUFlyingPig/CS61A) 中。
