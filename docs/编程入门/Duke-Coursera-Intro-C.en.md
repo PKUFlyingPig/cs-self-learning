@@ -5,7 +5,7 @@
 - Offered by: Duke
 - Prerequisites: None
 - Programming Languages: C
-- Difficulty: 🌟🌟🌟🌟🌟
+- Difficulty: 🌟🌟🌟🌟
 - Class Hour: 110 hours
 
 Excellent course, I benefited a lot from.
