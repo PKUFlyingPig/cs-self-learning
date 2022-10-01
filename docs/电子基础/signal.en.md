@@ -12,7 +12,7 @@ The essence of this course is the 6 incredibly interesting Labs that will allow 
 
 ## Course Resources
 
-- Course Website: https://inst.eecs.berkeley.edu/~ee126/fa20/content.html
+- Course Website: <https://inst.eecs.berkeley.edu/~ee126/fa20/content.html>
 - Recordings: refer to course website
 - Assignments: refer to course website
 
