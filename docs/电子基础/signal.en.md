@@ -8,7 +8,7 @@
 - Difficulty: 🌟🌟🌟🌟🌟
 - Class Hour: 100 hours
 
-The essence of this course is the 6 incredibly interesting Labs that will allow you to use signals and systems theory to solve a variety of practical problems in Python . For example, lab3 will let you implement the FFT algorithm and compare the performance with Numpy's official implementation. lab4 will let you infer the heart rate by processing the video of a thumb held up close to an iPhone camera. lab5 is more awesome and will let you reduce the noise in the photos taken by the Hubble telescope to restore the brilliant and bright starry sky. lab6 will let you build a feedback system to stabilize the pole on the cart.
+The highlight of this course is the six exciting labs that will allow you to use signals and systems theory to solve practical problems in Python. For example, in lab3 you will implement the FFT algorithm and compare the performance with Numpy's official implementation. In lab4 you will infer the heart rate by processing the video of fingers. Lab5 is the most awesome one where you will reduce the noise in the photos taken by the Hubble telescope to recover the brilliant and bright starry sky. In lab6 you will build a feedback system to stabilize the pole on the cart.
 
 ## Course Resources
 
