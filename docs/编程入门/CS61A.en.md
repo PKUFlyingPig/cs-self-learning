@@ -31,4 +31,4 @@ Note: If you have no prior programming experience at all, getting started with C
 
 ## Personal Resources
 
-All the resources and assignments used by @PKUFlyingPig in this course are maintained in [PKUFlyingPic/CS61A - GitHub](https://github.com/PKUFlyingPig/CS61A)
+All the resources and assignments used by @PKUFlyingPig in this course are maintained in [PKUFlyingPig/CS61A - GitHub](https://github.com/PKUFlyingPig/CS61A)
