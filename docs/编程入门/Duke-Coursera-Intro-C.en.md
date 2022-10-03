@@ -20,9 +20,9 @@ This is an excellent course which I benefited a lot from.
 ## Course Resources
 
 - Course Website: <https://www.coursera.org/specializations/c-programming>
-- Recordings: refer to course website
-- Textbook: refer to course website
-- Assignments: refer to course website
+- Recordings: refer to the course website
+- Textbook: refer to the course website
+- Assignments: refer to the course website
 
 ## Personal Resources
 
