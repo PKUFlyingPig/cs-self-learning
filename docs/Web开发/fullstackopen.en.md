@@ -14,6 +14,6 @@ The course covers testing, configuration and environment management, and the use
 
 ## Resources
 - Course Website: <https://fullstackopen.com/en/>
-- Assignments: refer to course website
+- Assignments: refer to the course website
 - Course group on Discord: <https://study.cs.helsinki.fi/discord/join/fullstack/>
 - Course group on Telegram: <https://t.me/fullstackcourse/>
