@@ -29,7 +29,7 @@ This course extracts the essence of computers while omitting the tedious and com
 - Course Website：[Nand2Tetris I](https://www.coursera.org/learn/build-a-computer/home/week/1), [Nand2Tetris II](https://www.coursera.org/learn/nand2tetris2/home/welcome)
 - Recordings：Refer to course website
 - Textbook: [The Elements of Computing Systems: Building a Modern Computer from First Principles (CN-zh version)](book)
-- Assignments：10 projects to construct a computer, refer to course website for more details 
+- Assignments：10 projects to construct a computer, refer to the course website for more details 
 
 [book]: https://github.com/PKUFlyingPig/NandToTetris/blob/master/%5B%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E8%A6%81%E7%B4%A0%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%9E%84%E5%BB%BA%E7%8E%B0%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%5D.(%E5%B0%BC%E8%90%A8).%E5%91%A8%E7%BB%B4.%E6%89%AB%E6%8F%8F%E7%89%88.pdf
 
