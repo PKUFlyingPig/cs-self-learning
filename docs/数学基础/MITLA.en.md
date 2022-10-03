@@ -17,6 +17,6 @@ In addition to the course materials, the famous Youtuber **3Blue1Brown**'s video
 ## Resources
 
 - Course Website: <https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/syllabus/>
-- Recordings: refer to course website
+- Recordings: refer to the course website
 - Textbook: Introduction to Linear Algebra, Gilbert Strang
-- Assignments: refer to course website
+- Assignments: refer to the course website
