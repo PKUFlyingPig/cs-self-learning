@@ -13,8 +13,8 @@ The highlight of this course is the six exciting labs that will allow you to use
 ## Course Resources
 
 - Course Website: <https://inst.eecs.berkeley.edu/~ee120/fa19/>
-- Recordings: refer to course website
-- Assignments: refer to course website
+- Recordings: refer to the course website
+- Assignments: refer to the course website
 
 ## Personal Resources
 
