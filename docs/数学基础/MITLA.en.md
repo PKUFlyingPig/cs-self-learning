@@ -12,7 +12,7 @@ Gilbert Strang, a great mathematician at MIT, still insists on teaching in his e
 
 ![image](https://math.mit.edu/~gs/linearalgebra/linearalgebra5_Front.jpg)
 
-In addition to the course materials, the famous Youtuber **3Blue1Brown**'s video series [The Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) are also great learning resourses.
+In addition to the course materials, the famous Youtuber **3Blue1Brown**'s video series [The Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) are also great learning resources.
 
 ## Resources
 
