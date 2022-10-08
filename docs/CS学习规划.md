@@ -106,7 +106,7 @@ IDE (Integrated Development Environment)：集成开发环境，说白了就是�
 
 [MIT18.04]: https://ocw.mit.edu/courses/mathematics/18-04-complex-variables-with-applications-spring-2018/
 
-[MIT18.03: differential equations][MIT18.03]) 主要覆盖了常微分方程的求解，在此基础之上 [MIT18.152: Partial differential equations][MIT18.152]) 则会深入偏微分方程的建模与求解。掌握了微分方程这一有利工具，相信对于你的实际问题的建模能力以及从众多噪声变量中把握本质的直觉都会有很大帮助。
+[MIT18.03: differential equations][MIT18.03] 主要覆盖了常微分方程的求解，在此基础之上 [MIT18.152: Partial differential equations][MIT18.152] 则会深入偏微分方程的建模与求解。掌握了微分方程这一有力工具，相信对于你的实际问题的建模能力以及从众多噪声变量中把握本质的直觉都会有很大帮助。
 
 [MIT18.03]: https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/unit-i-first-order-differential-equations/
 [MIT18.152]: https://ocw.mit.edu/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2011/index.htm
@@ -179,14 +179,7 @@ IDE (Integrated Development Environment)：集成开发环境，说白了就是�
 
 ### 数据结构与算法
 
-#### 数据结构与算法
-
-- [UCB CS61B: Data Structures and Algorithms](数据结构与算法/CS61B.md)
-- [Coursera: Algorithms I & II](数据结构与算法/Algo.md)
-
-#### 算法设计与分析
-
-- [UCB CS170: Efficient Algorithms and Intractable Problems](数据结构与算法/CS170.md)
+算法是计算机科学的核心，也是几乎一切专业课程的基础。如何将实际问题通过数学抽象转化为算法问题，并选用合适的数据结构在时间和内存大小的限制下将其解决是算法课的永恒主题。如果你受够了老师的照本宣科，那么我强烈推荐伯克利的 [UCB CS61B: Data Structures and Algorithms](数据结构与算法/CS61B.md) 和普林斯顿的 [Coursera: Algorithms I & II](数据结构与算法/Algo.md)，这两门课的都讲得深入浅出并且会有丰富且有趣的编程实验将理论与知识结合起来。此外，对一些更高级的算法以及 NP 问题感兴趣的同学可以学习伯克利的算法设计与分析课程 [UCB CS170: Efficient Algorithms and Intractable Problems](数据结构与算法/CS170.md)。
 
 ### 软件工程
 
@@ -218,6 +211,8 @@ IDE (Integrated Development Environment)：集成开发环境，说白了就是�
 
 ### 操作系统
 
+> 没有什么能比自己写个内核更能加深对操作系统的理解了。
+
 操作系统作为各类纷繁复杂的底层硬件虚拟化出一套规范优雅的抽象，给所有应用软件提供丰富的功能支持。了解操作系统的设计原则和内部原理对于一个不满足于当调包侠的程序员来说是大有裨益的。出于对操作系统的热爱，我上过国内外很多操作系统课程，它们各有侧重和优劣，大家可以根据兴趣各取所需。
 
 [MIT 6.S081: Operating System Engineering](操作系统/MIT6.S081.md)，MIT 著名 PDOS 实验室出品，11 个 Project 让你在一个实现非常优雅的类Unix操作系统xv6上增加各类功能模块。这门课也让我深刻认识到，做系统不是靠 PPT 念出来的，是得几万行代码一点点累起来的。
@@ -242,11 +237,11 @@ IDE (Integrated Development Environment)：集成开发环境，说白了就是�
 
 不知道你当年选择计算机是不是因为怀着一个中二的黑客梦想，但现实却是成为黑客道阻且长。
 
-#### 理论
+#### 理论课程
 
 [UCB CS161: Computer Security](系统安全/CS161.md) 是伯克利的系统安全课程，会涵盖栈攻击、密码学、网站安全、网络安全等等内容。
 
-#### 实践
+#### 实践课程
 
 掌握这些理论知识之后，还需要在实践中培养和锻炼这些“黑客素养”。[CTF 夺旗赛](https://ctf-wiki.org/)是一项比较热门的系统安全比赛，赛题中会融会贯通地考察你对计算机各个领域知识的理解和运用。北大今年也成功举办了[第 0 届和第 1 届](https://geekgame.pku.edu.cn/)，鼓励大家后期踊跃参与，在实践中提高自己。下面列举一些我平时学习（摸鱼）用到的资源：
 
@@ -256,38 +251,29 @@ IDE (Integrated Development Environment)：集成开发环境，说白了就是�
 
 ### 计算机网络
 
-计网著名教材《自顶向下方法》的配套学习资源 [Computer Networking: A Top-Down Approach](计算机网络/topdown.md)。
+> 没有什么能比自己写个 TCP/IP 协议栈更能加深对计算机网络的理解了。
 
-没有什么能比自己写个 TCP/IP 协议栈更能加深对计算机网络的理解了，所以不妨试试 [Stanford CS144: Computer Network](计算机网络/CS144.md)，8 个 Project 带你实现整个协议栈。
+大名鼎鼎的 [Stanford CS144: Computer Network](计算机网络/CS144.md)，8 个 Project 带你实现整个 TCP/IP 协议栈。
+
+如果你只是想在理论上对计算机网络有所了解，那么推荐计网著名教材《自顶向下方法》的配套学习资源 [Computer Networking: A Top-Down Approach](计算机网络/topdown.md)。
 
 ### 数据库系统
 
-没有什么能比自己写个关系型数据库更能加深对数据库系统的理解了。
+> 没有什么能比自己写个关系型数据库更能加深对数据库系统的理解了。
 
-#### C++版
+CMU 的著名数据库神课 [CMU 15-445: Introduction to Database System](数据库系统/15445.md) 会通过 4 个 Project 带你为一个用于教学的关系型数据库 [bustub](https://github.com/cmu-db/bustub) 添加各种功能。实验的评测框架也免费开源了，非常适合大家自学。此外课程实验会用到 C++11 的众多新特性，也是一个锻炼 C++ 代码能力的好机会。
 
-[CMU 15-445: Introduction to Database System](数据库系统/15445.md)
-
-#### Java版
-
-[UCB CS186: Introduction to Database System](数据库系统/CS186.md)
+Berkeley 作为著名开源数据库 postgres 的发源地也不遑多让，[UCB CS186: Introduction to Database System](数据库系统/CS186.md) 会让你用 Java 语言实现一个支持 SQL 并发查询、B+ 树索引和故障恢复的关系型数据库。
 
 ### 编译原理
 
-没有什么能比自己写个编译器更能加深对编译器的理解了。
+> 没有什么能比自己写个编译器更能加深对编译器的理解了。
 
-[Stanford CS143: Compilers](编译原理/CS143.md)
-
-### 计算机图形学
-
-[Stanford CS148](计算机图形学/CS148.md)
-[Games101](计算机图形学/GAMES101.md)
-[Games103](计算机图形学/GAMES103.md)
-[Games202](计算机图形学/GAMES202.md)
+[Stanford CS143: Compilers](编译原理/CS143.md) 带你手写编译器。
 
 ### Web开发
 
-网站的开发很少在计算机的培养方案里被重视，但其实掌握这项技能还是好处多多的，例如搭建自己的个人主页，抑或是给自己的课程项目做一个精彩的展示网页。
+前后端开发很少在计算机的培养方案里被重视，但其实掌握这项技能还是好处多多的，例如搭建自己的个人主页，抑或是给自己的课程项目做一个精彩的展示网页。
 
 #### 两周速成版
 
@@ -296,6 +282,13 @@ IDE (Integrated Development Environment)：集成开发环境，说白了就是�
 #### 系统学习版
 
 [Stanford CS142: Web Applications](Web开发/CS142.md)
+
+### 计算机图形学
+
+- [Stanford CS148](计算机图形学/CS148.md)
+- [Games101](计算机图形学/GAMES101.md)
+- [Games103](计算机图形学/GAMES103.md)
+- [Games202](计算机图形学/GAMES202.md)
 
 ### 数据科学
 
