@@ -22,6 +22,7 @@
 - [explainshell](https://explainshell.com/): 你是否曾为一段 shell 代码的具体含义感到困扰？manpage 看半天还是不明所以？试试这个网站！
 - [regex101](https://regex101.com/): 正则表达式调试网站，支持各种编程语言的匹配标准。
 - [typingtom](https://www.typingtom.com/lessons): 针对程序员的打字练习/测速网站。
+- [wrk](https://github.com/wg/wrk): 网站压测工具
 
 ## 学习网站
 
