@@ -12,6 +12,8 @@ This is the final course in Berkeley's CS61 series, which dives into the details
 
 The Project for this course is also very innovative and interesting. Project1 will let you write a small program in C. Project 1 of Fall Semester 20 was to let you write the famous game *Game of Life* in C. Project2 requires you to write a neural network in RISC-V assembly to classify handwritten digits from the MNIST benchmark set, which is a great exercise in understanding and using assembly code. In Project3 you will use Logisim, a digital circuit simulation software, to build a two-stage pipeline CPU and run RISC-V assembly code on it. In Project4 you will be implementing a slower version of Numpy, using OpenMP, SIMD and other methods to optimize matrix operations in parallel.
 
+All in all, this is the best course on computer architecture I have ever taken.
+
 ## Course Resources
 
 - Course Website: <https://cs61c.org/su20/>
