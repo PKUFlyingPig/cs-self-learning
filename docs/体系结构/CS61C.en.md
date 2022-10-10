@@ -12,7 +12,7 @@ This is the last course in Berkeley's CS61 series, which dives into the internal
 
 The projects are very innovative and interesting. Project1 is a warmup assignment in C. In 2020Fall, you will implement the famous *Game of Life*. Project2 requires you to write a fully-connected neural network in RISC-V assembly to classify handwritten digits in MNIST dataset, which is a great exercise to write assembly code. In Project3, you will use Logisim, a digital circuit simulation software, to build a two-stage pipeline CPU from scratch and run RISC-V assembly code on it. In Project4 you will implement a toy version of Numpy, using OpenMP, SIMD, and other techniques to speed up matrix operations.
 
-All in all, this is the best course on computer architecture I have ever taken.
+In a word, this is the best computer architecture course I have ever taken.
 
 ## Course Resources
 
