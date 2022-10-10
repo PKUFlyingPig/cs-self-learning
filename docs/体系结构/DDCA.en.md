@@ -8,7 +8,9 @@
 - Difficulty: 🌟🌟🌟
 - Class Hour: 100 hours
 
-In this course, Onur Mutlu, a great expert in the field of Computer Architecture, will teach you about digital design and computer architecture. The course is entirely from a computer design perspective, starting with transistors and logic gates and extending to microarchitecture, caches and virtual memory, and also covers many of the latest research advances in the field of computer architecture. There are 9 labs in the course, using the Basys 3 FPGA board and [Vivado](https://china.xilinx.com/products/design-tools/vivado.html) to design the circuits, starting with combinational circuits and sequential circuits, and eventually deploying a complete CPU. Except for lab answers and current exam answers, all course materials are open source. After learning, you can master computer-related digital circuits, Verilog hardware description language, converting between MIPS and C, single-cycle MIPS, multi-cycle MIPS, pipelining, CPU design and performance analysis, cache, virtual memory and other important concepts.
+In this course, Onur Mutlu, a great expert in the field of Computer Architecture, will teach you about digital circuits and computer architecture. The course is entirely from the perspective of a computer designer, starting with transistors and logic gates and extending to microarchitecture, caches, and virtual memory. It also covers many of the latest research advances in the field of computer architecture. After learning, you will master digital circuits, hardware description language Verilog, MIPS instruction set, CPU design and performance analysis, pipelining, cache, virtual memory, and so on.
+
+There are 9 labs in the course. You will use the Basys 3 FPGA board and [Vivado](https://china.xilinx.com/products/design-tools/vivado.html) to design and synthesize the circuits, starting from combinational and sequential circuits, and eventually assembly into a complete CPU. Except for assignment solutions, all the course materials are open source.
 
 ## Course Resources
 
