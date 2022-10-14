@@ -23,6 +23,6 @@ After completing this course, your understanding of computer systems will defini
 - Course Website: <http://csapp.cs.cmu.edu/>
 - Recordings: <https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22>
 - Textbook: Computer Systems: A Programmer's Perspective, 3/E
-- Assignments：11 Projects, [skeleton code all open source](http://csapp.cs.cmu.edu/3e/labs.html)
+- Assignments: 11 Projects, [skeleton code all open source](http://csapp.cs.cmu.edu/3e/labs.html)
 
  If you have trouble with Chapter 7 Linking, I recommend reading the book *Programmer's Self-Cultivation*, subtitled link. load and library. This book can complete our understanding of program linking, and I believe after reading this book you will have a deeper comprehension of program linking, ELF files, and dynamic libraries. It is highly recommended to be read as a supplementary material after reading CSAPP and having a certain understanding of computer systems.

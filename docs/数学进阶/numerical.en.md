@@ -3,7 +3,7 @@
 ## Descriptions
 
 - Offered by: MIT
-- Prerequisites:Calculus, Linear Algebra, Probability theory
+- Prerequisites: Calculus, Linear Algebra, Probability theory
 - Programming Languages: Julia
 - Difficulty: 🌟🌟🌟🌟🌟
 - Class Hour: 150 hours
