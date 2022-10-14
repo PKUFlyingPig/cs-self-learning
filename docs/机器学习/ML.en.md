@@ -12,7 +12,7 @@ When it comes to Andrew Ng, no one in the AI community should be unaware of him.
 
 The class is extremely friendly to novices, and Andrew has the ability to make machine learning as straightforward as 1+1=2. You'll learn about linear regression, logistic regression, support vector machines, unsupervised learning, dimensionality reduction, anomaly detection, and recommender systems, etc. and solidify your understanding with hands-on programming. The quality of the assignments needs no word to say. With detailed code frameworks and practical background, you can use what you've learned to solve real problems.
 
-Of course, as a public mooc, the difficulty of this course has been deliberately lowered, and many mathematical derivations are skimmed over. If you are interested in machine learning theory and want to investigate the mathematical theory behind these algorithms, you can refer to [CS229](. /CS229.md) and [CS189](. /CS189.md).
+Of course, as a public mooc, the difficulty of this course has been deliberately lowered, and many mathematical derivations are skimmed over. If you are interested in machine learning theory and want to investigate the mathematical theory behind these algorithms, you can refer to [CS229](./CS229.md) and [CS189](./CS189.md).
 
 ## Course Resources
 
