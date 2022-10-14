@@ -21,7 +21,7 @@ In the second half of the course, the instructors will discuss a couple of class
 ## Course Resources
 
 - Course Website: <https://pdos.csail.mit.edu/6.828/2021/schedule.html>
-- Lecture Videos：<https://www.youtube.com/watch?v=L6YqHxYHa7A>, videos for each lecture can be found on the course website.
+- Lecture Videos: <https://www.youtube.com/watch?v=L6YqHxYHa7A>, videos for each lecture can be found on the course website.
 - Translated documentation(Chinese) of Lecture videos: <https://mit-public-courses-cn-translatio.gitbook.io/mit6-s081/>
 - Text Book: <https://pdos.csail.mit.edu/6.828/2021/xv6/book-riscv-rev2.pdf>
 - Assignments: <https://pdos.csail.mit.edu/6.828/2021/schedule.html>, 11 labs, can be found on the course website.
