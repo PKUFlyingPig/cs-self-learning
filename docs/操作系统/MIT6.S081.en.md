@@ -5,8 +5,8 @@
 - Offered by: MIT
 - Prerequisites: Computer Architecture + Solid C Programming Skills + RISC-V Assembly
 - Programming Languages: C, RISC-V
-- Difficulty：🌟🌟🌟🌟🌟
-- Class Hour：150 hours
+- Difficulty: 🌟🌟🌟🌟🌟
+- Class Hour: 150 hours
 
 This is the undergraduate operating system course at MIT, offered by the well-known PDOS Group. One of the instructors, Robert Morris, was once a famous hacker who created 'Morris', the first worm virus in the world.
 
