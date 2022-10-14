@@ -23,4 +23,4 @@ Of course, as a public mooc, the difficulty of this course has been deliberately
 
 ## Personal Resources
 
-My implementation is lost in system reinstallation. However, the course is so famous that you can easily find related resoures online. Also, course material is available on Coursera.
+My implementation is lost in system reinstallation. However, the course is so famous that you can easily find related resources online. Also, course material is available on Coursera.
