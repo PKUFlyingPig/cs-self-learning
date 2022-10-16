@@ -8,7 +8,9 @@
 - Difficulty:🌟🌟🌟🌟🌟
 - Class Hour: 150 hours
 
-This is MIT's Computer Systems Security course,  You will explore the attacks and counter-measures in the context of the zoobar web application in the following ways:
+This is MIT's Computer Systems Security course. Lectures cover threat models, attacks that compromise security, and techniques for achieving security, based on recent research papers. Topics include operating system (OS) security, capabilities, information flow control, language security, network protocols, hardware security, and security in web applications.
+
+Assignments include labs that involve implementing and compromising a secure web server and web application, and a group final project:
 
 - Lab 1: you will explore the zoobar web application, and use buffer overflow attacks to break its security properties.
 - Lab 2: you will improve the zoobar web application by using privilege separation, so that if one component is compromised, the adversary doesn't get control over the whole web application.
