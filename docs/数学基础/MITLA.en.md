@@ -8,7 +8,7 @@
 - Difficulty: 🌟🌟🌟
 - Class Hour: Varying from person to person
 
-Gilbert Strang, a great mathematician at MIT, still insists on teaching in his eighties. His classic text book [Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/)has been adopted as an official textbook by Tsinghua University. After reading the PDF version, I felt deeply guilty and spent more than 200 yuan to purchase a genuine version in English as collection. The cover of this book is attached below. If you can fully understand the mathematical meaning of the cover picture, then your understanding of linear algebra will definitely reach a new height.
+Gilbert Strang, a great mathematician at MIT, still insists on teaching in his eighties. His classic text book [Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/) has been adopted as an official textbook by Tsinghua University. After reading the PDF version, I felt deeply guilty and spent more than 200 yuan to purchase a genuine version in English as collection. The cover of this book is attached below. If you can fully understand the mathematical meaning of the cover picture, then your understanding of linear algebra will definitely reach a new height.
 
 ![image](https://math.mit.edu/~gs/linearalgebra/linearalgebra5_Front.jpg)
 

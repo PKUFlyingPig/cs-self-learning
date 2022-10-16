@@ -3,7 +3,7 @@
 ## Description
 
 - Offered by: UC Berkeley
-- Prerequisites: CS61A，Linear Algebra
+- Prerequisites: CS61A, Linear Algebra
 - Programming Languages: Python
 - Difficulty: 🌟🌟🌟
 - Class Hour: 80 hours

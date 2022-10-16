@@ -23,4 +23,4 @@ In a word, this is the best computer architecture course I have ever taken.
 
 ## Personal Resources
 
-All the resources and assignments used by @PKUFlyingPig in this course are maintained in [PKUFlyingPig/- summer20 - GitHub](https://github.com/PKUFlyingPig/CS61C-summer20)
+All the resources and assignments used by @PKUFlyingPig in this course are maintained in [PKUFlyingPig/CS61C-summer20 - GitHub](https://github.com/PKUFlyingPig/CS61C-summer20)
