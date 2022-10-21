@@ -4,7 +4,7 @@
 
 # 前言
 
-**最近更新：英文版正在[建设中](https://github.com/PKUFlyingPig/cs-self-learning/issues/222)，增加陈天奇[机器学习编译](机器学习系统/MLC.md)，增加 CMU [机器学习系统](机器学习系统/CMU10-414.md)**
+**最近更新：英文版正在[建设中](https://github.com/PKUFlyingPig/cs-self-learning/issues/222)，增加陈天奇[机器学习编译](机器学习系统/MLC.md)，增加 CMU [机器学习系统](机器学习系统/CMU10-414.md), 增加 [学习工作流](必学工具/workflow.md)**
 <!-- **最近更新：增加[Caltech CS 122: Database System Implementation](./数据库系统/CS122.md) ，重新整理[好书推荐](./%E5%A5%BD%E4%B9%A6%E6%8E%A8%E8%8D%90.md)模块 ~** -->
 <!-- **最近更新：增加南京大学[操作系统课程](操作系统/NJUOS.md)，增加毕业论文[写作教程](必学工具/thesis.md) ～** -->
 
