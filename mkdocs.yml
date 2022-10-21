@@ -128,6 +128,7 @@ nav:
       - CMake: "必学工具/CMake.md"
       - LaTeX: "必学工具/LaTeX.md"
       - Docker: "必学工具/Docker.md"
+      - 日常学习工作流: "必学工具/workflow.md"
       - 实用工具箱: "必学工具/tools.md"
       - 毕业论文: "必学工具/thesis.md"
   - 好书推荐: "好书推荐.md"
