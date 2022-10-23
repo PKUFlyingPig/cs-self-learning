@@ -20,4 +20,4 @@ The recordings of the course were uploaded by Dr. Zheng himself on Bilibili. Mor
 - Course Website: <http://staff.ustc.edu.cn/~qzheng/teaching.html>
 - Recordings: <https://www.bilibili.com/video/BV1JV411t7ow/>
 - Slides: <http://staff.ustc.edu.cn/~qzheng/cn.zip>
-- Textbook: Computer Networking: A Top-Down Approach, 7th Edition
+- Textbook: _Computer Networking: A Top-Down Approach, 7th Edition_
