@@ -9,7 +9,7 @@
 - Difficulty: 🌟🌟🌟
 - Class Hour: 40 hours
 
-This a practical course that is not limited to theoretical knowledge, but it is *Strongly recommended* to read the textbook before watching videos, otherwise you _may_ not catch up with the course easily.
+This course is a well-known computer networking course on the Chinese Internet, it adopts the renowned textbook: _Computer Networking: A Top-Down Approach, 7th Edition_. This a practical course that is not limited to theoretical knowledge, but it is *Strongly recommended* to read the textbook before watching videos, otherwise you _may_ not catch up with the course easily.
 
 
 The course covers the **majority** of the textbook and also **includes** exam content, so enjoy it.
