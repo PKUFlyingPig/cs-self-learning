@@ -5,7 +5,7 @@
 - Offered by: MIT
 - Prerequisites: better if you are already proficient in a programming language
 - Programming Languages: JavaScript/HTML/CSS/NoSQL
-- Difficulty:🌟🌟🌟
+- Difficulty: 🌟🌟🌟
 - Class Hour: Varying according to the learner
 
 [Independent Activities Period](https://elo.mit.edu/iap/) (IAP) is a four-week period in January during which faculty and students are freed from the rigors of regularly scheduled classes for flexible teaching and learning and for independent study and research, and that's how this web development course was born.
