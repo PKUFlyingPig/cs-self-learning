@@ -14,6 +14,6 @@ Within a month, you will be equipped with the basic knowledge of how to design, 
 
 ## Resources
 
-- Course Website:<https://weblab.mit.edu/schedule/>
-- Assignments: refer to the course website
+- Course Website: <https://weblab.mit.edu/schedule/>
+- Recordings: refer to the course website
 - Assignments: refer to the course website
