@@ -152,6 +152,7 @@ nav:
       - "Stanford CS106B/X": "编程入门/CS106B_CS106X.md"
       - "Stanford CS106L: Standard C++ Programming": "编程入门/CS106L.md"
       - "Stanford CS110L: Safety in Systems Programming": "编程入门/CS110L.md"
+      - "AmirKabir University of Technology AP1400-2: Advanced Programming": "编程入门/AUT1400.md"
   - 电子基础:
       - "EE16A&B: Designing Information Devices and Systems I&II": "电子基础/EE16.md"
       - "UCB EE120 : Signal and Systems": "电子基础/signal.md"
@@ -165,7 +166,7 @@ nav:
       - "UCB CS169: software engineering": "软件工程/CS169.md"
   - 体系结构:
       - "Coursera: Nand2Tetris": "体系结构/N2T.md"
-      - "Digital Design and Computer Architecture": "体系结构/DDCA.md"      
+      - "Digital Design and Computer Architecture": "体系结构/DDCA.md"
       - "UCB CS61C: Great Ideas in Computer Architecture": "体系结构/CS61C.md"
       - "CMU 15-213: CSAPP": "体系结构/CSAPP.md"
   - 操作系统:
@@ -186,6 +187,7 @@ nav:
       - "UCB CS186: Introduction to Database System": "数据库系统/CS186.md"
       - "CMU 15-445: Database Systems": "数据库系统/15445.md"
       - "Caltech CS122: Database System Implementation": "数据库系统/CS122.md"
+      - "Stanford CS346: Database System Implementation": "数据库系统/CS346.md"
   - 编译原理:
       - "Stanford CS143: Compilers": "编译原理/CS143.md"
   - 计算机图形学:
