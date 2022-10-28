@@ -40,7 +40,7 @@
 - [comments-for-awesome-courses](https://conanhujinming.github.io/comments-for-awesome-courses/): 名校公开课评价网。
 - [codetop](https://codetop.cc/home): 企业题库。
 - [cs-video-courses](https://github.com/Developer-Y/cs-video-courses): 带有视频讲座的计算机科学课程列表。
-- [bootlin](https://elixir.bootlin.com/linux/v2.6.39.4/source/include/linux):  在线阅读 lInux 源码。
+- [bootlin](https://elixir.bootlin.com/linux/v2.6.39.4/source/include/linux):  在线阅读 Linux 源码。
 - [ecust-CourseShare](https://github.com/tianyilt/ecnu-PGCourseShare): 华东师范大学研究生课程攻略共享计划。
 - [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT):  清华大学计算机系课程攻略。
 - [seu-master](https://github.com/oneman233/seu-master):  东南大学研究生课程资料整理。
