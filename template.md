@@ -25,7 +25,7 @@
 
 ## 资源汇总
 
-我在学习这门课中用到的所有资源和作业实现都汇总在 [user/repo - GitHub](https://github.com/user/repo) 中。
+@XXX 在学习这门课中用到的所有资源和作业实现都汇总在 [user/repo - GitHub](https://github.com/user/repo) 中。
 
 ## 备注
 

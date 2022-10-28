@@ -33,7 +33,9 @@
 
 ## 资源汇总
 
-我在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPig/MIT6.S081-2020fall - GitHub][github_pkuflyingpig] 中。此外也可以参考 [KuangjuX] 实现的 MIT 6.S081 的几个 lab 的[题解][solution_kuangjux]，里面亦有详细的解法和补充知识，另外，[KuangjuX] 还使用 Rust 语言重新实现过 xv6-riscv 操作系统：[xv6-rust]，里面对于 xv6-riscv 有更为详细的思考和讨论，感兴趣的同学可以看一下哦。
+@PKUFlyingPig 在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPig/MIT6.S081-2020fall - GitHub][github_pkuflyingpig] 中。
+
+@[KuangjuX] 编写了 MIT 6.S081 的 lab 的[题解][solution_kuangjux]，里面有详细的解法和补充知识。另外，@[KuangjuX] 还使用 Rust 语言重新实现了 xv6-riscv 操作系统：[xv6-rust]，里面对于 xv6-riscv 有更为详细的思考和讨论，感兴趣的同学可以看一下哦。
 
 [github_pkuflyingpig]: https://github.com/PKUFlyingPig/MIT6.S081-2020fall
 [KuangjuX]: https://github.com/KuangjuX
