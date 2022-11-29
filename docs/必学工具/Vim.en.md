@@ -20,6 +20,20 @@ There is a vast amount of learning material available on Vim, but the best way t
 - Use Vim's own `vimtutor` to practice. After installing Vim, type `vimtutor` directly into the command line to enter the practice program.
 - Then you can force yourself to use Vim for development, and you can install Vim plugins in your favorite IDE.
 - Once you're fully comfortable with Vim, a new world opens up to you, and you can configure your own Vim on demand (by modifying the `.vimrc` file), and there are countless resources on the Internet to learn from.
+- If you want to know more about how to customize Vim to suit your needs, [_Learn Vim Script the Hard Way_](https://learnvimscriptthehardway.stevelosh.com/) is a perfect start point.
+
+## Remapping Keys
+
+Ctrl and Esc keys are probably two of the most used keys in Vim. However, these two keys are pretty far away from home row.
+In order to make it easier to reach these keys, you can remap CapsLock to Esc or Ctrl.
+
+On Windows, [Powertoys](https://learn.microsoft.com/en-us/windows/powertoys/) or [AutoHotkey](https://www.autohotkey.com/) can be used to achieve this goal.    
+On macOS, you can remap keys in system settings, see this [page](https://vim.fandom.com/wiki/Map_caps_lock_to_escape_in_macOS).
+
+A better solution is to make CapsLock function as Esc and Ctrl simultaneously. Click CapsLock to send Esc, hold CapsLock to use it as Ctrl key.
+
+On Windows, this [AutoHotKey gist](https://gist.github.com/sedm0784/4443120) does just this.    
+On macOS, this [karabiner rule](https://ke-complex-modifications.pqrs.org/#caps_lock_tapped_escape_held_left_control) does the magic.
 
 ## Recommended References
 
