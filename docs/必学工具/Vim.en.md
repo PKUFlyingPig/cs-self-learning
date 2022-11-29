@@ -18,7 +18,7 @@ There is a vast amount of learning material available on Vim, but the best way t
 
 - Read [This tutorial](https://missing.csail.mit.edu/2020/editors/) first to understand the basic Vim concepts and usage.
 - Use Vim's own `vimtutor` to practice. After installing Vim, type `vimtutor` directly into the command line to enter the practice program.
-- Then you can force yourself to use Vim for development, and you can install Vim plugins in your favourite IDE.
+- Then you can force yourself to use Vim for development, and you can install Vim plugins in your favorite IDE.
 - Once you're fully comfortable with Vim, a new world opens up to you, and you can configure your own Vim on demand (by modifying the `.vimrc` file), and there are countless resources on the Internet to learn from.
 
 ## Recommended References
