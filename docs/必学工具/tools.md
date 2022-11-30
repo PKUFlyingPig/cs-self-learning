@@ -5,11 +5,12 @@
 - [Libgen](http://libgen.is/): PDF电子书下载网站。
 - [z-epub](https://z-epub.com/): ePub电子书下载网站。
 - [bitdownloader](https://bitdownloader.io/): 油管视频下载器。
-- [zlibrary](https://1lib.limited/): 电子书下载网站(可能需要翻墙)。
+- [zlibrary](https://z-lib.is/): 电子书下载网站(可能需要翻墙)。
 
 ## 设计工具
 
 - [excalidraw](https://excalidraw.com/): 一款手绘风格的绘图工具，非常适合绘制课程报告或者PPT内的示意图。
+- [tldraw](https://www.tldraw.com/): 一个绘图工具，适合画流程图，架构图等。
 - [origamiway](https://www.origamiway.com/paper-folding-crafts-step-by-step.shtml): 手把手教你怎么折纸。
 - [thingiverse](https://www.thingiverse.com/): 囊括各类 2D/3D 设计资源，其 STL 文件下载可直接 3D 打印。
 - [iconfont](https://www.iconfont.cn/): 国内最大的图标和插画资源库，可用于开发或绘制系统架构图。
@@ -28,7 +29,7 @@
 - [gbmb](https://www.gbmb.org/): 数据单位转换。
 - [tools](https://tools.fun/): 在线工具合集。
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html): 数据结构与算法的可视化网站。
-- [github1s](https://github1s.com/):  用网页版 VS Code 在线阅读 GitHub 代码。
+- [github1s](https://github1s.com/): 用网页版 VS Code 在线阅读 GitHub 代码。
 - [visualgo](https://visualgo.net/en): 算法可视化网站。
 - [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN): 可视化学习 git。
 
@@ -40,10 +41,10 @@
 - [comments-for-awesome-courses](https://conanhujinming.github.io/comments-for-awesome-courses/): 名校公开课评价网。
 - [codetop](https://codetop.cc/home): 企业题库。
 - [cs-video-courses](https://github.com/Developer-Y/cs-video-courses): 带有视频讲座的计算机科学课程列表。
-- [bootlin](https://elixir.bootlin.com/linux/v2.6.39.4/source/include/linux):  在线阅读 Linux 源码。
+- [bootlin](https://elixir.bootlin.com/linux/v2.6.39.4/source/include/linux): 在线阅读 Linux 源码。
 - [ecust-CourseShare](https://github.com/tianyilt/ecnu-PGCourseShare): 华东师范大学研究生课程攻略共享计划。
-- [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT):  清华大学计算机系课程攻略。
-- [seu-master](https://github.com/oneman233/seu-master):  东南大学研究生课程资料整理。
+- [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT): 清华大学计算机系课程攻略。
+- [seu-master](https://github.com/oneman233/seu-master): 东南大学研究生课程资料整理。
 
 ## 杂项
 
@@ -51,7 +52,8 @@
 - [feedly](https://feedly.com/): 著名的 RSS 订阅源阅读器。
 - [speedtest](https://www.speedtest.net/zh-Hans): 在线网络测速网站。
 - [public-apis](https://github.com/public-apis/public-apis): 公共 API 合集列表。
-- [numberempire](https://zh.numberempire.com/derivativecalculator.php):  函数求导工具。
+- [numberempire](https://zh.numberempire.com/derivativecalculator.php): 函数求导工具。
 - [sustech-application](https://sustech-application.com/#/grad-application/computer-science-and-engineering/README): 南方科技大学经验分享网。
-- [vim-adventures](https://vim-adventures.com/): 一款基于 vim 键盘快捷键的在线游戏
-- [vimsnake](https://vimsnake.com/): 利用 vim 玩贪吃蛇
+- [vim-adventures](https://vim-adventures.com/): 一款基于 vim 键盘快捷键的在线游戏。
+- [vimsnake](https://vimsnake.com/): 利用 vim 玩贪吃蛇。
+- [keybr](https://www.keybr.com/): 学习盲打的网站。
