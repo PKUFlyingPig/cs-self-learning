@@ -6,7 +6,7 @@
 - [z-epub](https://z-epub.com/): ePub电子书下载网站。
 - [bitdownloader](https://bitdownloader.io/): 油管视频下载器。
 - [zlibrary](https://z-lib.is/): 电子书下载网站(可能需要翻墙)。
-- [PDF Drive](https://www.pdfdrive.com/): 无广告和下载限制的 PDF 电子书搜索引擎。
+- [PDF Drive](https://www.pdfdrive.com/): PDF 电子书搜索引擎。
 
 ## 设计工具
 
