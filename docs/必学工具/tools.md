@@ -6,6 +6,7 @@
 - [z-epub](https://z-epub.com/): ePub电子书下载网站。
 - [bitdownloader](https://bitdownloader.io/): 油管视频下载器。
 - [zlibrary](https://z-lib.is/): 电子书下载网站(可能需要翻墙)。
+- [PDF Drive](https://www.pdfdrive.com/): PDF 电子书搜索引擎。
 
 ## 设计工具
 
@@ -28,10 +29,12 @@
 - [wrk](https://github.com/wg/wrk): 网站压测工具。
 - [gbmb](https://www.gbmb.org/): 数据单位转换。
 - [tools](https://tools.fun/): 在线工具合集。
-- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html): 数据结构与算法的可视化网站。
 - [github1s](https://github1s.com/): 用网页版 VS Code 在线阅读 GitHub 代码。
 - [visualgo](https://visualgo.net/en): 算法可视化网站。
+- [DataStructureVisual](http://www.rmboot.com/): 数据结构可视化网站。
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html): 数据结构与算法的可视化网站。
 - [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN): 可视化学习 git。
+- [UnicodeCharacter](https://unicode-table.com/en/): Unicode 字符集网站。
 
 ## 学习网站
 
