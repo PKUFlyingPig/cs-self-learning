@@ -3,7 +3,7 @@
 ## 下载工具
 
 - [Sci-Hub](https://sci-hub.se/): Elbakyan 女神向你挥手，旨在打破知识壁垒的革命性网站。
-- [Libgen](http://libgen.is/): PDF 电子书下载网站。
+- [Library Genesis](http://libgen.is/): 电子书下载网站。
 - [Z-Library](https://z-lib.is/): 电子书下载网站（已被封）。
 - [Z-ePub](https://z-epub.com/): ePub 电子书下载网站。
 - [PDF Drive](https://www.pdfdrive.com/): PDF 电子书搜索引擎。
@@ -12,7 +12,7 @@
 - [qBittorrent](https://www.qbittorrent.org/download.php): BitTorrent 客户端。
 - [uTorrent](https://www.utorrent.com): BitTorrent 客户端。
 - [全国标准信息公共服务平台](https://std.samr.gov.cn/)：各类标准查询和下载官方平台。
-- [标准通知识服务系统](http://www.standards.com.cn/)：检索与阅读所需标准。
+- [标准知识服务系统](http://www.standards.com.cn/)：检索与阅读所需标准。
 
 ## 设计工具
 
