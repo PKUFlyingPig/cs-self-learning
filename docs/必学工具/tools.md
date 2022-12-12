@@ -5,7 +5,7 @@
 - [Libgen](http://libgen.is/): PDF电子书下载网站。
 - [z-epub](https://z-epub.com/): ePub电子书下载网站。
 - [bitdownloader](https://bitdownloader.io/): 油管视频下载器。
-- [zlibrary](https://z-lib.is/): 电子书下载网站(可能需要翻墙)。
+- [zlibrary](https://singlelogin.me/): 电子书下载网站(目前仅在 [Tor](https://www.torproject.org/) 运行)。
 - [PDF Drive](https://www.pdfdrive.com/): PDF 电子书搜索引擎。
 
 ## 设计工具
