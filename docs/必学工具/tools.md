@@ -2,11 +2,17 @@
 
 ## 下载工具
 
-- [Libgen](http://libgen.is/): PDF电子书下载网站。
-- [z-epub](https://z-epub.com/): ePub电子书下载网站。
-- [bitdownloader](https://bitdownloader.io/): 油管视频下载器。
-- [zlibrary](https://z-lib.is/): 电子书下载网站(可能需要翻墙)。
+- [Sci-Hub](https://sci-hub.se/): Elbakyan 女神向你挥手，旨在打破知识壁垒的革命性网站。
+- [Library Genesis](http://libgen.is/): 电子书下载网站。
+- [Z-Library](https://z-lib.is/): 电子书下载网站（已被封）。
+- [Z-ePub](https://z-epub.com/): ePub 电子书下载网站。
 - [PDF Drive](https://www.pdfdrive.com/): PDF 电子书搜索引擎。
+- [MagazineLib](https://magazinelib.com/): PDF 电子杂志下载网站。
+- [BitDownloader](https://bitdownloader.io/): 油管视频下载器。
+- [qBittorrent](https://www.qbittorrent.org/download.php): BitTorrent 客户端。
+- [uTorrent](https://www.utorrent.com): BitTorrent 客户端。
+- [全国标准信息公共服务平台](https://std.samr.gov.cn/)：各类标准查询和下载官方平台。
+- [标准知识服务系统](http://www.standards.com.cn/)：检索与阅读所需标准。
 
 ## 设计工具
 
@@ -17,6 +23,7 @@
 - [iconfont](https://www.iconfont.cn/): 国内最大的图标和插画资源库，可用于开发或绘制系统架构图。
 - [turbosquid](https://www.turbosquid.com/): 可以购买各式各样的模型。
 - [flaticon](https://www.flaticon.com/): 可下载免费且高质量的图标。
+- [标准地图服务系统](http://bzdt.ch.mnr.gov.cn/): 可以下载官方标准地图。
 
 ## 编程相关
 
