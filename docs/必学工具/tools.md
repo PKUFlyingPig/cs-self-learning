@@ -4,7 +4,7 @@
 
 - [Sci-Hub](https://sci-hub.se/): Elbakyan 女神向你挥手，旨在打破知识壁垒的革命性网站。
 - [Library Genesis](http://libgen.is/): 电子书下载网站。
-- [Z-Library](https://z-lib.is/): 电子书下载网站（已被封）。
+- [Z-library](https://singlelogin.me/): 电子书下载网站(目前仅在 [Tor](https://www.torproject.org/) 运行)。
 - [Z-ePub](https://z-epub.com/): ePub 电子书下载网站。
 - [PDF Drive](https://www.pdfdrive.com/): PDF 电子书搜索引擎。
 - [MagazineLib](https://magazinelib.com/): PDF 电子杂志下载网站。
