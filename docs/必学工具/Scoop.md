@@ -45,7 +45,7 @@ Scoop 社区仅维护安装配置，所有的软件都是从该软件官方提�
 对于已经过时弃用的软件，Scoop 社区会将其从 [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) 中移除并将其添加到 [ScoopInstaller/Versions](https://github.com/ScoopInstaller/Versions) 中。如果你需要这些软件的话需要手动添加 bucket：
 
 ```powershell
-scoop bucket add version
+scoop bucket add versions
 scoop install python27
 ```
 
