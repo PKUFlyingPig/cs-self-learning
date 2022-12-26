@@ -239,6 +239,10 @@ IDE (Integrated Development Environment)：集成开发环境，说白了就是�
 
 [UCB CS161: Computer Security](系统安全/CS161.md) 是伯克利的系统安全课程，会涵盖栈攻击、密码学、网站安全、网络安全等等内容。
 
+[ASU CSE365: Introduction to Cybersecurity](系统安全/CSE365.md) 亚利桑那州立大学的 Web 安全课程，主要涉及注入、汇编与密码学的内容。
+
+[ASU CSE466: Computer Systems Security](系统安全/CSE466.md) 亚利桑那州立大学的系统安全课程，涉及内容全面。门槛较高，需要对 Linux, C 与 Python 充分熟悉。
+
 #### 实践课程
 
 掌握这些理论知识之后，还需要在实践中培养和锻炼这些“黑客素养”。[CTF 夺旗赛](https://ctf-wiki.org/)是一项比较热门的系统安全比赛，赛题中会融会贯通地考察你对计算机各个领域知识的理解和运用。北大今年也成功举办了[第 0 届和第 1 届](https://geekgame.pku.edu.cn/)，鼓励大家后期踊跃参与，在实践中提高自己。下面列举一些我平时学习（摸鱼）用到的资源：
