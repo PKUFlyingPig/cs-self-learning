@@ -21,7 +21,7 @@
 - Strongly Typed
 - Type Inferred
 - Curry
-- Monoid/Functor/Monad/Applicative
+- Monoid / Functor / Monad / Applicative
 
 如果你有编程经验，课程的 Part1 很简单，难度集中在 Part2 的十三章之后。课程的练习很棒，它有一种在做 [CS61a](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/CS61A/) 练习的感觉。练习的注释中有足够的提示，作业在你提交之后会给你标准答案，你还可以在官方的Telegram中提问或与他人讨论。
 
