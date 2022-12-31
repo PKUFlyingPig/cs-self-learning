@@ -8,7 +8,13 @@
 - Difficulty: 🌟🌟
 - Class Hour: Varying according to the learner
 
-Topics covered by the course:
+Functional programming is increasingly being integrated into modern programming languages. Streams in Java, Promises in JavaScript, and Record & Tuple in the draft phase of ECMAScript... When I was learning these things, I always felt like I was memorizing the behaviours of their API, and although I was able to write some programs using them, I never felt like I had mastered them. Why do they exist? Why are they like that? What is the idea behind their design? Learning functional programming will give you the answer.
+
+Although named after Haskell, it's core ingredient is functional programming. Just like while learning object-oriented programming, probably other language wouldn't be chosen except Java.
+
+Learn Haskell, but the focus is not on using it. This course will let you use just enough Haskell syntax, just enough library functions, small amount of tools, to explain the core program semantics. This is also the core idea of functional programming. This wouldn't waste your time getting bogged down in the details of the language and its ecology, which I think is the biggest strength of the course.
+
+Topics covered in the course:
 
 - Pure Function
 - Lazy Evaluation
@@ -16,6 +22,8 @@ Topics covered by the course:
 - Type Inferred
 - Curry
 - Monoid / Functor / Monad / Applicative
+
+If you have some programming experience, part 1 of the course is very easy. Most of the difficulties lies on part2, after chap 13. It's exercises are great, which can give you a feeling of doing exercise of [CS61A](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/CS61A/). There are enough hints in the comments of the exercises. The assignments offer you solutions after you submit, and you can ask questions or discuss them with others in the official Telegram community.
 
 ## Course Resources
 
