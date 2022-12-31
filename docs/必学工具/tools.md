@@ -24,6 +24,7 @@
 - [turbosquid](https://www.turbosquid.com/): 可以购买各式各样的模型。
 - [flaticon](https://www.flaticon.com/): 可下载免费且高质量的图标。
 - [标准地图服务系统](http://bzdt.ch.mnr.gov.cn/): 可以下载官方标准地图。
+- [PlantUML](https://plantuml.com/zh/): 可以使用代码快速编写 UML 图。
 
 ## 编程相关
 
