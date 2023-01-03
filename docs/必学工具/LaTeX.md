@@ -23,13 +23,10 @@ Berkeley 计算机系教授 Christos Papadimitriou 曾说过一句半开玩笑�
 [Part-2]: https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-2
 [Part-3]: https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-3
 
-在 2022 年末，值得推荐的入门学习资料如下：
+其他值得推荐的入门学习资料如下：
 
 - 一份简短的安装 LaTeX 的介绍 [[GitHub](https://github.com/OsbertWang/install-latex-guide-zh-cn)] 或者 TEX Live 指南（texlive-zh-cn）[[PDF](https://www.tug.org/texlive/doc/texlive-zh-cn/texlive-zh-cn.pdf)] 可以帮助你完成安装和环境配置过程
 - 一份（不太）简短的 LaTeX2ε 介绍（lshort-zh-cn）[[PDF](https://mirrors.ctan.org/info/lshort/chinese/lshort-zh-cn.pdf)] [[GitHub](https://github.com/CTeX-org/lshort-zh-cn)] 是由 CTEX 开发小组翻译的，可以帮助你快速准确地入门，建议通读一遍
 - 刘海洋的《LaTeX 入门》，可以当作工具书来阅读，有问题再查找，跳过 CTEX 套装部分
-
-其他阅读资料包括：[现代 LaTEX 入门讲座] 和 [一份其实很短的 LaTeX 入门文档]
-
-[现代 LaTEX 入门讲座]: https://github.com/stone-zeng/latex-talk
-[一份其实很短的 LaTeX 入门文档]: https://liam.page/2014/09/08/latex-introduction/
+- [现代 LaTeX 入门讲座](https://github.com/stone-zeng/latex-talk)
+- [一份其实很短的 LaTeX 入门文档](https://liam.page/2014/09/08/latex-introduction/)
