@@ -10,7 +10,7 @@
 
 Functional programming is increasingly being integrated into modern programming languages. Streams in Java, Promises in JavaScript, and Record & Tuple in the draft phase of ECMAScript... When I was learning these things, I always felt like I was memorizing the behaviours of their API, and although I was able to write some programs using them, I never felt like I had mastered them. Why do they exist? Why are they like that? What is the idea behind their design? Learning functional programming will give you the answer.
 
-It's core ingredient is functional programming. Just like Java is probably the default choice for teaching object-oriented programming.
+Its core ingredient is functional programming. Just like Java is probably the default choice for teaching object-oriented programming.
 
 This course will teach just enough Haskell syntax, library functions, and a small number of tools to explain the core program semantics and the core idea of functional programming. This will save you time not getting bogged down in the details of the language and its ecology, which I think is the biggest advantage of the course.
 
