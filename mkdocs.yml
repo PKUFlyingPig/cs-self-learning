@@ -78,6 +78,7 @@ plugins:
       nav_translations:
         en:
           前言: Foreword
+          如何使用这本书: How To Use The Book
           一个仅供参考的CS学习规划: Guideline
           必学工具: Productivity Toolkit
           好书推荐: Book Recommendation
