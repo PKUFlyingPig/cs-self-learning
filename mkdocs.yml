@@ -78,6 +78,7 @@ plugins:
       nav_translations:
         en:
           前言: Foreword
+          如何使用这本书: How To Use The Book
           一个仅供参考的CS学习规划: Guideline
           必学工具: Productivity Toolkit
           好书推荐: Book Recommendation
@@ -211,14 +212,14 @@ nav:
   - 人工智能:
       - "Harvard CS50's Introduction to AI with Python": "人工智能/CS50.md"
       - "UCB CS188: Introduction to Artificial Intelligence": "人工智能/CS188.md"
-      - "智能计算系统": "人工智能/CYJ.md"
   - 机器学习:
       - "Coursera: Machine Learning": "机器学习/ML.md"
       - "Stanford CS229: Machine Learning": "机器学习/CS229.md"
       - "UCB CS189: Introduction to Machine Learning": "机器学习/CS189.md"
   - 机器学习系统:
-      - "Machine Learning Compilation": "机器学习系统/MLC.md"
+      - "智能计算系统": "机器学习系统/AICS.md"
       - "CMU 10-414/714: Deep Learning Systems": "机器学习系统/CMU10-414.md"
+      - "Machine Learning Compilation": "机器学习系统/MLC.md"
   - 深度学习:
       - "Coursera: Deep Learning": "深度学习/CS230.md"
       - "国立台湾大学：李宏毅机器学习": "深度学习/LHY.md"
