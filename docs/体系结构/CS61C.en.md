@@ -19,8 +19,8 @@ In a word, this is the best computer architecture course I have ever taken.
 - Course Website: <https://cs61c.org/su20/>
 - Recordings: [Youtube](https://www.youtube.com/playlist?list=PLDoI-XvXO0aqgoMQvogzmf7CKiSMSUS3M)
 - Textbook: None
-- Assignments: 11 Labs, 4 Projects, the course website has specific requirements
+- Assignments: 11 Labs, 4 Projects, the course website has specific requirements.
 
 ## Personal Resources
 
-All the resources and assignments used by @PKUFlyingPig in this course are maintained in [PKUFlyingPig/CS61C-summer20 - GitHub](https://github.com/PKUFlyingPig/CS61C-summer20)
+All the resources and assignments used by @PKUFlyingPig in this course are maintained in [PKUFlyingPig/CS61C-summer20 - GitHub](https://github.com/PKUFlyingPig/CS61C-summer20).
