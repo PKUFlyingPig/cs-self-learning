@@ -15,5 +15,5 @@ Within a month, you will master the core content of designing, building, beautif
 ## Resources
 
 - Course Website: <https://weblab.mit.edu/schedule/>
-- Recordings: refer to the course website
-- Assignments: refer to the course website
+- Recordings: refer to the course website.
+- Assignments: refer to the course website.
