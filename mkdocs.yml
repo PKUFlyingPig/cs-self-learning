@@ -147,10 +147,11 @@ nav:
       - "MIT 6.042J: Mathematics for Computer Science": "数学进阶/6.042J.md"
       - "MIT18.330: Introduction to numerical analysis": "数学进阶/numerical.md"
       - "Standford EE364A: Convex Optimization": "数学进阶/convex.md"
-      - "The Information Theory, Patter Recognition, and Neural Networks": "数学进阶/The_Information_Theory_Pattern_Recognition_and_Neural_Networks.md"
+      - "The Information Theory, Pattern Recognition, and Neural Networks": "数学进阶/The_Information_Theory_Pattern_Recognition_and_Neural_Networks.md"
   - 编程入门:
       - "MIT-Missing-Semester": "编程入门/MIT-Missing-Semester.md"
       - "Harvard CS50: This is CS50x": "编程入门/CS50.md"
+      - "CS50P: CS50's Introduction to Programming with Python": "编程入门/CS50P.md"
       - "UCB CS61A: Structure and Interpretation of Computer Programs": "编程入门/CS61A.md"
       - "Duke University: Introductory C Programming Specialization": "编程入门/Duke-Coursera-Intro-C.md"
       - "Stanford CS106B/X": "编程入门/CS106B_CS106X.md"
@@ -165,6 +166,8 @@ nav:
   - 数据结构与算法:
       - "UCB CS61B: Data Structures and Algorithms": "数据结构与算法/CS61B.md"
       - "Coursera: Algorithms I & II": "数据结构与算法/Algo.md"
+      - "MIT 6.006: Introduction to Algorithms": "数据结构与算法/6.006.md"
+      - "MIT 6.046: Design and Analysis of Algorithms": "数据结构与算法/6.046.md"
       - "UCB CS170: Efficient Algorithms and Intractable Problems": "数据结构与算法/CS170.md"
   - 软件工程:
       - "MIT 6.031: Software Construction": "软件工程/6031.md"
