@@ -182,7 +182,7 @@ IDE (Integrated Development Environment)：集成开发环境，说白了就是�
 
 算法是计算机科学的核心，也是几乎一切专业课程的基础。如何将实际问题通过数学抽象转化为算法问题，并选用合适的数据结构在时间和内存大小的限制下将其解决是算法课的永恒主题。如果你受够了老师的照本宣科，那么我强烈推荐伯克利的 [UCB CS61B: Data Structures and Algorithms](数据结构与算法/CS61B.md) 和普林斯顿的 [Coursera: Algorithms I & II](数据结构与算法/Algo.md)，这两门课的都讲得深入浅出并且会有丰富且有趣的编程实验将理论与知识结合起来。
 
-以上两门课程都是基于 Java 语言，如果你想学习 C/C++ 描述的版本，可以参考 斯坦福的数据结构与基础算法课程 [Stanford CS106B/X: Programming Abstractions](编程入门/CS106B_CS106X.md)。偏好 Python 的同学可以学习 MIT 的算法入门课 [MIT 6.006: Introduction to Algorithms](数据结构与算法/6.006.md)
+以上两门课程都是基于 Java 语言，如果你想学习 C/C++ 描述的版本，可以参考斯坦福的数据结构与基础算法课程 [Stanford CS106B/X: Programming Abstractions](编程入门/CS106B_CS106X.md)。偏好 Python 的同学可以学习 MIT 的算法入门课 [MIT 6.006: Introduction to Algorithms](数据结构与算法/6.006.md)
 
 对一些更高级的算法以及 NP 问题感兴趣的同学可以学习伯克利的算法设计与分析课程 [UCB CS170: Efficient Algorithms and Intractable Problems](数据结构与算法/CS170.md) 或者 MIT 的高阶算法 [MIT 6.046: Design and Analysis of Algorithms](数据结构与算法/6.046.md)。
 
