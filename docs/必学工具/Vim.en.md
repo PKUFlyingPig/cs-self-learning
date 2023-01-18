@@ -28,7 +28,7 @@ Ctrl and Esc keys are probably two of the most used keys in Vim. However, these 
 In order to make it easier to reach these keys, you can remap CapsLock to Esc or Ctrl.
 
 On Windows, [Powertoys](https://learn.microsoft.com/en-us/windows/powertoys/) or [AutoHotkey](https://www.autohotkey.com/) can be used to achieve this goal.    
-On macOS, you can remap keys in system settings, see this [page](https://vim.fandom.com/wiki/Map_caps_lock_to_escape_in_macOS).
+On macOS, you can remap keys in system settings, see this [page](https://vim.fandom.com/wiki/Map_caps_lock_to_escape_in_macOS). [Karabiner-Elements](https://karabiner-elements.pqrs.org/) also works.
 
 A better solution is to make CapsLock function as Esc and Ctrl simultaneously. Click CapsLock to send Esc, hold CapsLock to use it as Ctrl key.
 

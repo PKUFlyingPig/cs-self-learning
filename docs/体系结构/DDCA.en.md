@@ -18,4 +18,4 @@ There are 9 labs in the course. You will use the Basys 3 FPGA board and [Vivado]
 - Recordings: <https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2>
 - Textbook1: Patt and Patel, Introduction to Computing Systems
 - Textbook2: Harris and Harris, Digital Design and Computer Architecture (MIPS Edition)
-- Assignments: refer to the course website
+- Assignments: refer to the course website.
