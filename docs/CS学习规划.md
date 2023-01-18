@@ -145,6 +145,7 @@ IDE (Integrated Development Environment)：集成开发环境，说白了就是�
 
 #### Python
 
+- [CS50P: CS50's Introduction to Programming with Python](编程入门/CS50P.md)
 - [Harvard CS50: This is CS50x](编程入门/CS50.md)
 - [UCB CS61A: Structure and Interpretation of Computer Programs](编程入门/CS61A.md)
 
