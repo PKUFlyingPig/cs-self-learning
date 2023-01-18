@@ -10,7 +10,7 @@
 
 学会提问：也许你会惊讶，提问也算计算机必备技能吗，还放在第一条？我觉得在开源社区中，学会提问是一项非常重要的能力，它包含两方面的事情。其一是会变相地培养你自主解决问题的能力，因为从形成问题、描述问题并发布、他人回答、最后再到理解回答这个周期是非常长的，如果遇到什么鸡毛蒜皮的事情都希望别人最好远程桌面手把手帮你完成，那计算机的世界基本与你无缘了。其二，如果真的经过尝试还无法解决，可以借助开源社区的帮助，但这时候如何通过简洁的文字让别人瞬间理解你的处境以及目的，就显得尤为重要。推荐阅读[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)这篇文章，这不仅能提高你解决问题的概率和效率，也能让开源社区里无偿提供解答的人们拥有一个好心情。
 
-[MIT-Missing-Semester](编程入门/MIT-Missing-Semester.md) 这门课覆盖了这些工具中绝大部分，而且有相当详细的使用指导，强烈建议小白学习。
+[MIT-Missing-Semester](编程入门/MIT-Missing-Semester.md) 这门课覆盖了这些工具中绝大部分，而且有相当详细的使用指导，强烈建议小白学习。不过需要注意的一点是，在课程中会不时提到一些与开发流程相关的术语。因此推荐至少在学完计算机导论级别的课程之后进行学习。
 
 [翻墙](必学工具/翻墙.md)：由于一些众所周知的原因，谷歌、GitHub 等网站在大陆无法访问。然而很多时候，谷歌和 StackOverflow 可以解决你在开发过程中遇到的 99% 的问题。因此，学会翻墙几乎是一个内地 CSer 的必备技能。（考虑到法律问题，这个文档提供的翻墙方式仅对拥有北大邮箱的用户适用）。
 
@@ -145,6 +145,7 @@ IDE (Integrated Development Environment)：集成开发环境，说白了就是�
 
 #### Python
 
+- [CS50P: CS50's Introduction to Programming with Python](编程入门/CS50P.md)
 - [Harvard CS50: This is CS50x](编程入门/CS50.md)
 - [UCB CS61A: Structure and Interpretation of Computer Programs](编程入门/CS61A.md)
 
@@ -179,7 +180,11 @@ IDE (Integrated Development Environment)：集成开发环境，说白了就是�
 
 ### 数据结构与算法
 
-算法是计算机科学的核心，也是几乎一切专业课程的基础。如何将实际问题通过数学抽象转化为算法问题，并选用合适的数据结构在时间和内存大小的限制下将其解决是算法课的永恒主题。如果你受够了老师的照本宣科，那么我强烈推荐伯克利的 [UCB CS61B: Data Structures and Algorithms](数据结构与算法/CS61B.md) 和普林斯顿的 [Coursera: Algorithms I & II](数据结构与算法/Algo.md)，这两门课的都讲得深入浅出并且会有丰富且有趣的编程实验将理论与知识结合起来。此外，对一些更高级的算法以及 NP 问题感兴趣的同学可以学习伯克利的算法设计与分析课程 [UCB CS170: Efficient Algorithms and Intractable Problems](数据结构与算法/CS170.md)。
+算法是计算机科学的核心，也是几乎一切专业课程的基础。如何将实际问题通过数学抽象转化为算法问题，并选用合适的数据结构在时间和内存大小的限制下将其解决是算法课的永恒主题。如果你受够了老师的照本宣科，那么我强烈推荐伯克利的 [UCB CS61B: Data Structures and Algorithms](数据结构与算法/CS61B.md) 和普林斯顿的 [Coursera: Algorithms I & II](数据结构与算法/Algo.md)，这两门课的都讲得深入浅出并且会有丰富且有趣的编程实验将理论与知识结合起来。
+
+以上两门课程都是基于 Java 语言，如果你想学习 C/C++ 描述的版本，可以参考斯坦福的数据结构与基础算法课程 [Stanford CS106B/X: Programming Abstractions](编程入门/CS106B_CS106X.md)。偏好 Python 的同学可以学习 MIT 的算法入门课 [MIT 6.006: Introduction to Algorithms](数据结构与算法/6.006.md)
+
+对一些更高级的算法以及 NP 问题感兴趣的同学可以学习伯克利的算法设计与分析课程 [UCB CS170: Efficient Algorithms and Intractable Problems](数据结构与算法/CS170.md) 或者 MIT 的高阶算法 [MIT 6.046: Design and Analysis of Algorithms](数据结构与算法/6.046.md)。
 
 ### 软件工程
 

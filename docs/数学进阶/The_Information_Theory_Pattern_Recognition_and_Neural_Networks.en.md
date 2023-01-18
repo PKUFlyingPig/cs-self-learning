@@ -1,4 +1,4 @@
-# The Information Theory, Patter Recognition, and Neural Networks
+# The Information Theory, Pattern Recognition, and Neural Networks
 
 ## Descriptions
 
