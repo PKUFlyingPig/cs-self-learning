@@ -32,7 +32,7 @@ MacOS 系统提供了重映射键位的[设置](https://vim.fandom.com/wiki/Map_
 但更佳的做法是同时将 CapsLock 映射为 Ctrl 和 Esc，点按为 Esc，按住为 Ctrl。
 
 Windows 系统下，这个[AutoHotKey gist](https://gist.github.com/sedm0784/4443120) 实现了这个功能。    
-MacOS 可以导入[这个 karabiner rule](https://ke-complex-modifications.pqrs.org/#caps_lock_tapped_escape_held_left_control) 重映射。
+MacOS 可以导入这个[karabiner rule](https://ke-complex-modifications.pqrs.org/#caps_lock_tapped_escape_held_left_control) 重映射。
 
 ## 推荐参考资料
 
