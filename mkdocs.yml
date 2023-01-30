@@ -198,6 +198,7 @@ nav:
       - "CMU 15-445: Database Systems": "数据库系统/15445.md"
       - "Caltech CS122: Database System Implementation": "数据库系统/CS122.md"
       - "Stanford CS346: Database System Implementation": "数据库系统/CS346.md"
+      - "CMU 15-799: Special Topics in Database Systems": "数据库系统/15799.md"
   - 编译原理:
       - "Stanford CS143: Compilers": "编译原理/CS143.md"
   - 计算机图形学:
