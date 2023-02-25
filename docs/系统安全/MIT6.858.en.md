@@ -24,6 +24,6 @@ In the Final Project, you will build a remote file system, [SecFS](https://www.u
 ## Resources
 
 - Course Website: <http://css.csail.mit.edu/6.858/2022/>
-- Assignments: refer to the course website
+- Assignments: refer to the course website.
 - Textbook: None
 - Assignments:  4 Labs + Final Project / Lab5
