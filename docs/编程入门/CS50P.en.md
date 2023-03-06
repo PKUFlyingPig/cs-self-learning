@@ -18,3 +18,7 @@ No programming experiences are assumed. So it may be appropriate for anyone who 
 - Recordings: [2022](https://www.bilibili.com/video/BV1z5411X7wX)
 - Textbooks: No textbook required
 - Assignments: [2022](https://cs50.harvard.edu/python/2022/)
+
+## Personal Resources
+
+All the resources and assignments used by @mancuoj in this course are maintained in [mancuoj/CS50P - GitHub](https://github.com/mancuoj/CS50P).
