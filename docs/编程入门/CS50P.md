@@ -18,3 +18,7 @@ CS50的番外篇，依旧由 David J. Malan 授课。在该课程中你将学会
 - 课程视频：[2022](https://www.bilibili.com/video/BV1z5411X7wX)
 - 课程教材：无
 - 课程作业：[2022](https://cs50.harvard.edu/python/2022/)
+
+## 资源汇总
+
+@mancuoj 在学习这门课中用到的所有资源和作业实现都汇总在 [mancuoj/CS50P - GitHub](https://github.com/mancuoj/CS50P) 中。
