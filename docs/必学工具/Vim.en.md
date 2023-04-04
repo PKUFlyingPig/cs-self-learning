@@ -30,10 +30,11 @@ In order to make it easier to reach these keys, you can remap CapsLock to Esc or
 On Windows, [Powertoys](https://learn.microsoft.com/en-us/windows/powertoys/) or [AutoHotkey](https://www.autohotkey.com/) can be used to achieve this goal.    
 On macOS, you can remap keys in system settings, see this [page](https://vim.fandom.com/wiki/Map_caps_lock_to_escape_in_macOS). [Karabiner-Elements](https://karabiner-elements.pqrs.org/) also works.
 
-A better solution is to make CapsLock function as Esc and Ctrl simultaneously. Click CapsLock to send Esc, hold CapsLock to use it as Ctrl key.
+A better solution is to make CapsLock function as Esc and Ctrl simultaneously. Click CapsLock to send Esc, hold CapsLock to use it as Ctrl key. Here's how to do it on different systems:
 
-On Windows, this [AutoHotKey gist](https://gist.github.com/sedm0784/4443120) does just this.    
-On macOS, this [karabiner rule](https://ke-complex-modifications.pqrs.org/#caps_lock_tapped_escape_held_left_control) does the magic.
+- [Windows](https://gist.github.com/sedm0784/4443120)  
+- [MacOS](https://ke-complex-modifications.pqrs.org/#caps_lock_tapped_escape_held_left_control)  
+- [Linux](https://www.jianshu.com/p/6fdc0e0fb266)
 
 ## Recommended References
 
