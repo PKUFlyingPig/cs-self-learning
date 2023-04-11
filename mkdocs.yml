@@ -125,6 +125,7 @@ nav:
   - 必学工具:
       - 翻墙: "必学工具/翻墙.md"
       - Vim: "必学工具/Vim.md"
+      - Emacs: "必学工具/Emacs.md"
       - Git: "必学工具/Git.md"
       - GitHub: "必学工具/GitHub.md"
       - "GNU Make": "必学工具/GNU_Make.md"
