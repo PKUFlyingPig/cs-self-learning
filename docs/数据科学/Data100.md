@@ -3,7 +3,7 @@
 ## 课程简介
 
 - 所属大学：UC Berkeley
-- 先修要求：CS61A，线性代数
+- 先修要求：Data8, CS61A，线性代数
 - 编程语言：Python
 - 课程难度：🌟🌟🌟
 - 预计学时：80 小时
@@ -12,7 +12,7 @@
 
 ## 课程资源
 
-- 课程网站：<https://ds100.org/fa21/>
+- 课程网站：<https://ds100.org/>
 - 课程视频：参见课程网站
 - 课程教材：<https://www.textbook.ds100.org/intro.html>
 - 课程作业：参见课程网站
