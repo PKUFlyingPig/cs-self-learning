@@ -17,12 +17,12 @@ This course is so famous that you can easily have access to the project solution
 ## Resources
 
 - Course Website: <https://pdos.csail.mit.edu/6.824/schedule.html>
-- Assignments: refer to the course website
+- Assignments: refer to the course website.
 - Textbook: None
-- Assignments: 4 torturing projects, the course website has specific requirements
+- Assignments: 4 torturing projects, the course website has specific requirements.
 
 ## Personal Resources
 
-All the resources and assignments used by @PKUFlyingPig in this course are maintained in [PKUFlyingPig/MIT6.824 - GitHub](https://github.com/PKUFlyingPig/MIT6.824)
+All the resources and assignments used by @PKUFlyingPig in this course are maintained in [PKUFlyingPig/MIT6.824 - GitHub](https://github.com/PKUFlyingPig/MIT6.824).
 
 @[OneSizeFitsQuorum](https://github.com/OneSizeFitsQuorum) has written a [Lab Documentation](https://github.com/OneSizeFitsQuorum/MIT6.824-2021) that quite clearly describes many of the details to be considered when implementing lab 1-4 and challenge 1-2, you can read when you encounter bottlenecks ~ ~

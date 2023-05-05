@@ -18,6 +18,7 @@
 
 - 课程网站：<https://pdos.csail.mit.edu/6.824/schedule.html>
 - 课程视频：参见课程网站链接
+- 课程视频中文翻译：<https://mit-public-courses-cn-translatio.gitbook.io/mit6-824/>
 - 课程教材：无，以阅读论文为主
 - 课程作业：4 个非常虐的 Project，具体要求参见课程网站
 
