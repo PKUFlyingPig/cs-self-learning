@@ -30,3 +30,4 @@ Berkeley 计算机系教授 Christos Papadimitriou 曾说过一句半开玩笑�
 - 刘海洋的《LaTeX 入门》，可以当作工具书来阅读，有问题再查找，跳过 CTEX 套装部分
 - [现代 LaTeX 入门讲座](https://github.com/stone-zeng/latex-talk)
 - [一份其实很短的 LaTeX 入门文档](https://liam.page/2014/09/08/latex-introduction/)
+- `Arch wiki` 向 `Arch` 用户提供的 [TexLive](https://wiki.archlinuxcn.org/wiki/TeX_Live) 的安装指南，可供参考。
