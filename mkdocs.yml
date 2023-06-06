@@ -182,6 +182,7 @@ nav:
       - "MIT 6.S081: Operating System Engineering": "操作系统/MIT6.S081.md"
       - "UCB CS162: Operating System": "操作系统/CS162.md"
       - "NJU OS: Operating System Design and Implementation": "操作系统/NJUOS.md"
+      - "HIT OS: Operating System": "操作系统/HITOS.md"
   - 并行与分布式系统:
       - "CMU 15-418/Stanford CS149: Parallel Computing": "并行与分布式系统/CS149.md"
       - "MIT 6.824: Distributed System": "并行与分布式系统/MIT6.824.md"

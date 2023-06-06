@@ -13,6 +13,7 @@
 - [uTorrent](https://www.utorrent.com): BitTorrent 客户端。
 - [全国标准信息公共服务平台](https://std.samr.gov.cn/)：各类标准查询和下载官方平台。
 - [标准知识服务系统](http://www.standards.com.cn/)：检索与阅读所需标准。
+- [MSDN,我告诉你](https://msdn.itellyou.cn/): Windows 操作系统镜像下载站，也有许多其他软件的下载。
 
 ## 设计工具
 
@@ -48,7 +49,6 @@
 ## 学习网站
 
 - [HFS](https://hepsoftwarefoundation.org/training/curriculum.html): 各类软件教程。
-- [os-wiki](https://wiki.osdev.org/Main_Page): 操作系统技术资源百科全书。
 - [Shadertoy](https://www.shadertoy.com/): 编写各式各样的 shader。
 - [comments-for-awesome-courses](https://conanhujinming.github.io/comments-for-awesome-courses/): 名校公开课评价网。
 - [codetop](https://codetop.cc/home): 企业题库。
@@ -57,6 +57,31 @@
 - [ecust-CourseShare](https://github.com/tianyilt/ecnu-PGCourseShare): 华东师范大学研究生课程攻略共享计划。
 - [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT): 清华大学计算机系课程攻略。
 - [seu-master](https://github.com/oneman233/seu-master): 东南大学研究生课程资料整理。
+- [菜鸟教程](https://www.runoob.com/): 计算机相关知识的简要的教程。
+- [FreeBSD 从入门到跑路](https://book.bsdcn.org/): 一本 FreeBSD 的中文教程。
+- [MDN Web Docs](https://developer.mozilla.org/zh-CN/docs/Learn): MDN 网络开发入门手册。
+- [Hello 算法](https://www.hello-algo.com/): 动画图解、能运行、可提问的数据结构与算法快速入门教程。
+
+## 百科网站/词典性质的网站
+- [os-wiki](https://wiki.osdev.org/Main_Page): 操作系统技术资源百科全书。
+- [FreeBSD Documentation](https://docs.freebsd.org/en/): FreeBSD 官方文档。
+- [Python3 Documentation](https://docs.python.org/zh-cn/3/): Python3 官方中文文档。
+- [C++ Reference](https://en.cppreference.com/w/): C++ 参考手册。
+- [OI Wiki](https://oi-wiki.org/): 编程竞赛知识整合站点。
+- [Microsoft Learn](https://learn.microsoft.com/zh-cn/): 微软官方的学习平台，包含了绝大多数微软产品的文档。
+- [Arch Wiki](https://wiki.archlinux.org/): 专为 Arch Linux 而写的 Wiki，包含了大量 Linux 相关的知识。
+- [Qt Wiki](https://wiki.qt.io/Main): Qt 官方 Wiki。
+- [OpenCV 中文文档](https://opencv.apachecn.org/#/): OpenCV 的社区版中文文档。
+- [npm Docs](https://docs.npmjs.com/): npm 官方文档。
+
+## 交流平台
+- [GitHub](https://github.com/): 许多开源项目的托管平台，也是许多开源项目的主要交流平台，通过查看 issue 可以解决许多问题。
+- [StackExchange](https://stackexchange.com/): Stack Exchange 是由 181 个问答社区组成（其中包括 Stack Overflow）的编程社区。
+- [StackOverflow](https://stackoverflow.com/): Stack Overflow 是一个与程序相关的 IT 技术问答网站。
+- [Gitee](https://gitee.com/): 一个类似于 GitHub 的代码托管平台，可以在对应项目的 issue 里查找一些常见问题的解答。
+- [知乎](https://www.zhihu.com/): 一个类似于 Quora 的问答社区，可以在其中提问，一些问答包含有计算机的知识。
+- [博客园](https://www.cnblogs.com/): 一个面向开发者的知识分享社区，拥有一些常见问题的博客，正确率不能保证，请谨慎使用。
+- [CSDN](https://blog.csdn.net/): 拥有一些常见问题的博客，正确率不能保证，请谨慎使用。
 
 ## 杂项
 
@@ -69,3 +94,5 @@
 - [vim-adventures](https://vim-adventures.com/): 一款基于 vim 键盘快捷键的在线游戏。
 - [vimsnake](https://vimsnake.com/): 利用 vim 玩贪吃蛇。
 - [keybr](https://www.keybr.com/): 学习盲打的网站。
+- [Awesome C++](https://cpp.libhunt.com/): 很棒的 C/C++ 框架、库、资源精选列表。
+- [HelloGitHub](https://hellogithub.com/): 分享 GitHub 上有趣、入门级的开源项目。
