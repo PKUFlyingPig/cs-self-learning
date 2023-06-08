@@ -213,6 +213,7 @@ nav:
       - "MIT web development course": "Web开发/mitweb.md"
       - "Stanford CS142: Web Applications": "Web开发/CS142.md"
       - "University of Helsinki: Full Stack open 2022": "Web开发/fullstackopen.md"
+      - "CS571 Building UI (React & React Native)": "Web开发/CS571.md"
   - 数据科学:
       - "UCB Data100: Principles and Techniques of Data Science": "数据科学/Data100.md"
   - 人工智能:
