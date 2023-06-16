@@ -62,6 +62,7 @@ theme:
 markdown_extensions:
   - attr_list
   - md_in_html
+  - footnotes
 
 plugins:
   - i18n:
@@ -182,7 +183,6 @@ nav:
       - "MIT 6.S081: Operating System Engineering": "操作系统/MIT6.S081.md"
       - "UCB CS162: Operating System": "操作系统/CS162.md"
       - "NJU OS: Operating System Design and Implementation": "操作系统/NJUOS.md"
-      - "HIT OS: Operating System": "操作系统/HITOS.md"
   - 并行与分布式系统:
       - "CMU 15-418/Stanford CS149: Parallel Computing": "并行与分布式系统/CS149.md"
       - "MIT 6.824: Distributed System": "并行与分布式系统/MIT6.824.md"
@@ -213,7 +213,6 @@ nav:
       - "MIT web development course": "Web开发/mitweb.md"
       - "Stanford CS142: Web Applications": "Web开发/CS142.md"
       - "University of Helsinki: Full Stack open 2022": "Web开发/fullstackopen.md"
-      - "CS571 Building UI (React & React Native)": "Web开发/CS571.md"
   - 数据科学:
       - "UCB Data100: Principles and Techniques of Data Science": "数据科学/Data100.md"
   - 人工智能:
