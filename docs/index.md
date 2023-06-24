@@ -4,7 +4,7 @@
 
 # 前言
 
-**最近更新：[Release v1.0.1](https://github.com/PKUFlyingPig/cs-self-learning/releases/tag/v1.0.1) 已发布 🎉**
+**最近更新：[Release v1.0.2](https://github.com/PKUFlyingPig/cs-self-learning/releases/tag/v1.0.2) 已发布 🎉**
 
 这是一本计算机的自学指南，也是对自己大学三年自学生涯的一个纪念。
 

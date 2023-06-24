@@ -62,6 +62,7 @@ theme:
 markdown_extensions:
   - attr_list
   - md_in_html
+  - footnotes
 
 plugins:
   - i18n:
