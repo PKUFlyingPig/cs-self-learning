@@ -13,7 +13,7 @@
 以下是官网的介绍：
 >We will learn the fundamental concepts of the different parts of modern computing systems, as well as the latest major research topics in Industry and Academia. We will extensively cover memory systems (including DRAM and new Non-Volatile Memory technologies, memory controllers, flash memory), new paradigms like processing-in-memory, parallel computing systems (including multicore processors, coherence and consistency, GPUs), heterogeneous computing, interconnection networks, specialized systems for major data-intensive workloads (e.g. graph analytics, bioinformatics, machine learning), etc. We will focus on fundamentals as well as cutting-edge research. Significant attention will be given to real-life examples and tradeoffs, as well as critical analysis of modern computing systems.
 
-编程实践采取 Verilog 设计和模拟类 MIPS 流水线处理器的寄存器传输（RT）实现，以此加强对理论课程的理解。因此前几个实验会有verilog 的 CPU 流水线编程。同时还将使用C语言开发一个周期精确的处理器模拟器，并使用该模拟器探索处理器设计选项。
+编程实践采取 Verilog 设计和模拟类 MIPS 流水线处理器的寄存器传输（RT）实现，以此加强对理论课程的理解。因此前几个实验会有 verilog 的 CPU 流水线编程。同时还将使用C语言开发一个周期精确的处理器模拟器，并使用该模拟器探索处理器设计选项。
 
 
 ## 课程资源
