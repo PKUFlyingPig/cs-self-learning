@@ -176,9 +176,10 @@ nav:
       - "UCB CS169: software engineering": "软件工程/CS169.md"
   - 体系结构:
       - "Coursera: Nand2Tetris": "体系结构/N2T.md"
-      - "Digital Design and Computer Architecture": "体系结构/DDCA.md"
       - "UCB CS61C: Great Ideas in Computer Architecture": "体系结构/CS61C.md"
       - "CMU 15-213: CSAPP": "体系结构/CSAPP.md"
+      - "ETHz: Digital Design and Computer Architecture": "体系结构/DDCA.md"
+      - "ETHz: Computer Architecture": "体系结构/CA.md"
   - 操作系统:
       - "MIT 6.S081: Operating System Engineering": "操作系统/MIT6.S081.md"
       - "UCB CS162: Operating System": "操作系统/CS162.md"
