@@ -230,6 +230,7 @@ nav:
       - "CMU 10-414/714: Deep Learning Systems": "机器学习系统/CMU10-414.md"
       - "Machine Learning Compilation": "机器学习系统/MLC.md"
   - 深度学习:
+      - "UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision": "深度学习/EECS498-007.md"
       - "Coursera: Deep Learning": "深度学习/CS230.md"
       - "国立台湾大学：李宏毅机器学习": "深度学习/LHY.md"
       - "Stanford CS231n: CNN for Visual Recognition": "深度学习/CS231.md"
