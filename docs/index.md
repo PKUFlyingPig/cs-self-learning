@@ -88,3 +88,11 @@
 ## 关于交流群的建立
 
 方法参见仓库的 `README.md`。
+
+## 请作者喝杯下午茶
+
+本书的内容是完全开源免费的，如果你觉得该项目对你真的有帮助，可以给仓库点个 star 或者请作者喝一杯下午茶。
+
+<figure markdown>
+  ![Image title](./images/sponsor.png){ width="500" }
+</figure>
