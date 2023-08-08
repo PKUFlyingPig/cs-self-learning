@@ -1,4 +1,4 @@
-# DeCal
+# UCB: Sysadmin DeCal
 
 ## 课程简介
 
