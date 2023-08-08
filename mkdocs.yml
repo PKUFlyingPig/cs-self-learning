@@ -152,7 +152,7 @@ nav:
       - "The Information Theory, Pattern Recognition, and Neural Networks": "数学进阶/The_Information_Theory_Pattern_Recognition_and_Neural_Networks.md"
   - 编程入门:
       - "MIT-Missing-Semester": "编程入门/MIT-Missing-Semester.md"
-      - "Sysadmin DeCal":"编程入门/DeCal.md"
+      - "Sysadmin DeCal": "编程入门/DeCal.md"
       - "Harvard CS50: This is CS50x": "编程入门/CS50.md"
       - "CS50P: CS50's Introduction to Programming with Python": "编程入门/CS50P.md"
       - "UCB CS61A: Structure and Interpretation of Computer Programs": "编程入门/CS61A.md"
