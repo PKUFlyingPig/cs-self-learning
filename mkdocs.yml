@@ -96,6 +96,7 @@ plugins:
           计算机网络: Computer Networking
           数据库系统: Database Systems
           编译原理: Compilers
+          程序语言设计: Programming Language
           计算机图形学: Computer Graphics
           Web开发: Web Development
           数据科学: Data Science
@@ -104,7 +105,6 @@ plugins:
           机器学习系统: Machine Learning Systems
           深度学习: Deep Learning
           机器学习进阶: Advanced Machine Learning
-          程序语言设计: Programming Language
           后记: Postscript
   - search:
       lang: ja
@@ -208,6 +208,8 @@ nav:
       - "CMU 15-799: Special Topics in Database Systems": "数据库系统/15799.md"
   - 编译原理:
       - "Stanford CS143: Compilers": "编译原理/CS143.md"
+  - 程序语言设计:
+      - "Stanford CS242: Programming Languages": "程序语言设计/CS242.md"
   - 计算机图形学:
       - "GAMES101": "计算机图形学/GAMES101.md"
       - "GAMES202": "计算机图形学/GAMES202.md"
@@ -246,6 +248,4 @@ nav:
       - "Columbia STAT 8201: Deep Generative Models": "机器学习进阶/STAT8201.md"
       - "U Toronto STA 4273 Winter 2021: Minimizing Expectations": "机器学习进阶/STA4273.md"
       - "Stanford STATS214 / CS229M: Machine Learning Theory": "机器学习进阶/CS229M.md"
-  - 程序语言设计:
-      - "Stanford CS242: Programming Languages": "程序语言设计/CS242.md"
   - 后记: "后记.md"
