@@ -96,6 +96,7 @@ plugins:
           计算机网络: Computer Networking
           数据库系统: Database Systems
           编译原理: Compilers
+          程序语言设计: Programming Language
           计算机图形学: Computer Graphics
           Web开发: Web Development
           数据科学: Data Science
@@ -207,6 +208,8 @@ nav:
       - "CMU 15-799: Special Topics in Database Systems": "数据库系统/15799.md"
   - 编译原理:
       - "Stanford CS143: Compilers": "编译原理/CS143.md"
+  - 程序语言设计:
+      - "Stanford CS242: Programming Languages": "程序语言设计/CS242.md"
   - 计算机图形学:
       - "GAMES101": "计算机图形学/GAMES101.md"
       - "GAMES202": "计算机图形学/GAMES202.md"
