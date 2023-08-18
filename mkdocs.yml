@@ -208,6 +208,7 @@ nav:
       - "CMU 15-799: Special Topics in Database Systems": "数据库系统/15799.md"
   - 编译原理:
       - "Stanford CS143: Compilers": "编译原理/CS143.md"
+      - "NJU 软件分析": "编译原理/NJU-SoftwareAnalysis.md"
   - 程序语言设计:
       - "Stanford CS242: Programming Languages": "程序语言设计/CS242.md"
   - 计算机图形学:
