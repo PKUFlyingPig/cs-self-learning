@@ -107,7 +107,9 @@ plugins:
           机器学习进阶: Advanced Machine Learning
           后记: Postscript
   - search:
-      lang: ja
+      lang:
+        - zh
+        - en
   - git-revision-date-localized
   - minify:
       minify_html: true
