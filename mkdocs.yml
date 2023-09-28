@@ -198,6 +198,7 @@ nav:
       - "MIT 6.858: Computer System Security": "系统安全/MIT6.858.md"
       - "ASU CSE365: Introduction to Cybersecurity": "系统安全/CSE365.md"
       - "ASU CSE466: Computer Systems Security": "系统安全/CSE466.md"
+      - "SU SEED Labs": "系统安全/SEEDLabs.md"
   - 计算机网络:
       - "USTC Computer Networking:A Top-Down Approach": "计算机网络/topdown_ustc.md"
       - "Computer Networking: A Top-Down Approach": "计算机网络/topdown.md"
