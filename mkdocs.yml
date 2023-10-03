@@ -166,6 +166,7 @@ nav:
       - "AmirKabir University of Technology AP1400-2: Advanced Programming": "编程入门/AUT1400.md"
       - "Haskell MOOC": "编程入门/Haskell-MOOC.md"
       - "Cornell CS3110: OCaml Programming Correct + Efficient + Beautiful": "编程入门/CS3110.md"
+      - "KAIST CS431: Concurrent Programming": "编程入门/cs431.md"
   - 电子基础:
       - "EE16A&B: Designing Information Devices and Systems I&II": "电子基础/EE16.md"
       - "UCB EE120 : Signal and Systems": "电子基础/signal.md"
