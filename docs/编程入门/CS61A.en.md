@@ -26,7 +26,7 @@ Note: If you have no prior programming experience at all, getting started with C
 
 - Course Website: <https://inst.eecs.berkeley.edu/~cs61a/su20/>
 - Recordings: refer to the course website
-- Textbook: <http://composingprograms.com/>
+- Textbook: <https://www.composingprograms.com/>
 - Assignments: refer to the course website
 
 ## Personal Resources
