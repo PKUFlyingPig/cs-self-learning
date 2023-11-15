@@ -2,10 +2,10 @@
 
 ## Course Overview
 
-- University：National Taiwan University
-- Prerequisites：Proficiency in Python
-- Programming Language：Python
-- Course Difficulty：🌟🌟🌟🌟
+- University: National Taiwan University
+- Prerequisites: Proficiency in Python
+- Programming Language: Python
+- Course Difficulty: 🌟🌟🌟🌟
 - Estimated Hours：80 hours
 
 Professor Hung-yi Lee, a professor at National Taiwan University, is known for his humorous and engaging teaching style. He often incorporates fun elements like Pokémon into his slides, making the learning experience enjoyable.
@@ -18,5 +18,5 @@ Don't be overly concerned about the difficulty of the assignments. All assignmen
 
 - Course Websites：<https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php>
 - Course Videos：<https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php>
-- Course Textbook：N/A
+- Course Textbook: N/A
 - Course Assignments：<https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php>, 15 labs covering a wide range of deep learning domains
