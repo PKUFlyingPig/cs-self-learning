@@ -18,7 +18,6 @@ I recommend the textbook for a comprehensive tech stack understanding. Deep lear
 
 Inspired by the course, I developed a [simple deep learning framework](https://github.com/ysj1173886760/PyToy) and plan a tutorial. Written in Python, it's code-light, suitable for students with some foundation. Future plans include more operators and potential porting to C++ for balanced performance and efficiency.
 
-
 ## Course Resources
 
 - Course Website：[Official Website](https://novel.ict.ac.cn/aics/)
