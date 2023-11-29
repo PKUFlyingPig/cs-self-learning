@@ -254,6 +254,8 @@ IDE (Integrated Development Environment)：集成开发环境，说白了就是�
 
 [ASU CSE466: Computer Systems Security](系统安全/CSE466.md) 亚利桑那州立大学的系统安全课程，涉及内容全面。门槛较高，需要对 Linux, C 与 Python 充分熟悉。
 
+[SU SEED Labs](系统安全/SEEDLabs.md)  雪城大学的网安课程，由 NSF 提供130万美元的资金支持，为网安教育开发了动手实践性的实验练习（称为 SEED Lab）。课程理论教学和动手实践并重，包含详细的开源讲义、视频教程、教科书（被印刷为多种语言）、开箱即用的基于虚拟机和 docker 的攻防环境等。目前全球有1050家研究机构在使用该项目。涵盖计算机和信息安全领域的广泛主题，包括软件安全、网络安全、Web 安全、操作系统安全和移动应用安全。
+
 #### 实践课程
 
 掌握这些理论知识之后，还需要在实践中培养和锻炼这些“黑客素养”。[CTF 夺旗赛](https://ctf-wiki.org/)是一项比较热门的系统安全比赛，赛题中会融会贯通地考察你对计算机各个领域知识的理解和运用。北大今年也成功举办了[第 0 届和第 1 届](https://geekgame.pku.edu.cn/)，鼓励大家后期踊跃参与，在实践中提高自己。下面列举一些我平时学习（摸鱼）用到的资源：
@@ -325,6 +327,8 @@ Berkeley 作为著名开源数据库 postgres 的发源地也不遑多让，[UCB
 当然因为深度学习领域发展非常迅速，已经拥有了众多研究分支，如果想要进一步深入，可以按需学习下面罗列的代表课程，
 
 #### 计算机视觉
+
+[UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision](深度学习/EECS498-007.md)
 
 [Stanford CS231n: CNN for Visual Recognition](深度学习/CS231.md)
 

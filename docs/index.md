@@ -4,7 +4,7 @@
 
 # 前言
 
-**最近更新：[Release v1.0.1](https://github.com/PKUFlyingPig/cs-self-learning/releases/tag/v1.0.1) 已发布 🎉**
+**最近更新：[Release v1.0.2](https://github.com/PKUFlyingPig/cs-self-learning/releases/tag/v1.0.2) 已发布 🎉**
 
 这是一本计算机的自学指南，也是对自己大学三年自学生涯的一个纪念。
 
@@ -88,3 +88,11 @@
 ## 关于交流群的建立
 
 方法参见仓库的 `README.md`。
+
+## 请作者喝杯下午茶
+
+本书的内容是完全开源免费的，如果你觉得该项目对你真的有帮助，可以给仓库点个 star 或者请作者喝一杯下午茶。
+
+<figure markdown>
+  ![Image title](./images/sponsor.png){ width="500" }
+</figure>
