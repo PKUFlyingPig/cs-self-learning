@@ -46,7 +46,7 @@ All resources used and assignments implemented by @PKUFlyingPig when learning th
 ### Some Blogs for References
 
 - [doraemonzzz](http://doraemonzzz.com/tags/6-S081/)
-- [Xiao Fan (樊潇)](https://fanxiao.tech/posts/MIT-6S081-notes/)
+- [Xiao Fan (樊潇)](https://fanxiao.tech/posts/2021-03-02-mit-6s081-notes/)
 - [Miigon's blog](https://blog.miigon.net/categories/mit6-s081/)
 - [Zhou Fang](https://walkerzf.github.io/categories/6-S081/index.html)
 - [Yichun's Blog](https://www.yichuny.page/tags/Operating%20System)
