@@ -2,7 +2,7 @@
   ![Image title](./images/title.png){ width="600" }
 </figure>
 
-# Foreword
+# **Foreword**
 
 **The English version is still under development, please check [this issue](https://github.com/PKUFlyingPig/cs-self-learning/issues/222) if you want to contribute.**
 
@@ -17,7 +17,7 @@ The book is currently organized to include the following sections (if you have o
 - Book recommendations: Those who have read the CSAPP must have realized the importance of good books. I will list links to books and resources in different areas of Computer Science that I find rewarding to read.
 - **List of high quality CS courses**: I will summarize all the high quality foreign CS courses I have taken into different categories and give relevant self-learning advice. Most of them will have a separate repository containing relevant resources as well as my homework/project implementations.
 
-## The place where dreams start —— CS61A
+## **The place where dreams start —— CS61A**
 
 In my freshman year, I was a novice who knew nothing about computers. I installed a giant IDE Visual Studio and fight with OJ every day. With my high school maths background, I did pretty well in maths courses, but I felt struggled to learn courses in my major. When it came to programming, all I could do was open up that clunky IDE, create a new project that I didn't know exactly what it was for, and then `cin`, `cout`, `for` loops, and then CE, RE, WA loops. I was in a state where I was desperately trying to learn well but I didn't know how to learn. I listened carefully in class but I couldn't solve the homework problems. I spent almost all my spare time doing the homework after class, but the results were disappointing. I still retain the source code of the project for Introduction to Computing course —— a single 1200-line C++ file with no header files, no class abstraction, no unit tests, no makefile, no version control. The only good thing is that it can run, the disadvantage is the complement of "can run". For a while I wondered if I wasn't cut out for computer science, as all my childhood imaginings of geekiness had been completely ruined by my first semester's experience.
 
@@ -41,9 +41,9 @@ Imagine that if someone could chew up the hard knowledge and present it to you i
 
 If you think I'm exaggerating, start with [CS61A](https://cs61a.org/), because it's where my dreams began.
 
-## Why write this book?
+## **Why write this book?**
 
-In the 2020 Fall semester, I worked as a teaching assistant for the class Introduction to Computer Systems at Peking University. At that time, I had been studying totally on my own for over a year. I enjoyed this style of learning immensely. To share this joy, I have made a [CS Self-learning Materials List](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) for students in my seminar. It was purely on a whim at the time, as I wouldn't dare to encourage my students to skip classes and study on their own.
+In the 2020 Fall semester, I worked as a teaching assistant for the class "Introduction to Computer Systems" at Peking University. At that time, I had been studying totally on my own for over a year. I enjoyed this style of learning immensely. To share this joy, I have made a [CS Self-learning Materials List](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) for students in my seminar. It was purely on a whim at the time, as I wouldn't dare to encourage my students to skip classes and study on their own.
 
 But after another year of maintenance, the list has become quite comprehensive, covering most of the courses in Computer Science, Artificial Intelligence and Soft Engineering, and I have built separate repositories for each course, summarising the self-learning materials that I used.
 
@@ -53,7 +53,7 @@ If you can build up the whole CS foundation in less than three years, have relat
 
 I firmly believe that if you have read to this line, you do not lack the ability and committment to learn CS well, you just need a good teacher to teach you a good course. And I will try my best to pick such courses for you, based on my three years of experience.
 
-## Pros
+## **Pros**
 
 For me, the biggest advantage of self-learning is that I can adjust the pace of learning entirely according to my own progress. For difficult parts, I can watch the videos over and over again, Google it online and ask questions on StackOverflow until I have it all figured out. For those that I mastered relatively quickly, I could skip them at twice or even three times the speed.
 
@@ -61,7 +61,7 @@ Another great thing about self-learning is that you can learn from different per
 
 A third advantage of self-learning is that you do not need to go to the class, listening to the boring lectures.
 
-## Cons
+## **Cons**
 
 Of course, as a big fan of self-learning, I have to admit that it has its disadvantages.
 
@@ -71,16 +71,16 @@ The second thing is that these courses are basically in English. From the videos
 
 The third, and I think the most difficult one, is self-discipline. Because have no DDL can sometimes be a really scary thing, especially when you get deeper, many foreign courses are quite difficult. You have to be self-driven enough to force yourself to settle down, read dozens of pages of Project Handout, understand thousands of lines of skeleton code and endure hours of debugging time. With no credits, no grades, no teachers, no classmates, just one belief - that you are getting better.
 
-## Who is this book for?
+## **Who is this book for?**
 
 As I said in the beginning, anyone who is interested in learning computer science on their own can refer to this book. If you already have some basic skills and are just interested in a particular area, you can selectively pick and choose what you are interested in to study. Of course, if you are a novice who knows nothing about computers like I did back then, and just begin your college journey, I hope this book will be your cheat sheet to get the knowledge and skills you need in the least amount of time. In a way, this book is more like a course search engine ordered according to my experience, helping you to learn high quality CS courses from the world's top universities without leaving home.
 
 Of course, as an undergraduate student who has not yet graduated, I feel that I am not in a position nor have the right to preach one way of learning. I just hope that this material will help those who are also self-motivated and persistent to gain a richer, more varied and satisfying college life.
 
-## Special thanks
+## **Special thanks**
 
 I would like to express my sincere gratitude to all the professors who have made their courses public for free. These courses are the culmination of decades of their teaching careers, and they have chosen to selflessly make such a high quality CS education available to all. Without them, my university life would not have been as fulfilling and enjoyable. Many of the professors would even reply with hundreds of words in length after I had sent them a thank you email, which really touched me beyond words. They also inspired me all the time that if decide to do something, do it with all heart and soul.
 
-## Want to join as a contributor?
+## **Want to join as a contributor?**
 
 There is a limit to how much one person can do, and this book was written by me under a heavy research schedule, so there are inevitably imperfections. In addition, as I work in the area of systems, many of the courses focus on systems, and there is relatively little content related to advanced mathematics, computing theory, and advanced algorithms. If any of you would like to share your self-learning experience and resources in other areas, you can directly initiate a Pull Request in the project, or feel free to contact me by email ([zhongyinmin@pku.edu.cn](mailto:zhongyinmin@pku.edu.cn)).
