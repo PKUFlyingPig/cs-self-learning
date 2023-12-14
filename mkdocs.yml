@@ -106,6 +106,7 @@ plugins:
           机器学习系统: Machine Learning Systems
           深度学习: Deep Learning
           机器学习进阶: Advanced Machine Learning
+          机器人Manipulation: Robotics Manipulation
           后记: Postscript
   - search:
       lang:
@@ -255,4 +256,6 @@ nav:
       - "Columbia STAT 8201: Deep Generative Models": "机器学习进阶/STAT8201.md"
       - "U Toronto STA 4273 Winter 2021: Minimizing Expectations": "机器学习进阶/STA4273.md"
       - "Stanford STATS214 / CS229M: Machine Learning Theory": "机器学习进阶/CS229M.md"
+  - 机器人Manipulation:
+      - "Northwestern University: Modern Robotics": "机器人Manipulation/mechanics of manipulation.md"
   - 后记: "后记.md"
