@@ -8,6 +8,6 @@ This is where GNU Make comes to the rescue. It allows you to define the entire c
 
 ## How to learn GNU Make
 
-Here is a well-written [document] (https://seisman.github.io/how-to-write-makefile/overview.html)for in-depth and accessible understanding.
+Here is a well-written [document] (https://seisman.github.io/how-to-write-makefile/overview.html) for in-depth and accessible understanding.
 
 Mastering GNU Make is relatively easy, but using it effectively requires continuous practice. Integrate it into your daily development routine, be diligent in learning, and mimic the `Makefile` styles from other excellent open-source projects. Develop your own template that suits your needs, and over time, you will become more proficient in using GNU Make.
