@@ -4,8 +4,6 @@
 
 # **Foreword**
 
-**The English version is still under development, please check [this issue](https://github.com/PKUFlyingPig/cs-self-learning/issues/222) if you want to contribute.**
-
 This is a self-learning guide to computer science, and a memento of my three years of self-learning at university.
 
 It is also a gift to the young students at Peking University. It would be a great encouragement and comfort to me if this book could be of even the slightest help to you in your college life.
