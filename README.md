@@ -30,7 +30,7 @@
 
 对于中英混合排版的要点规范，可以参考[这个仓库](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)，我们将会对您的 Pull Request 做相应的校对，具体原因参见这个 [issue](https://github.com/PKUFlyingPig/cs-self-learning/issues/114)。
 
-本书的英文版也正在翻译中，如果你想参与到翻译的队伍里，可以参考这个 [issue](https://github.com/PKUFlyingPig/cs-self-learning/issues/222)。
+本书支持英文版，因此贡献的内容需要提供对应的英文翻译，具体流程可以参考这个 [issue](https://github.com/PKUFlyingPig/cs-self-learning/issues/222)。
 
 同时由于个人水平有限，书中难免有笔误甚至概念错误之处，也请各位不吝赐教，在 issue 中提出来。
 
