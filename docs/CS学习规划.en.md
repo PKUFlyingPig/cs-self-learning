@@ -52,7 +52,7 @@ Before you start learning, I highly recommend a popular science video series for
 
 ### PC Environment Setup
 
-If you are a Mac user, you're in luck, as this [guide](https://sourabhbajaj.com/mac-setup/) will walk you through setting up the entire development environment. If you are a Windows user, thanks to the efforts of the open-source community, you can enjoy a similar experience on other platforms: [Scoop](./必学工具/Scoop.md).
+If you are a Mac user, you're in luck, as this [guide](https://sourabhbajaj.com/mac-setup/) will walk you through setting up the entire development environment. If you are a Windows user, thanks to the efforts of the open-source community, you can enjoy a similar experience with [Scoop](./必学工具/Scoop.md).
 
 Additionally, you can refer to an [environment setup guide][guide] inspired by [6.NULL MIT-Missing-Semester](./编程入门/MIT-Missing-Semester.md), focusing on terminal beautification. It also includes common software sources (such as GitHub, Anaconda, PyPI) for acceleration and replacement, as well as some IDE configuration and activation tutorials.
 
@@ -62,7 +62,7 @@ Additionally, you can refer to an [environment setup guide][guide] inspired by [
 
 Server-side operation and maintenance require basic use of Linux (or other Unix-like systems) and fundamental concepts like processes, devices, networks, etc. Beginners can refer to the [Linux 101](https://101.lug.ustc.edu.cn/) online notes compiled by the Linux User Association of the University of Science and Technology of China. If you want to delve deeper into system operation and maintenance, you can refer to the [Aspects of System Administration](https://stevens.netmeister.org/615/) course.
 
-Additionally, if you need to learn a specific concept or tool, I recommend a great GitHub project, [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide), which covers a lot of foundational knowledge and tutorials in the operational field, such as Docker, Kubernetes, Linux, CI-CD, GitHub Actions, and more.
+Additionally, if you need to learn a specific concept or tool, I recommend a great GitHub project, [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide), which covers a lot of foundational knowledge and tutorials in the administration field, such as Docker, Kubernetes, Linux, CI-CD, GitHub Actions, and more.
 
 ## Course Map
 
@@ -74,11 +74,11 @@ Apart from courses labeled as *basic* or *introductory*, there is no explicit se
 
 #### Calculus and Linear Algebra
 
-As a freshman, mastering calculus and linear algebra is as important as learning to code. This point has been reiterated countless times by predecessors, but I feel compelled to emphasize it again: mastering calculus and linear algebra is really important! You might complain that these subjects are forgotten after exams, but I believe that indicates a lack of deep understanding of their essence. If you find the content taught in class to be obscure, consider referring to MIT’s [Calculus Course](./数学基础/MITmaths.md) and [18.06: Linear Algebra](./数学基础/MITLA.md) course notes. For me, they greatly deepened my understanding of the essence of calculus and linear algebra. Also, I highly recommend the YouTube math celebrity [**3Blue1Brown**](https://www.youtube.com/c/3blue1brown), whose channel features videos explaining the core of mathematics with vivid animations, offering both depth and breadth of high quality.
+As a freshman, mastering calculus and linear algebra is as important as learning to code. This point has been reiterated countless times by predecessors, but I feel compelled to emphasize it again: mastering calculus and linear algebra is really important! You might complain that these subjects are forgotten after exams, but I believe that indicates a lack of deep understanding of their essence. If you find the content taught in class to be obscure, consider referring to MIT’s [Calculus Course](./数学基础/MITmaths.md) and [18.06: Linear Algebra](./数学基础/MITLA.md) course notes. For me, they greatly deepened my understanding of the essence of calculus and linear algebra. Also, I highly recommend the maths YouTuber [**3Blue1Brown**](https://www.youtube.com/c/3blue1brown), whose channel features videos explaining the core of mathematics with vivid animations, offering both depth and breadth of high quality.
 
 #### Introduction to Information Theory
 
-For computer science students, gaining some foundational knowledge in information theory early on is beneficial. However, most information theory courses are targeted towards upperclassmen or even graduate students, making them quite inaccessible to beginners. MIT’s [6.050J: Information theory and Entropy](./数学基础/information.md) is tailored for freshmen, with almost no prerequisites, covering coding, compression, communication, information entropy, and more, making it very interesting.
+For computer science students, gaining some foundational knowledge in information theory early on is beneficial. However, most information theory courses are targeted towards senior or even graduate students, making them quite inaccessible to beginners. MIT’s [6.050J: Information theory and Entropy](./数学基础/information.md) is tailored for freshmen, with almost no prerequisites, covering coding, compression, communication, information entropy, and more, which is very interesting.
 
 ### Advanced Mathematics
 
@@ -115,7 +115,7 @@ Since differential equations often involve complex variable functions, you can r
 
 ### Advanced Mathematical Topics
 
-As a computer science student, I often hear arguments about the uselessness of mathematics. While I neither agree nor have the authority to oppose such views, if everything is forcibly categorized as useful or useless, it indeed becomes quite dull. Therefore, the following advanced mathematics courses, aimed at upperclassmen and even graduate students, are available for those interested.
+As a computer science student, I often hear arguments about the uselessness of mathematics. While I neither agree nor have the authority to oppose such views, if everything is forcibly categorized as useful or useless, it indeed becomes quite dull. Therefore, the following advanced mathematics courses, aimed at senior and even graduate students, are available for those interested.
 
 #### Convex Optimization
 
@@ -178,7 +178,7 @@ Signals and Systems is a course I find very worthwhile. Initially, I studied it 
 
 [MIT6.003]: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/lecture-videos/lecture-1-signals-and-systems/
 
-[UCB EE120: Signal and Systems](电子基础/signal.md) has very well-written notes on Fourier Transform and provides 6 interesting Python programming assignments to practically apply the theories and algorithms of signals and systems.
+[UCB EE120: Signal and Systems](电子基础/signal.md) has very well-written notes on Fourier Transform and provides many interesting Python programming assignments to practically apply the theories and algorithms of signals and systems.
 
 ### Data Structures and Algorithms
 
@@ -192,15 +192,15 @@ For those interested in more advanced algorithms and NP problems, consider UC Be
 
 #### Introductory Course
 
-There is a fundamental difference between “working” code and high-quality industrial code. Therefore, I highly recommend lower-level students to take [MIT 6.031: Software Construction](软件工程/6031.md). Based on Java, this course teaches how to write high-quality code that is **bug-resistant, clear, and easy to maintain and modify** with rich and detailed reading materials and well-designed programming exercises. From macro data structure design to minor details like how to write comments, following these details and experiences summarized by predecessors can greatly benefit your future programming career.
+There is a fundamental difference between “working” code and high-quality industrial code. Therefore, I highly recommend senior students to take [MIT 6.031: Software Construction](软件工程/6031.md). Based on Java, this course teaches how to write high-quality code that is **bug-resistant, clear, and easy to maintain and modify** with rich and detailed reading materials and well-designed programming exercises. From macro data structure design to minor details like how to write comments, following these details and experiences summarized by predecessors can greatly benefit your future programming career.
 
 
 
 #### Professional Course
 
-Of course, if you want to systematically take a software engineering course, I recommend UC Berkeley’s [UCB CS169: Software Engineering](软件工程/CS169.md). However, unlike most schools’ software engineering courses, including yours, this course does not involve the traditional **design and document** model that emphasizes various class diagrams, flowcharts, and document design. Instead, it adopts the **Agile Development** model, which has become popular in recent years, featuring small team rapid iterations and the **Software as a Service** model using cloud platforms.
+Of course, if you want to systematically take a software engineering course, I recommend UC Berkeley’s [UCB CS169: Software Engineering](软件工程/CS169.md). However, unlike most software engineering courses, this course does not involve the traditional **design and document** model that emphasizes various class diagrams, flowcharts, and document design. Instead, it adopts the **Agile Development** model, which has become popular in recent years, featuring small team rapid iterations and the **Software as a Service** model using cloud platforms.
 
-### Architecture
+### Computer Architecture
 
 #### Introductory Course
 
@@ -208,13 +208,13 @@ Since childhood, I've always heard that the world of computers is made of 0s and
 
 #### Professional Course
 
-Of course, if you want to delve into the complex details of modern computer architecture, you still need to take a university undergraduate-level course [UCB CS61C: Great Ideas in Computer Architecture](体系结构/CS61C.md). UC Berkeley, as the birthplace of the RISC-V architecture, is second to none in the field of architecture. Its course emphasizes practice, and you will hand-write assembly to construct neural networks in projects, build a CPU from scratch, and more, all of which will give you a deeper understanding of computer architecture, beyond the monotony of "fetch, decode, execute, memory access, write back."
+Of course, if you want to delve into the complex details of modern computer architecture, you still need to take a university-level course [UCB CS61C: Great Ideas in Computer Architecture](体系结构/CS61C.md). This course emphasizes practice, and you will hand-write assembly to construct neural networks in projects, build a CPU from scratch, and more, all of which will give you a deeper understanding of computer architecture, beyond the monotony of "fetch, decode, execute, memory access, write back."
 
-### Systems Introduction
+### Introduction to Computer Systems
 
 Computer systems are a vast and profound topic. Before delving into a specific area, having a macro conceptual understanding of each field and some general design principles will reinforce core and even philosophical concepts in your subsequent in-depth study, rather than being shackled by complex internal details and various tricks. In my opinion, the key to learning systems is to grasp these core concepts to design and implement your own systems.
 
-[MIT6.033: System Engineering](http://web.mit.edu/6.033/www/) is MIT's introductory course to systems, covering topics like operating systems, networks, distributed systems, and system security. In addition to knowledge transmission, this course also teaches some writing and expression skills, helping you learn how to design, introduce, and analyze your own systems. The accompanying textbook *Principles of Computer System Design: An Introduction* is also very well written and recommended for reading.
+[MIT6.033: System Engineering](http://web.mit.edu/6.033/www/) is MIT's introductory course to systems, covering topics like operating systems, networks, distributed systems, and system security. In addition to the theory, this course also teaches some writing and expression skills, helping you learn how to design, introduce, and analyze your own systems. The accompanying textbook *Principles of Computer System Design: An Introduction* is also very well written and recommended for reading.
 
 [CMU 15-213: Introduction to Computer System](体系结构/CSAPP.md) is CMU’s introductory systems course, covering architecture, operating systems, linking, parallelism, networks, etc., with both breadth and depth. The accompanying textbook *Computer Systems: A Programmer's Perspective* is also of very high quality and strongly recommended for reading.
 
@@ -222,15 +222,15 @@ Computer systems are a vast and profound topic. Before delving into a specific a
 
 > There’s nothing like writing your own kernel to deepen your understanding of operating systems.
 
-Operating systems virtualize a set of elegant abstractions from various complex underlying hardware, providing rich functional support for all application software. Understanding the design principles and internal mechanisms of operating systems is greatly beneficial for a programmer who is not satisfied with just being a coder. Out of love for operating systems, I have taken many operating system courses at home and abroad, each with its own focus and merits. You can choose based on your interests.
+Operating systems provide a set of elegant abstractions to virtualize various complex underlying hardware, providing rich functional support for all application software. Understanding the design principles and internal mechanisms of operating systems is greatly beneficial for a programmer who is not satisfied with just being a coder. Out of love for operating systems, I have taken many operating system courses in different colleges, each with its own focus and merits. You can choose based on your interests.
 
-[MIT 6.S081: Operating System Engineering](操作系统/MIT6.S081.md) from MIT's famous PDOS lab features 11 projects that add various functional modules to the elegantly implemented Unix-like operating system xv6. This course also made me deeply realize that doing systems is not about reading PPTs; it's about accumulating tens of thousands of lines of code.
+[MIT 6.S081: Operating System Engineering](操作系统/MIT6.S081.md), offered by the famous PDOS lab at MIT, features 11 projects that modify an elegantly implemented Unix-like operating system xv6. This course made me realize that systems is not about reading PPTs; it's about writing tens of thousands of lines of code.
 
-[UCB CS162: Operating System](操作系统/CS162.md), UC Berkeley’s operating system course, uses the same Project as Stanford — a teaching operating system, Pintos. As the teaching assistant for Peking University’s 2022 and 2023 Spring Semester Operating Systems Lab, I introduced and improved this Project. The course resources will also be fully open-sourced, with details on [the course website](https://pku-os.github.io).
+[UCB CS162: Operating System](操作系统/CS162.md), UC Berkeley’s operating system course, uses the same Project as Stanford — an educational operating system, Pintos. As the teaching assistant for Peking University’s 2022 and 2023 Spring Semester Operating Systems Course, I introduced and improved this Project. The course resources are fully open-sourced, with details on [the course website](https://pku-os.github.io).
 
-[NJU: Operating System Design and Implementation](操作系统/NJUOS.md), offered by Professor Jiang Yanyan at Nanjing University, provides an in-depth and accessible explanation of various operating system concepts, combining a unique system perspective with rich code examples. All course content is in Chinese, making it very convenient for students.
+[NJU: Operating System Design and Implementation](操作系统/NJUOS.md), offered by Professor Yanyan Jiang at Nanjing University, provides an in-depth and accessible explanation of various operating system concepts, combining a unique system perspective with rich code examples. All course content is in Chinese, making it very convenient for students.
 
-[HIT OS: Operating System](操作系统/HITOS.md), taught by Professor Li Zhijun at Harbin Institute of Technology, is a Chinese-language course on operating systems. Based on the Linux 0.11 source code, the course places great emphasis on code practice, explaining the intricacies of operating systems from the student's perspective.
+[HIT OS: Operating System](操作系统/HITOS.md), taught by Professor Zhijun Li at Harbin Institute of Technology, is a Chinese course on operating systems. Based on the Linux 0.11 source code, the course places great emphasis on code practice, explaining the intricacies of operating systems from the student's perspective.
 
 ### Parallel and Distributed Systems
 
@@ -278,11 +278,9 @@ If you're just looking to understand computer networks theoretically, I recommen
 
 > There’s nothing like building your own relational database to deepen your understanding of database systems.
 
-CMU's famous database course [CMU 15-445: Introduction to Database System](数据库系统/15445.md) guides you through 4 projects to add various functionalities to the educational relational database [bustub](https://github.com/cmu-db/bustub). The experimental evaluation framework is also open-source, making it very suitable for self-study. The course experiments also use many new features of C++11, offering a great opportunity to strengthen C++ coding skills.
+CMU's famous database course [CMU 15-445: Introduction to Database System](数据库系统/15445.md) guides you through 4 projects to add various functionalities to the educational relational database [bustub](https://github.com/cmu-db/bustub). The experimental evaluation framework is also open-source, making it very suitable for self-learning. The course experiments also use many new features of C++11, offering a great opportunity to strengthen C++ coding skills.
 
-Berkeley, as the birthplace of the famous open-source database PostgreSQL, is no less competitive. [UCB CS186: Introduction to Database System](数据库系统/CS186.md) has you implement a relational database in
-
- Java that supports SQL concurrent queries, B+ tree indexing, and fault recovery.
+Berkeley, as the birthplace of the famous open-source database PostgreSQL, has its own course [UCB CS186: Introduction to Database System](数据库系统/CS186.md) where you will implement a relational database in Java that supports SQL concurrent queries, B+ tree indexing, and fault recovery.
 
 ### Compiler Theory
 
@@ -292,7 +290,7 @@ Berkeley, as the birthplace of the famous open-source database PostgreSQL, is no
 
 ### Web Development
 
-Front-end and back-end development are often overlooked in computer science curricula, but mastering these skills has many benefits, such as building your personal website or creating an impressive presentation website for your course projects.
+Front-end development is often overlooked in computer science curricula, but mastering these skills has many benefits, such as building your personal website or creating an impressive presentation website for your course projects.
 
 #### Two-Week Crash Course
 
@@ -315,17 +313,17 @@ Data science, machine learning, and deep learning are closely related, with a fo
 
 ### Artificial Intelligence
 
-Artificial intelligence has been one of the hottest fields in computer science over the past decade. If you're not content with just hearing about AI advancements in the media and want to delve into the subject, I highly recommend Harvard's renowned CS50 series AI course [Harvard CS50: Introduction to AI with Python](人工智能/CS50.md). The course is concise and covers several major branches of traditional AI, supplemented with rich and interesting Python programming exercises to reinforce your understanding of AI algorithms. However, the content is somewhat simplified for online learners and doesn't delve into deep mathematical theories. For a more systematic and in-depth study, consider an undergraduate-level course like Berkeley's [UCB CS188: Introduction to Artificial Intelligence](人工智能/CS188.md). This course's projects replicate the classic game "Pac-Man," allowing you to use AI algorithms to play the game, which is very fun.
+Artificial intelligence has been one of the hottest fields in computer science over the past decade. If you're not content with just hearing about AI advancements in the media and want to delve into the subject, I highly recommend Harvard's renowned CS50 series AI course [Harvard CS50: Introduction to AI with Python](人工智能/CS50.md). The course is concise and covers several major branches of traditional AI, supplemented with rich and interesting Python programming exercises to reinforce your understanding of AI algorithms. However, the content is somewhat simplified for online learners and doesn't delve into deep mathematical theories. For a more systematic and in-depth study, consider an undergraduate-level course like Berkeley's [UCB CS188: Introduction to Artificial Intelligence](人工智能/CS188.md). This course's projects feature the classic game "Pac-Man," allowing you to use AI algorithms to play the game, which is very fun.
 
 ### Machine Learning
 
-The most significant recent development in the field of machine learning is the emergence of deep learning, a branch based on neural networks. However, many algorithms based on statistical learning are still widely used in data analysis. If you're new to machine learning and don't want to get bogged down in complex mathematical proofs, start with Andrew Ng's (Wu Enda) [Coursera: Machine Learning](机器学习/ML.md). This course is well-known in the field of machine learning, and Wu Enda, with his profound theoretical knowledge and excellent presentation skills, makes many complex algorithms accessible and practical. The accompanying assignments are also of high quality, helping you get started quickly.
+The most significant recent progress in the field of machine learning is the emergence of deep learning, a branch based on deep neural networks. However, many algorithms based on statistical learning are still widely used in data analysis. If you're new to machine learning and don't want to get bogged down in complex mathematical proofs, start with Andrew Ng's (Enda Wu) [Coursera: Machine Learning](机器学习/ML.md). This course is well-known in the field of machine learning, and Enda Wu, with his profound theoretical knowledge and excellent presentation skills, makes many complex algorithms accessible and practical. The accompanying assignments are also of high quality, helping you get started quickly.
 
 However, completing this course will only give you a general understanding of the field of machine learning. To truly understand the mathematical principles behind these "magical" algorithms or to engage in related research, you need a more "mathematical" course, such as [Stanford CS229: Machine Learning](机器学习/CS229.md) or [UCB CS189: Introduction to Machine Learning](机器学习/CS189.md).
 
 ### Deep Learning
 
-The popularity of AlphaGo a few years ago brought deep learning to the public eye, leading many universities to establish related majors. Many other areas of computer science also use deep learning technology for research, so regardless of your field, you will likely encounter some needs related to neural networks and deep learning. For a quick introduction, I again recommend Andrew Ng's (Wu Enda) [Coursera: Deep Learning](深度学习/CS230.md), a top-rated course on Coursera. Additionally, if you find English-language courses challenging, consider Professor Li Hongyi's course [National Taiwan University: Machine Learning](深度学习/LHY.md). Although titled "Machine Learning," this course covers almost all areas of deep learning and is very comprehensive, making it suitable for getting a broad understanding of the field. The professor is also very humorous, with frequent witty remarks in class.
+The popularity of AlphaGo a few years ago brought deep learning to the public eye, leading many universities to establish related majors. Many other areas of computer science also use deep learning technology for research, so regardless of your field, you will likely encounter some needs related to neural networks and deep learning. For a quick introduction, I again recommend Andrew Ng's (Enda Wu) [Coursera: Deep Learning](深度学习/CS230.md), a top-rated course on Coursera. Additionally, if you find English-language courses challenging, consider Professor Hongyi Li's course [National Taiwan University: Machine Learning](深度学习/LHY.md). Although titled "Machine Learning," this course covers almost all areas of deep learning and is very comprehensive, making it suitable for getting a broad overview of the field. The professor is also very humorous, with frequent witty remarks in class.
 
 Due to the rapid development of deep learning, there are now many research branches. For further in-depth study, consider the following representative courses:
 
@@ -350,7 +348,7 @@ Due to the rapid development of deep learning, there are now many research branc
 
 > Better to teach fishing than to give fish.
 
-The course planning above inevitably carries strong personal preferences and may not suit everyone. It is more intended to serve as a starting point for exploration. If you want to select your own areas of interest for study, you can refer to the following resources:
+The course map above inevitably carries strong personal preferences and may not suit everyone. It is more intended to serve as a starting point for exploration. If you want to select your own areas of interest for study, you can refer to the following resources:
 
 - [MIT OpenCourseWare](https://ocw.mit.edu/): MIT's open-sharing project for course resources, featuring thousands of courses from various disciplines, including computer science courses numbered 6.xxx.
 - [MIT CS Course List](http://student.mit.edu/catalog/m6a.html): List of CS courses at MIT.
