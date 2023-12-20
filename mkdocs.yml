@@ -21,18 +21,11 @@ theme:
 
   features:
     - header.autohide
-    # - navigation.instant
-    # - navigation.expand
-    # - navigation.sections
     - navigation.tracking
-    # - navigation.tabs
-    # - navigation.tabs.sticky
     - navigation.top
-    # - navigation.indexes
     - search.highlight
     - search.share
     - search.suggest
-    # - toc.integrate
     - content.code.annotate
 
   palette:
@@ -52,7 +45,7 @@ theme:
         name: Switch to light mode
 
   font:
-    text: Roboto
+    text: Roboto Slab
     code: Roboto Mono
   icon:
     repo: fontawesome/brands/github
@@ -66,47 +59,55 @@ markdown_extensions:
 
 plugins:
   - i18n:
-      default_language: zh
-      material_alternate: true
       languages:
-        zh:
+        - locale: zh
+          default: true
           name: 简体中文
           build: true
-        en:
+        - locale: en
           name: English
           build: true
-          site_name: CSDIY.wiki
-      nav_translations:
-        en:
-          前言: Foreword
-          如何使用这本书: How To Use The Book
-          一个仅供参考的CS学习规划: Guideline
-          必学工具: Productivity Toolkit
-          好书推荐: Book Recommendation
-          数学基础: Fundamental Mathematics
-          数学进阶: Advanced Mathematics
-          编程入门: Fundamental Programming
-          电子基础: Fundamental Electronics
-          数据结构与算法: Data Structures and Algorithms
-          软件工程: Software Engineering
-          体系结构: Computer Architecture
-          操作系统: Operating Systems
-          并行与分布式系统: Distributed Systems
-          计算机系统安全: Computer Security
-          计算机网络: Computer Networking
-          数据库系统: Database Systems
-          编译原理: Compilers
-          编程语言设计与分析: Programming Language Design and Analysis
-          程序语言设计: Programming Language
-          计算机图形学: Computer Graphics
-          Web开发: Web Development
-          数据科学: Data Science
-          人工智能: Artificial Intelligence
-          机器学习: Machine Learning
-          机器学习系统: Machine Learning Systems
-          深度学习: Deep Learning
-          机器学习进阶: Advanced Machine Learning
-          后记: Postscript
+          site_name: csdiy.wiki
+          nav_translations:
+            前言: Foreword
+            如何使用这本书: How To Use The Book
+            一个仅供参考的CS学习规划: Guideline
+            必学工具: Productivity Toolkit
+            翻墙: GFW
+            日常学习工作流: Notes Workflow
+            实用工具箱: Useful Tools
+            毕业论文: Thesis Writing
+            信息检索: Information Retrieval
+            好书推荐: Book Recommendation
+            数学基础: Fundamental Mathematics
+            数学进阶: Advanced Mathematics
+            编程入门: Fundamental Programming
+            电子基础: Fundamental Electronics
+            数据结构与算法: Data Structures and Algorithms
+            软件工程: Software Engineering
+            体系结构: Computer Architecture
+            操作系统: Operating Systems
+            并行与分布式系统: Distributed Systems
+            计算机系统安全: Computer Security
+            计算机网络: Computer Networking
+            数据库系统: Database Systems
+            编译原理: Compilers
+            编程语言设计与分析: Programming Language Design and Analysis
+            NJU 软件分析: NJU Software Analysis
+            PKU 软件分析: PKU Software Analysis
+            程序语言设计: Programming Language
+            计算机图形学: Computer Graphics
+            Web开发: Web Development
+            数据科学: Data Science
+            人工智能: Artificial Intelligence
+            机器学习: Machine Learning
+            机器学习系统: Machine Learning Systems
+            智能计算系统: Intelligent Computing Systems
+            深度学习: Deep Learning
+            "国立台湾大学: 李宏毅机器学习": NTU Machine Learning
+            机器学习进阶: Advanced Machine Learning
+            进阶路线图: Roadmap
+            后记: Postscript
   - search:
       lang:
         - zh
@@ -244,7 +245,7 @@ nav:
   - 深度学习:
       - "UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision": "深度学习/EECS498-007.md"
       - "Coursera: Deep Learning": "深度学习/CS230.md"
-      - "国立台湾大学：李宏毅机器学习": "深度学习/LHY.md"
+      - "国立台湾大学: 李宏毅机器学习": "深度学习/LHY.md"
       - "Stanford CS231n: CNN for Visual Recognition": "深度学习/CS231.md"
       - "Stanford CS224n: Natural Language Processing": "深度学习/CS224n.md"
       - "Stanford CS224w: Machine Learning with Graphs": "深度学习/CS224w.md"

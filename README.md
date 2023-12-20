@@ -22,9 +22,7 @@
 
 我的目标是让一个刚刚接触计算机的小白，可以完全凭借这些开源社区的优质资源，少走弯路，在 2-3 年内成长为一个有扎实的数学功底和代码能力，经历过数十个千行代码量的 Project 的洗礼，掌握至少 C/C++/Java/JS/Python/Go/Rust 等主流语言，对算法、电路、体系、网络、操统、编译、人工智能、机器学习、计算机视觉、自然语言处理、强化学习、密码学、信息论、博弈论、数值分析、统计学、分布式、数据库、图形学、Web 开发、云服务、超算等等方面均有所涉猎的全能程序员。此后，无论是选择科研还是就业，我相信你都会有相当的竞争力。
 
-你可以[在线免费阅读这本书](https://csdiy.wiki)。
-
-英文版请移步[这里](https://github.com/PKUFlyingPig/Self-learning-Computer-Science)。
+你可以[在线免费阅读这本书](https://csdiy.wiki)。英文版请移步[这里](https://csdiy.wiki/en/)。
 
 ## 如何成为贡献者
 
@@ -32,7 +30,7 @@
 
 对于中英混合排版的要点规范，可以参考[这个仓库](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)，我们将会对您的 Pull Request 做相应的校对，具体原因参见这个 [issue](https://github.com/PKUFlyingPig/cs-self-learning/issues/114)。
 
-本书的英文版也正在翻译中，如果你想参与到翻译的队伍里，可以参考这个 [issue](https://github.com/PKUFlyingPig/cs-self-learning/issues/222)。
+本书支持英文版，因此贡献的内容需要提供对应的英文翻译，具体流程可以参考这个 [issue](https://github.com/PKUFlyingPig/cs-self-learning/issues/222)。
 
 同时由于个人水平有限，书中难免有笔误甚至概念错误之处，也请各位不吝赐教，在 issue 中提出来。
 

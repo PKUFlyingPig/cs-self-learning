@@ -1,5 +1,5 @@
-mkdocs-material==7.3.6
-mkdocs-minify-plugin == 0.4.0
-mkdocs-git-revision-date-localized-plugin == 0.9.3
-jinja2==3.0.0
-mkdocs-static-i18n==0.46
+mkdocs-material==9.5.2
+mkdocs-minify-plugin==0.7.1
+mkdocs-git-revision-date-localized-plugin==1.2.1
+jinja2==3.1.2
+mkdocs-static-i18n==1.2.0

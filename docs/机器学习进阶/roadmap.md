@@ -2,18 +2,16 @@
 
 此路线图适用于已经学过了基础机器学习 (ML, NLP, CV, RL) 的同学 (高年级本科生或低年级研究生)，已经发表过至少一篇顶会论文 (NeurIPS, ICML, ICLR, ACL, EMNLP, NAACL, CVPR, ICCV) 想要走机器学习科研路线的选手。
 
-此路线的目标是为读懂与发表机器学习顶会论文打下理论基础，特别是 Probabilistic Methods 这个 track 下的文章
+此路线的目标是为读懂与发表机器学习顶会论文打下理论基础，特别是 Probabilistic Methods 这个 track 下的文章。
 
 机器学习进阶可能存在多种不同的学习路线，此路线只能代表作者 [Yao Fu](https://franxyao.github.io/) 所理解的最佳路径，侧重于贝叶斯学派下的概率建模方法，也会涉及到各项相关学科的交叉知识。
 
 ## 必读教材
 
 - PRML: Pattern Recognition and Machine Learning. Christopher Bishop
-  - 经典贝叶斯学派教材
 - AoS: All of Statistics. Larry Wasserman
-  - 经典频率学派教材
 
-所以这两本书刚好相辅相成
+这两本书分别是经典贝叶斯学派和经典频率学派的教材，刚好相辅相成。
 
 ## 字典
 
