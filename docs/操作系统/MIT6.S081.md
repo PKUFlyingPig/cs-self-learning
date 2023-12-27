@@ -53,3 +53,4 @@
 - [解析Ta](https://blog.csdn.net/u013577996/article/details/108679997)
 - [PKUFlyingPig](https://github.com/PKUFlyingPig/MIT6.S081-2020fall)
 - [星遥见](https://www.cnblogs.com/weijunji/tag/XV6/)
+- [tzyt 的博客](https://ttzytt.com/tags/xv6/)
