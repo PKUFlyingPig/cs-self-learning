@@ -1,4 +1,4 @@
-# USTC Computer Graphic
+# USTC Computer Graphics
 
 ## Descriptions
 
