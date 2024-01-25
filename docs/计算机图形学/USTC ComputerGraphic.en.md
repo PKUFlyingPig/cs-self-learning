@@ -1,12 +1,12 @@
-# Course Code: Course Name
+# USTC Computer Graphic
 
 ## Descriptions
 
-- Offered by:USTC
-- Prerequisites:Calculus, Linear Algebra, C/C++ Programming, Data Structures
-- Programming Languages:C/C++
+- Offered by: USTC
+- Prerequisites: Calculus, Linear Algebra, C/C++ Programming, Data Structures
+- Programming Languages: C/C++
 - Difficulty: 🌟🌟🌟
-- Class Hour:100 hours
+- Class Hour: 100 hours
 
 Mr. Liu Ligang from the School of Mathematics at USTC uploaded the course during the 2020 epidemic, and I personally feel that it is more comprehensive compared to Games101's focus on rendering, with content such as discrete geometry processing that the latter does not have, and it seems to be more mathematical, so it can be complemented with Games101, and the course materials are fully open to the public.
 
