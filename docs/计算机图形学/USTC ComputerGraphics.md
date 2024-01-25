@@ -1,4 +1,4 @@
-# 课程名称 USTC Computer Graphic
+# 课程名称 USTC Computer Graphics
 
 ## 课程简介
 
