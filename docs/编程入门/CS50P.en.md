@@ -8,7 +8,7 @@
 - Difficulty: 🌟🌟
 - Class Hour: 30-40 hours
 
-One of the CS50 families, taught by David J. Malan. You'll learn how to program in Python and "Pythonic" ways to deal with everthing. The course also introduces libraries, code testing, and handling exceptions.
+One of the CS50 families, taught by David J. Malan. You'll learn how to program in Python and "Pythonic" ways to deal with everything. The course also introduces libraries, code testing, and handling exceptions.
 
 No programming experiences are assumed. So it may be appropriate for anyone who wants to learn Python.
 
