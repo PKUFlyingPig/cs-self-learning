@@ -31,6 +31,8 @@
 - [xv6 操作系统的深入讲解](https://space.bilibili.com/1040264970/)
 - [xv6 中文文档](https://th0ar.gitbooks.io/xv6-chinese/content/index.html)
 - [xv6 关键源码逐行解读 + 整体架构分析](https://www.youtube.com/playlist?list=PLbtzT1TYeoMhTPzyTZboW_j7TPAnjv9XB)
+- [课程教材翻译 xv6-riscv-book-zh-cn](https://blog.betteryuan.top/archives/xv6-riscv-book-zh-cn)
+- [课程教材翻译源码 xv6-riscv-book-zh-cn](https://github.com/HelloYJohn/xv6-riscv-book-zh-cn.git)
 
 ## 资源汇总
 

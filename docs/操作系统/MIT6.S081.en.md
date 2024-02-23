@@ -31,6 +31,8 @@ In the second half of the course, the instructors will discuss a couple of class
 - [Detailed Explanation of xv6](https://space.bilibili.com/1040264970/)
 - [xv6 Documentation(Chinese)](https://th0ar.gitbooks.io/xv6-chinese/content/index.html)
 - [line-by-line walk-through of key xv6 source codes](https://www.youtube.com/playlist?list=PLbtzT1TYeoMhTPzyTZboW_j7TPAnjv9XB)
+- [Text Book Translation xv6-riscv-book-zh-cn](https://blog.betteryuan.top/archives/xv6-riscv-book-zh-cn)
+- [Text Book Translation SRC xv6-riscv-book-zh-cn](https://github.com/HelloYJohn/xv6-riscv-book-zh-cn.git)
 
 ## Complementary Resources
 
