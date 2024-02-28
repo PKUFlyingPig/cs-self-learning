@@ -46,6 +46,12 @@
 - [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN): Visualize learning git.
 - [UnicodeCharacter](https://unicode-table.com/en/): Unicode character set website.
 
+## Language & Translator
+
+- [DeepL](https://www.deepl.com/translator): Good quality translation site with document translation support and Chrome plugin.
+- [immersivetranslate](https://immersivetranslate.com/)： A web translation plugin characterized by bilingual comparison, supporting mobile use.
+- [Grammarly](https://www.grammarly.com/): A magical tool for self-editing and correcting grammar.
+
 ## Learning Websites
 
 - [HFS](https://hepsoftwarefoundation.org/training/curriculum.html): Various software tutorials.
