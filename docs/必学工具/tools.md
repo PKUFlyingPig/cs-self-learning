@@ -46,6 +46,12 @@
 - [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN): 可视化学习 git。
 - [UnicodeCharacter](https://unicode-table.com/en/): Unicode 字符集网站。
 
+## 语言与翻译
+
+- [DeepL](https://www.deepl.com/translator): 质量不错的翻译网站，支持文档翻译和 Chrome 插件。
+- [沉浸式翻译](https://immersivetranslate.com/)：特点是双语对照的网页翻译插件，支持手机使用。
+- [Grammarly](https://www.grammarly.com/): 自己修改语法订正的神器
+
 ## 学习网站
 
 - [HFS](https://hepsoftwarefoundation.org/training/curriculum.html): 各类软件教程。
