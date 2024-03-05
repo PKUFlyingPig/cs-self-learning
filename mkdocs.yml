@@ -188,6 +188,7 @@ nav:
       - "CMU 15-213: CSAPP": "体系结构/CSAPP.md"
       - "ETHz: Digital Design and Computer Architecture": "体系结构/DDCA.md"
       - "ETHz: Computer Architecture": "体系结构/CA.md"
+      - "UCAS: 一生一芯": "体系结构/YSYX.md"
   - 操作系统:
       - "MIT 6.S081: Operating System Engineering": "操作系统/MIT6.S081.md"
       - "UCB CS162: Operating System": "操作系统/CS162.md"
