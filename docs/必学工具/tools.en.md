@@ -45,6 +45,8 @@
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html): Visualization website for data structures and algorithms.
 - [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN): Visualize learning git.
 - [UnicodeCharacter](https://unicode-table.com/en/): Unicode character set website.
+- [cyrilex](https://extendsclass.com/regex-tester.html): A site for testing and visualizing regular expressions, supporting various programming language standards.
+- [mockium](https://softwium.com/mockium/): Platform for generating test data.
 
 ## Learning Websites
 
