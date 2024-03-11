@@ -48,6 +48,12 @@
 - [cyrilex](https://extendsclass.com/regex-tester.html): A site for testing and visualizing regular expressions, supporting various programming language standards.
 - [mockium](https://softwium.com/mockium/): Platform for generating test data.
 
+## Language & Translator
+
+- [DeepL](https://www.deepl.com/translator): Good quality translation site with document translation support and Chrome plugin.
+- [immersivetranslate](https://immersivetranslate.com/)： A web translation plugin characterized by bilingual comparison, supporting mobile use.
+- [Grammarly](https://www.grammarly.com/): A magical tool for self-editing and correcting grammar.
+
 ## Learning Websites
 
 - [HFS](https://hepsoftwarefoundation.org/training/curriculum.html): Various software tutorials.

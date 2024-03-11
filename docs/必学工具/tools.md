@@ -48,6 +48,12 @@
 - [cyrilex](https://extendsclass.com/regex-tester.html): 一个用于测试和可视化正则表达式的网站，支持各种编程语言标准。
 - [mockium](https://softwium.com/mockium/): 生成测试数据的平台。
 
+## 语言与翻译
+
+- [DeepL](https://www.deepl.com/translator): 质量不错的翻译网站，支持文档翻译和 Chrome 插件。
+- [沉浸式翻译](https://immersivetranslate.com/)：特点是双语对照的网页翻译插件，支持手机使用。
+- [Grammarly](https://www.grammarly.com/): 自己修改语法订正的神器
+
 ## 学习网站
 
 - [HFS](https://hepsoftwarefoundation.org/training/curriculum.html): 各类软件教程。
