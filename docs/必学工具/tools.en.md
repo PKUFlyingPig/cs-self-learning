@@ -100,3 +100,4 @@
 - [keybr](https://www.keybr.com/): A website for learning touch typing.
 - [Awesome C++](https://cpp.libhunt.com/): A curated list of awesome C/C++ frameworks, libraries, resources.
 - [HelloGitHub](https://hellogithub.com/): Shares interesting and beginner-friendly open-source projects on GitHub.
+- [Synergy](https://github.com/DEAKSoftware/Synergy-Binaries): A set of keyboard and mouse controls for multiple computers
