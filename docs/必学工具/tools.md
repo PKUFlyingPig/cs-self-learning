@@ -98,3 +98,4 @@
 - [keybr](https://www.keybr.com/): 学习盲打的网站。
 - [Awesome C++](https://cpp.libhunt.com/): 很棒的 C/C++ 框架、库、资源精选列表。
 - [HelloGitHub](https://hellogithub.com/): 分享 GitHub 上有趣、入门级的开源项目。
+- [Synergy](https://github.com/DEAKSoftware/Synergy-Binaries): 一套键鼠能控制多台电脑。
