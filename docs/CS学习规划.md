@@ -141,28 +141,28 @@ IDE (Integrated Development Environment)：集成开发环境，说白了就是�
 
 > Languages are tools, you choose the right tool to do the right thing. Since there's no universally perfect tool, there's no universally perfect language.
 
-#### Shell
+#### General
 
 - [MIT-Missing-Semester](编程入门/MIT-Missing-Semester.md)
+- [Harvard CS50: This is CS50x](编程入门/C/CS50.md)
 
 #### Python
 
-- [CS50P: CS50's Introduction to Programming with Python](编程入门/CS50P.md)
-- [Harvard CS50: This is CS50x](编程入门/CS50.md)
-- [UCB CS61A: Structure and Interpretation of Computer Programs](编程入门/CS61A.md)
+- [CS50P: CS50's Introduction to Programming with Python](编程入门/Python/CS50P.md)
+- [UCB CS61A: Structure and Interpretation of Computer Programs](编程入门/Python/CS61A.md)
 
 #### C++
 
-- [Stanford CS106B/X: Programming Abstractions](编程入门/CS106B_CS106X.md)
-- [Stanford CS106L: Standard C++ Programming](编程入门/CS106L.md)
+- [Stanford CS106B/X: Programming Abstractions](编程入门/cpp/CS106B_CS106X.md)
+- [Stanford CS106L: Standard C++ Programming](编程入门/cpp/CS106L.md)
 
 #### Rust
 
-- [Stanford CS110L: Safety in Systems Programming](编程入门/CS110L.md)
+- [Stanford CS110L: Safety in Systems Programming](编程入门/Rust/CS110L.md)
 
 #### OCaml
 
-- [Cornell CS3110 textbook: Functional Programming in OCaml](https://cs3110.github.io/textbook/cover.html)
+- [Cornell CS3110: OCaml Programming Correct + Efficient + Beautiful](编程入门/Functional/CS3110.md)
 
 ### 电子基础
 
