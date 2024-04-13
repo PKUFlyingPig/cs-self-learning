@@ -17,6 +17,6 @@ To compensate for the inability to use remote servers and to familiarize with th
 ## Course Resources
 
 - Course Website: [Official Site](https://decal.ocf.berkeley.edu/)
-- Course Videos: Available on the official course website, [Bilibili](https://www.bilibili.com/video/BV1rs4y1T7zJ/?share_source=copy_web) has an incomplete transfer that only includes the first part.
+- Course Videos: Available on the official course website, [Bilibili](https://www.bilibili.com/video/BV1rs4y1T7zJ/?share_source=copy_web) has an incomplete translation that only includes the first part.
 - Course Textbook: No specified textbook, but each week's labs contain enough reading material for in-depth study.
 - Course Assignments: Available on the official course website.
