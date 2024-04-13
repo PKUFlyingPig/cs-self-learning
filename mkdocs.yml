@@ -198,6 +198,7 @@ nav:
       - "MIT 6.824: Distributed System": "并行与分布式系统/MIT6.824.md"
   - 计算机系统安全:
       - "UCB CS161: Computer Security": "系统安全/CS161.md"
+      - "MIT 6.1600: Foundations of Computer Security": "系统安全/MIT6.1600.md"
       - "MIT 6.858: Computer System Security": "系统安全/MIT6.858.md"
       - "ASU CSE365: Introduction to Cybersecurity": "系统安全/CSE365.md"
       - "ASU CSE466: Computer Systems Security": "系统安全/CSE466.md"
