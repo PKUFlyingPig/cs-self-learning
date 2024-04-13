@@ -17,7 +17,7 @@
 ## 课程资源
 
 - 课程网站：[官网](https://decal.ocf.berkeley.edu/)
-- 课程视频：见课程官网，[B站](https://space.bilibili.com/483435468/video) __
+- 课程视频：原版视频见课程官网，[B站](https://space.bilibili.com/483435468/video)也有搬运。
 - 课程教材：无指定教材，但每一周的 labs 之中都有足够的阅读材料供你深入细节。
 - 课程作业：见课程官网
 
