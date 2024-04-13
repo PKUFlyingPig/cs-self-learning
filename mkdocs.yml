@@ -187,6 +187,7 @@ nav:
   - 软件工程:
       - "MIT 6.031: Software Construction": "软件工程/6031.md"
       - "UCB CS169: software engineering": "软件工程/CS169.md"
+      - "CMU 17-803: Empirical Methods": "软件工程/17803.md"
   - 体系结构:
       - "Coursera: Nand2Tetris": "体系结构/N2T.md"
       - "UCB CS61C: Great Ideas in Computer Architecture": "体系结构/CS61C.md"
