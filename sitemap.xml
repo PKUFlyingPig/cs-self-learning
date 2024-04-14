@@ -785,6 +785,13 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://csdiy.wiki/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/topdown_ustc/"/>
     </url>
     <url>
+        <loc>https://csdiy.wiki/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/17803/</loc>
+        <lastmod>2024-04-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://csdiy.wiki/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/17803/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://csdiy.wiki/en/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/17803/"/>
+    </url>
+    <url>
         <loc>https://csdiy.wiki/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/6031/</loc>
         <lastmod>2024-04-14</lastmod>
         <changefreq>daily</changefreq>
@@ -1593,6 +1600,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://csdiy.wiki/en/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/topdown_ustc/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://csdiy.wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/topdown_ustc/"/>
+    </url>
+    <url>
+        <loc>https://csdiy.wiki/en/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/17803/</loc>
+        <lastmod>2024-04-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://csdiy.wiki/en/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/17803/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://csdiy.wiki/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/17803/"/>
     </url>
     <url>
         <loc>https://csdiy.wiki/en/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/6031/</loc>
