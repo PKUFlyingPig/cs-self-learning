@@ -12,6 +12,6 @@ This is MIT's introductory information theory course for freshmen, Professor Pen
 
 ## Course Resources
 
-- Course Website: <https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008/index.htm>
-- Textbook: <https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008/syllabus/MIT6_050JS08_textbook.pdf>
+- Course Website: [spring2008](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008/index.htm)
+- Textbook: [Information and Entropy](https://ocw.mit.edu/courses/6-050j-information-and-entropy-spring-2008/resources/mit6_050js08_textbook/)
 - Assignments: see the course website for details, including written assignments and Matlab programming assignments.

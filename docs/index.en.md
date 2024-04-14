@@ -10,10 +10,11 @@ It is also a gift to the young students at Peking University. It would be a grea
 
 The book is currently organized to include the following sections (if you have other good suggestions, or would like to join the ranks of contributors, please feel free to email [zhongyinmin@pku.edu.cn](mailto:zhongyinmin@pku.edu.cn) or ask questions in the issue).
 
+- User guide for this book: Given the numerous resources covered in this book, I have developed corresponding usage guides based on different people's free time and learning objectives.
+- A reference CS learning plan: This is a comprehensive and systematic CS self-learning plan that I have formulated based on my own self-study experience. 
 - Productivity Toolkit: IDE, VPN, StackOverflow, Git, Github, Vim, Latex, GNU Make and so on.
-- Environment configuration: PC/Server development environment setup, DevOps tutorials and so on.
 - Book recommendations: Those who have read the CSAPP must have realized the importance of good books. I will list links to books and resources in different areas of Computer Science that I find rewarding to read.
-- **List of high quality CS courses**: I will summarize all the high quality foreign CS courses I have taken into different categories and give relevant self-learning advice. Most of them will have a separate repository containing relevant resources as well as my homework/project implementations.
+- **List of high quality CS courses**: I will summarize all the high quality foreign CS courses I have taken and the community contributed into different categories and give relevant self-learning advice. Most of them will have a separate repository containing relevant resources as well as the homework/project implementations.
 
 ## **The place where dreams start —— CS61A**
 
