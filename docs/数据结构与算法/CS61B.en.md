@@ -20,7 +20,7 @@ In addition, there are 3 projects that give you the opportunity to be exposed to
 ## Resources
 ## Course Resources
 
-- Course Website: <https://sp18.datastructur.es/>
+- Course Website: [spring2024](https://sp24.datastructur.es/), [fall2023](https://fa23.datastructur.es/), [spring2023](https://sp23.datastructur.es/), [spring2018](https://sp18.datastructur.es/)
 - Recordings: refer to the course website
 - Textbook: None
 - Assignments: Slightly different every year. In the spring semester of 2018, there are 14 Labs, 10 Homework and 3 Projects. Please refer to the course website for specific requirements.

@@ -16,7 +16,9 @@ In addition to the course materials, the famous Youtuber **3Blue1Brown**'s video
 
 ## Resources
 
-- Course Website: <https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/syllabus/>
+- Course Website: [fall2011](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/syllabus/)
 - Recordings: refer to the course website
 - Textbook: Introduction to Linear Algebra, Gilbert Strang
 - Assignments: refer to the course website
+
+On May 15th, 2023, revered mathematics professor Gilbert Strang capped his 61-year career as a faculty member at MIT by delivering his [final 18.06 Linear Algebra lecture](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/final-1806-lecture-2023/) before retiring at the age of 88. In addition to a brief review for the course final exam, the overflowing audience (both in person and on the live YouTube stream) heard recollections, appreciations, and congratulations from Prof. Strang’s colleagues and former students. A rousing standing ovation concluded this historic event.
