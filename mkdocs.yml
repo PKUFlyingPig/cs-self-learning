@@ -219,6 +219,7 @@ nav:
       - "Stanford CS346: Database System Implementation": "数据库系统/CS346.md"
       - "CMU 15-799: Special Topics in Database Systems": "数据库系统/15799.md"
   - 编译原理:
+      - "PKU 编译原理实践": "编译原理/PKU-Compilers.md"
       - "Stanford CS143: Compilers": "编译原理/CS143.md"
       - "NJU 编译原理": "编译原理/NJU-Compilers.md"
   - 编程语言设计与分析:
