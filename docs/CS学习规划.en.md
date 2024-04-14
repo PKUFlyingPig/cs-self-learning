@@ -216,7 +216,7 @@ Computer systems are a vast and profound topic. Before delving into a specific a
 
 [MIT6.033: System Engineering](http://web.mit.edu/6.033/www/) is MIT's introductory course to systems, covering topics like operating systems, networks, distributed systems, and system security. In addition to the theory, this course also teaches some writing and expression skills, helping you learn how to design, introduce, and analyze your own systems. The accompanying textbook *Principles of Computer System Design: An Introduction* is also very well written and recommended for reading.
 
-[CMU 15-213: Introduction to Computer System](体系结构/CSAPP.md) is CMU’s introductory systems course, covering architecture, operating systems, linking, parallelism, networks, etc., with both breadth and depth. The accompanying textbook *Computer Systems: A Programmer's Perspective* is also of very high quality and strongly recommended for reading.
+[CMU 15-213: Introduction to Computer System](计算机系统基础/CSAPP.md) is CMU’s introductory systems course, covering architecture, operating systems, linking, parallelism, networks, etc., with both breadth and depth. The accompanying textbook *Computer Systems: A Programmer's Perspective* is also of very high quality and strongly recommended for reading.
 
 ### Operating Systems
 

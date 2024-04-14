@@ -2,11 +2,11 @@
 
 ## Course Introduction
 
-- Affiliated University: UCB
+- Offered by: UCB
 - Prerequisites: None
 - Programming Language: Shell
-- Course Difficulty: 🌟🌟🌟
-- Estimated Study Time: 20 hours
+- Difficulty: 🌟🌟🌟
+- Class Hour: 20 hours
 
 This is an introductory course on Linux from UCB, which I find more systematic and clearer than MIT's similarly aimed open course, Missing Semester. This is the main reason I recommend it. While Missing Semester seems more like a course for filling gaps for students who have started programming but haven't systematically used these tools, DeCal is more suitable for absolute beginners. The twelve-week course covers Linux basics, shell programming (including tmux and vim), package management, services, basic computer networks, network services, security (key management), Git, Docker, Kubernetes, Puppet, and CUDA. It's ideal for newcomers to understand and get started with the Linux environment.
 

@@ -82,9 +82,15 @@ plugins:
             数学基础: Fundamental Mathematics
             数学进阶: Advanced Mathematics
             编程入门: Fundamental Programming
+            Python 语言: Python Language
+            C 语言: C Language
+            C++ 语言: C++ Language
+            Rust 语言: Rust Language
+            函数式语言: Functional Programming
             电子基础: Fundamental Electronics
             数据结构与算法: Data Structures and Algorithms
             软件工程: Software Engineering
+            计算机系统基础: Computer Systems Principles
             体系结构: Computer Architecture
             操作系统: Operating Systems
             并行与分布式系统: Distributed Systems
@@ -187,10 +193,12 @@ nav:
   - 软件工程:
       - "MIT 6.031: Software Construction": "软件工程/6031.md"
       - "UCB CS169: software engineering": "软件工程/CS169.md"
+  - 计算机系统基础:
+      - "CMU 15-213: CSAPP": "计算机系统基础/CSAPP.md"
+      - "Stanford CS110: Principles of Computer Systems": "计算机系统基础/CS110.md"
   - 体系结构:
       - "Coursera: Nand2Tetris": "体系结构/N2T.md"
       - "UCB CS61C: Great Ideas in Computer Architecture": "体系结构/CS61C.md"
-      - "CMU 15-213: CSAPP": "体系结构/CSAPP.md"
       - "ETHz: Digital Design and Computer Architecture": "体系结构/DDCA.md"
       - "ETHz: Computer Architecture": "体系结构/CA.md"
   - 操作系统:
