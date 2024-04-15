@@ -1,4 +1,4 @@
-# 课程名称
+# 课程名称: 一生一芯
 
 ## 课程简介
 
@@ -18,4 +18,5 @@
 
 - 课程网站：ysyx.oscc.cc
 - 课程视频：B 站 “一生一芯-视频号”：https://space.bilibili.com/2107852263
-
+- 课程教材：见 ysyx.oscc.cc
+- 课程作业：见 ysyx.oscc.cc
