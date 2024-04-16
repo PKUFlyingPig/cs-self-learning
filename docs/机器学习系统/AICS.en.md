@@ -30,7 +30,7 @@ Inspired by the course, I developed a [simple deep learning framework](https://g
 
 - The 2024 edition of the Intelligent Computing Systems lab has undergone extensive adjustments in the knowledge structure, experimental topics, and lab manuals, including comprehensive use of PyTorch instead of TensorFlow, and the addition of experiments related to large models.
 - As the new lab topics and manuals have not been updated on the Cambricon Forum, the following repository is provided to store the new versions of the Intelligent Computing Systems lab topics, manuals, and individual experiment answers:
-- The resources for the new edition will be updated following the course schedule of the USTC Spring Semester 2024, with completion expected by June 2024.
+- The resources for the new edition will be updated following the course schedule of the UCAS Spring Semester 2024, with completion expected by June 2024.
 - New edition labs, manuals, and answers: https://github.com/Qudoudou-1001/2024-AICS-EXP
 
 ### Old Edition Experiments
