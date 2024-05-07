@@ -83,6 +83,7 @@ plugins:
             数学进阶: Advanced Mathematics
             编程入门: Fundamental Programming
             Python 语言: Python Language
+            Java 语言：Java Language
             C 语言: C Language
             C++ 语言: C++ Language
             Rust 语言: Rust Language
@@ -164,6 +165,8 @@ nav:
   - 编程入门:
       - "MIT-Missing-Semester": "编程入门/MIT-Missing-Semester.md"
       - "Sysadmin DeCal": "编程入门/DeCal.md"
+      - Java 语言：
+        - "MIT 6.092: Introduction To Programming In Java": "编程入门/Java/MIT 6.092.md"
       - Python 语言:
         - "UCB CS61A: Structure and Interpretation of Computer Programs": "编程入门/Python/CS61A.md"
         - "CS50P: CS50's Introduction to Programming with Python": "编程入门/Python/CS50P.md"
