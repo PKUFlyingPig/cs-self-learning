@@ -146,6 +146,10 @@ As a computer science student, I often hear arguments about the uselessness of m
 - [MIT-Missing-Semester](编程入门/MIT-Missing-Semester.md)
 - [Harvard CS50: This is CS50x](编程入门/C/CS50.md)
 
+#### Java
+
+- [MIT 6.092: Introduction To Programming In Java](编程入门/Java/MIT%206.092.md)
+
 #### Python
 
 - [CS50P: CS50's Introduction to Programming with Python](编程入门/Python/CS50P.md)
