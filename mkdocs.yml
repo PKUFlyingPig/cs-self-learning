@@ -165,8 +165,6 @@ nav:
   - 编程入门:
       - "MIT-Missing-Semester": "编程入门/MIT-Missing-Semester.md"
       - "Sysadmin DeCal": "编程入门/DeCal.md"
-      - Java 语言：
-        - "MIT 6.092: Introduction To Programming In Java": "编程入门/Java/MIT 6.092.md"
       - Python 语言:
         - "UCB CS61A: Structure and Interpretation of Computer Programs": "编程入门/Python/CS61A.md"
         - "CS50P: CS50's Introduction to Programming with Python": "编程入门/Python/CS50P.md"
@@ -177,6 +175,8 @@ nav:
         - "AmirKabir University of Technology AP1400-2: Advanced Programming": "编程入门/cpp/AUT1400.md"
         - "Stanford CS106L: Standard C++ Programming": "编程入门/cpp/CS106L.md"
         - "Stanford CS106B/X": "编程入门/cpp/CS106B_CS106X.md"
+      - Java 语言：
+        - "MIT 6.092: Introduction To Programming In Java": "编程入门/Java/MIT 6.092.md"
       - Rust 语言:
         - "Stanford CS110L: Safety in Systems Programming": "编程入门/Rust/CS110L.md"
         - "KAIST CS431: Concurrent Programming": "编程入门/Rust/cs431.md"
