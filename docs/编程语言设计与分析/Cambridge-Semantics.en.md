@@ -16,9 +16,9 @@ This course was taught to 2nd year undergraduate students, however building up s
 
 ## Course Resources
 
-- Course Website: [https://www.cl.cam.ac.uk/teaching/2324/Semantics/](https://www.cl.cam.ac.uk/teaching/2324/Semantics/)
-- Recordings: Available on [YouTube](https://www.youtube.com/playlist?list=PL-2hPK7m5S3hVagseKDPxCBZEqg0PqZhs)
+- Course Website: [Latest](https://www.cl.cam.ac.uk/teaching/2324/Semantics/)
+- Recordings: [YouTube](https://www.youtube.com/playlist?list=PL-2hPK7m5S3hVagseKDPxCBZEqg0PqZhs)
 - Textbooks:
   - Pierce, B.C. (2002). _Types and programming languages_. MIT Press.
   - Winskel, G. (1993). _The formal semantics of programming languages_. MIT Press.
-- Assignments: Related Past Paper Questions are listed at [https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-SemanticsofProgrammingLanguages.html](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-SemanticsofProgrammingLanguages.html), however solutions and tutorial sheets are visible to internal students only.
+- Assignments: Related Past Paper Questions are listed [here](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-SemanticsofProgrammingLanguages.html), however solutions and tutorial sheets are visible to internal students only.
