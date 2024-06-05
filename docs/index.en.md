@@ -11,7 +11,7 @@ It is also a gift to the young students at Peking University. It would be a grea
 The book is currently organized to include the following sections (if you have other good suggestions, or would like to join the ranks of contributors, please feel free to email [zhongyinmin@pku.edu.cn](mailto:zhongyinmin@pku.edu.cn) or ask questions in the issue).
 
 - User guide for this book: Given the numerous resources covered in this book, I have developed corresponding usage guides based on different people's free time and learning objectives.
-- A reference CS learning plan: This is a comprehensive and systematic CS self-learning plan that I have formulated based on my own self-study experience. 
+- A reference CS learning plan: This is a comprehensive and systematic CS self-learning plan that I have formulated based on my own self-study experience.
 - Productivity Toolkit: IDE, VPN, StackOverflow, Git, Github, Vim, Latex, GNU Make and so on.
 - Book recommendations: Those who have read the CSAPP must have realized the importance of good books. I will list links to books and resources in different areas of Computer Science that I find rewarding to read.
 - **List of high quality CS courses**: I will summarize all the high quality foreign CS courses I have taken and the community contributed into different categories and give relevant self-learning advice. Most of them will have a separate repository containing relevant resources as well as the homework/project implementations.
@@ -50,7 +50,7 @@ In my last college year, when I opened up my curriculum book, I realized that it
 
 If you can build up the whole CS foundation in less than three years, have relatively solid mathematical skills and coding ability, experience dozens of projects with thousands of lines of code, master at least C/C++/Java/JS/Python/Go/Rust and other mainstream programming languages, have a good understanding of algorithms, circuits, architectures, networks, operating systems, compilers, artificial intelligence, machine learning, computer vision, natural language processing, reinforcement learning, cryptography, information theory, game theory, numerical analysis, statistics, distributed systems, parallel computing, database systems, computer graphics, web development, cloud computing, supercomputing etc. I think you will be confident enough to choose the area you are interested in, and you will be quite competitive in both industry and academia.
 
-I firmly believe that if you have read to this line, you do not lack the ability and committment to learn CS well, you just need a good teacher to teach you a good course. And I will try my best to pick such courses for you, based on my three years of experience.
+I firmly believe that if you have read to this line, you do not lack the ability and commitment to learn CS well, you just need a good teacher to teach you a good course. And I will try my best to pick such courses for you, based on my three years of experience.
 
 ## **Pros**
 
