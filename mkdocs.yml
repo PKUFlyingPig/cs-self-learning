@@ -83,6 +83,7 @@ plugins:
             数学进阶: Advanced Mathematics
             编程入门: Fundamental Programming
             Python 语言: Python Language
+            Java 语言: Java Language
             C 语言: C Language
             C++ 语言: C++ Language
             Rust 语言: Rust Language
@@ -174,6 +175,8 @@ nav:
         - "AmirKabir University of Technology AP1400-2: Advanced Programming": "编程入门/cpp/AUT1400.md"
         - "Stanford CS106L: Standard C++ Programming": "编程入门/cpp/CS106L.md"
         - "Stanford CS106B/X": "编程入门/cpp/CS106B_CS106X.md"
+      - Java 语言:
+        - "MIT 6.092: Introduction To Programming In Java": "编程入门/Java/MIT 6.092.md"
       - Rust 语言:
         - "Stanford CS110L: Safety in Systems Programming": "编程入门/Rust/CS110L.md"
         - "KAIST CS431: Concurrent Programming": "编程入门/Rust/cs431.md"
@@ -235,6 +238,7 @@ nav:
       - "Stanford CS242: Programming Languages": "编程语言设计与分析/CS242.md"
       - "NJU 软件分析": "编程语言设计与分析/NJU-SoftwareAnalysis.md"
       - "PKU 软件分析": "编程语言设计与分析/PKU-SoftwareAnalysis.md"
+      - "Cambridge: Semantics of Programming Languages": "编程语言设计与分析/Cambridge-Semantics.md"
   - 计算机图形学:
       - "GAMES101": "计算机图形学/GAMES101.md"
       - "GAMES202": "计算机图形学/GAMES202.md"

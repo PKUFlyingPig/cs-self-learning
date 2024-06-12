@@ -25,10 +25,21 @@
 - 课程网站：[官网](https://novel.ict.ac.cn/aics/)
 - 课程视频：[bilibili](https://space.bilibili.com/494117284)
 - 课程教材：智能计算系统（陈云霁）
-- 课程作业：6 个实验(包括编写卷积算子，为 TensorFlow 添加算子，用 BCL 编写算子并集成到 TensorFlow 中等)(具体内容在官网可以找到)
-- 实验手册：[实验 2.0 指导手册](https://forum.cambricon.com/index.php?m=content&c=index&a=show&catid=155&id=708)
-- 学习笔记：<https://sanzo.top/categories/AI-Computing-Systems/>，参考实验手册总结的笔记
 
 ## 资源汇总
 
-@ysj1173886760 在学习这门课中用到的所有资源和作业实现都汇总在 [ysj1173886760/Learning: ai-system - GitHub](https://github.com/ysj1173886760/Learning/tree/master/ai-system) 中。
+### 2024年新版实验
+
+- 2024 年的智能计算系统实验内容对知识体系、实验题目及实验手册进行了大范围的调整，调整内容包括全面使用 PyTorch ，不再使用 TensorFlow 以及添加大模型相关实验等。
+
+- 由于新版实验题目及实验手册未在寒武纪论坛进行更新，因此提供以下存储仓库，用于存储新版智能计算系统的实验题目、实验手册以及个人的实验答案
+- 新版实验的资源跟随国科大 2024 年春季学期的课程进度进行更新，预计 2024 年 6 月更新完毕
+- @Yuichi 编写的 2024 新版实验题目、手册及答案：https://github.com/Yuichi1001/2024-AICS-EXP
+
+### 旧版实验
+
+- 旧版课程作业：6 个实验(包括编写卷积算子，为 TensorFlow 添加算子，用 BCL 编写算子并集成到 TensorFlow 中等)(具体内容在官网可以找到)
+- 旧版实验手册：[实验 2.0 指导手册](https://forum.cambricon.com/index.php?m=content&c=index&a=show&catid=155&id=708)
+- 学习笔记：<https://sanzo.top/categories/AI-Computing-Systems/>，参考实验手册总结的笔记(已失效)
+- @ysj1173886760 在学习这门课中用到的所有资源和作业实现都汇总在 [ysj1173886760/Learning: ai-system - GitHub](https://github.com/ysj1173886760/Learning/tree/master/ai-system) 中。
+
