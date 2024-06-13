@@ -2,7 +2,7 @@
 
 ## Descriptions
 
-- Offered by:Southern University 
+- Offered by:Southern University of Science and Technology 
 - Prerequisites:better if you are already proficient in a programming language
 - Programming Languages:C/C++
 - Difficulty: 🌟🌟🌟
