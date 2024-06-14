@@ -28,6 +28,7 @@ Vim 的学习资料浩如烟海，但掌握它最好的方式还是将它用在�
 
 Windows 系统可以使用 [Powertoys](https://learn.microsoft.com/en-us/windows/powertoys/) 或者 [AutoHotkey](https://www.autohotkey.com/) 重映射键位。    
 MacOS 系统提供了重映射键位的[设置](https://vim.fandom.com/wiki/Map_caps_lock_to_escape_in_macOS)，另外也可以使用 [Karabiner-Elements](https://karabiner-elements.pqrs.org/) 重映射。
+Linux 系统可以使用 [xremap](https://github.com/xremap/xremap) 进行映射，对于 wayland 和 x.org 都可以使用，并且支持分别映射点按和按住。
 
 但更佳的做法是同时将 CapsLock 映射为 Ctrl 和 Esc，点按为 Esc，按住为 Ctrl。这是不同系统下的实现方法：
 
