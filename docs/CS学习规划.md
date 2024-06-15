@@ -141,28 +141,32 @@ IDE (Integrated Development Environment)：集成开发环境，说白了就是�
 
 > Languages are tools, you choose the right tool to do the right thing. Since there's no universally perfect tool, there's no universally perfect language.
 
-#### Shell
+#### General
 
 - [MIT-Missing-Semester](编程入门/MIT-Missing-Semester.md)
+- [Harvard CS50: This is CS50x](编程入门/C/CS50.md)
+
+#### Java
+
+- [MIT 6.092: Introduction To Programming In Java](编程入门/Java/MIT%206.092.md)
 
 #### Python
 
-- [CS50P: CS50's Introduction to Programming with Python](编程入门/CS50P.md)
-- [Harvard CS50: This is CS50x](编程入门/CS50.md)
-- [UCB CS61A: Structure and Interpretation of Computer Programs](编程入门/CS61A.md)
+- [CS50P: CS50's Introduction to Programming with Python](编程入门/Python/CS50P.md)
+- [UCB CS61A: Structure and Interpretation of Computer Programs](编程入门/Python/CS61A.md)
 
 #### C++
 
-- [Stanford CS106B/X: Programming Abstractions](编程入门/CS106B_CS106X.md)
-- [Stanford CS106L: Standard C++ Programming](编程入门/CS106L.md)
+- [Stanford CS106B/X: Programming Abstractions](编程入门/cpp/CS106B_CS106X.md)
+- [Stanford CS106L: Standard C++ Programming](编程入门/cpp/CS106L.md)
 
 #### Rust
 
-- [Stanford CS110L: Safety in Systems Programming](编程入门/CS110L.md)
+- [Stanford CS110L: Safety in Systems Programming](编程入门/Rust/CS110L.md)
 
 #### OCaml
 
-- [Cornell CS3110 textbook: Functional Programming in OCaml](https://cs3110.github.io/textbook/cover.html)
+- [Cornell CS3110: OCaml Programming Correct + Efficient + Beautiful](编程入门/Functional/CS3110.md)
 
 ### 电子基础
 
@@ -184,7 +188,7 @@ IDE (Integrated Development Environment)：集成开发环境，说白了就是�
 
 算法是计算机科学的核心，也是几乎一切专业课程的基础。如何将实际问题通过数学抽象转化为算法问题，并选用合适的数据结构在时间和内存大小的限制下将其解决是算法课的永恒主题。如果你受够了老师的照本宣科，那么我强烈推荐伯克利的 [UCB CS61B: Data Structures and Algorithms](数据结构与算法/CS61B.md) 和普林斯顿的 [Coursera: Algorithms I & II](数据结构与算法/Algo.md)，这两门课的都讲得深入浅出并且会有丰富且有趣的编程实验将理论与知识结合起来。
 
-以上两门课程都是基于 Java 语言，如果你想学习 C/C++ 描述的版本，可以参考斯坦福的数据结构与基础算法课程 [Stanford CS106B/X: Programming Abstractions](编程入门/CS106B_CS106X.md)。偏好 Python 的同学可以学习 MIT 的算法入门课 [MIT 6.006: Introduction to Algorithms](数据结构与算法/6.006.md)
+以上两门课程都是基于 Java 语言，如果你想学习 C/C++ 描述的版本，可以参考斯坦福的数据结构与基础算法课程 [Stanford CS106B/X: Programming Abstractions](编程入门/cpp/CS106B_CS106X.md)。偏好 Python 的同学可以学习 MIT 的算法入门课 [MIT 6.006: Introduction to Algorithms](数据结构与算法/6.006.md)
 
 对一些更高级的算法以及 NP 问题感兴趣的同学可以学习伯克利的算法设计与分析课程 [UCB CS170: Efficient Algorithms and Intractable Problems](数据结构与算法/CS170.md) 或者 MIT 的高阶算法 [MIT 6.046: Design and Analysis of Algorithms](数据结构与算法/6.046.md)。
 
@@ -214,7 +218,7 @@ IDE (Integrated Development Environment)：集成开发环境，说白了就是�
 
 [MIT6.033: System Engineering](http://web.mit.edu/6.033/www/) 是 MIT 的系统入门课，主题涉及了操作系统、网络、分布式和系统安全，除了知识点的传授外，这门课还会讲授一些写作和表达上的技巧，让你学会如何设计并向别人介绍和分析自己的系统。这本书配套的教材 *Principles of Computer System Design: An Introduction* 也写得非常好，推荐大家阅读。
 
-[CMU 15-213: Introduction to Computer System](体系结构/CSAPP.md) 是 CMU 的系统入门课，内容覆盖了体系结构、操作系统、链接、并行、网络等等，兼具广度和深度，配套的教材 *Computer Systems: A Programmer's Perspective* 也是质量极高，强烈建议阅读。
+[CMU 15-213: Introduction to Computer System](计算机系统基础/CSAPP.md) 是 CMU 的系统入门课，内容覆盖了体系结构、操作系统、链接、并行、网络等等，兼具广度和深度，配套的教材 *Computer Systems: A Programmer's Perspective* 也是质量极高，强烈建议阅读。
 
 ### 操作系统
 

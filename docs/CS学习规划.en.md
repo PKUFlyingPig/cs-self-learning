@@ -141,28 +141,32 @@ As a computer science student, I often hear arguments about the uselessness of m
 
 > Languages are tools, and you choose the right tool for the right job. Since there's no universally perfect tool, there's no universally perfect language.
 
-#### Shell
+#### General
 
 - [MIT-Missing-Semester](编程入门/MIT-Missing-Semester.md)
+- [Harvard CS50: This is CS50x](编程入门/C/CS50.md)
+
+#### Java
+
+- [MIT 6.092: Introduction To Programming In Java](编程入门/Java/MIT%206.092.md)
 
 #### Python
 
-- [CS50P: CS50's Introduction to Programming with Python](编程入门/CS50P.md)
-- [Harvard CS50: This is CS50x](编程入门/CS50.md)
-- [UCB CS61A: Structure and Interpretation of Computer Programs](编程入门/CS61A.md)
+- [CS50P: CS50's Introduction to Programming with Python](编程入门/Python/CS50P.md)
+- [UCB CS61A: Structure and Interpretation of Computer Programs](编程入门/Python/CS61A.md)
 
 #### C++
 
-- [Stanford CS106B/X: Programming Abstractions](编程入门/CS106B_CS106X.md)
-- [Stanford CS106L: Standard C++ Programming](编程入门/CS106L.md)
+- [Stanford CS106B/X: Programming Abstractions](编程入门/cpp/CS106B_CS106X.md)
+- [Stanford CS106L: Standard C++ Programming](编程入门/cpp/CS106L.md)
 
 #### Rust
 
-- [Stanford CS110L: Safety in Systems Programming](编程入门/CS110L.md)
+- [Stanford CS110L: Safety in Systems Programming](编程入门/Rust/CS110L.md)
 
 #### OCaml
 
-- [Cornell CS3110 textbook: Functional Programming in OCaml](https://cs3110.github.io/textbook/cover.html)
+- [Cornell CS3110: OCaml Programming Correct + Efficient + Beautiful](编程入门/Functional/CS3110.md)
 
 ### Electronics Fundamentals
 
@@ -184,7 +188,7 @@ Signals and Systems is a course I find very worthwhile. Initially, I studied it 
 
 Algorithms are the core of computer science and the foundation for almost all professional courses. How to abstract real-world problems into algorithmic problems mathematically and solve them under time and memory constraints using appropriate data structures is the eternal theme of algorithm courses. If you are fed up with your teacher's rote teaching, I highly recommend UC Berkeley's [UCB CS61B: Data Structures and Algorithms](数据结构与算法/CS61B.md) and Princeton's [Coursera: Algorithms I & II](数据结构与算法/Algo.md). Both courses are taught in a deep yet simple manner and have rich and interesting programming experiments to integrate theory with knowledge.
 
-Both of these courses are based on Java. If you prefer C/C++, you can refer to Stanford's data structure and basic algorithm course [Stanford CS106B/X: Programming Abstractions](编程入门/CS106B_CS106X.md). For those who prefer Python, you can learn MIT's introductory algorithm course [MIT 6.006: Introduction to Algorithms](数据结构与算法/6.006.md).
+Both of these courses are based on Java. If you prefer C/C++, you can refer to Stanford's data structure and basic algorithm course [Stanford CS106B/X: Programming Abstractions](编程入门/cpp/CS106B_CS106X.md). For those who prefer Python, you can learn MIT's introductory algorithm course [MIT 6.006: Introduction to Algorithms](数据结构与算法/6.006.md).
 
 For those interested in more advanced algorithms and NP problems, consider UC Berkeley's course on algorithm design and analysis [UCB CS170: Efficient Algorithms and Intractable Problems](数据结构与算法/CS170.md) or MIT's advanced algorithms course [MIT 6.046: Design and Analysis of Algorithms](数据结构与算法/6.046.md).
 
@@ -216,7 +220,7 @@ Computer systems are a vast and profound topic. Before delving into a specific a
 
 [MIT6.033: System Engineering](http://web.mit.edu/6.033/www/) is MIT's introductory course to systems, covering topics like operating systems, networks, distributed systems, and system security. In addition to the theory, this course also teaches some writing and expression skills, helping you learn how to design, introduce, and analyze your own systems. The accompanying textbook *Principles of Computer System Design: An Introduction* is also very well written and recommended for reading.
 
-[CMU 15-213: Introduction to Computer System](体系结构/CSAPP.md) is CMU’s introductory systems course, covering architecture, operating systems, linking, parallelism, networks, etc., with both breadth and depth. The accompanying textbook *Computer Systems: A Programmer's Perspective* is also of very high quality and strongly recommended for reading.
+[CMU 15-213: Introduction to Computer System](计算机系统基础/CSAPP.md) is CMU’s introductory systems course, covering architecture, operating systems, linking, parallelism, networks, etc., with both breadth and depth. The accompanying textbook *Computer Systems: A Programmer's Perspective* is also of very high quality and strongly recommended for reading.
 
 ### Operating Systems
 

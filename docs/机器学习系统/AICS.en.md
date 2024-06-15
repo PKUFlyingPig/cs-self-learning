@@ -23,10 +23,19 @@ Inspired by the course, I developed a [simple deep learning framework](https://g
 - Course Website：[Official Website](https://novel.ict.ac.cn/aics/)
 - Course Videos：[bilibili](https://space.bilibili.com/494117284)
 - Course Textbook："Intelligent Computing Systems" by Chen Yunji
-- Course Assignments：6 experiments (including writing a convolutional operator, adding operators to TensorFlow, writing operators in BCL and integrating them into TensorFlow, etc.) (specific content can be found on the official website)
-- Experiment Manual：[Experiment 2.0 Guide Manual](https://forum.cambricon.com/index.php?m=content&c=index&a=show&catid=155&id=708)
-- Study Notes：<https://sanzo.top/categories/AI-Computing-Systems/>, notes summarized based on the experiment manual
 
-## Resource Compilation
+## Personal Resources
 
-All resources and homework implementations used by @ysj1173886760 in this course are consolidated in [ysj1173886760/Learning: ai-system - GitHub](https://github.com/ysj1173886760/Learning/tree/master/ai-system)
+### New Edition Experiments for 2024
+
+- The 2024 edition of the Intelligent Computing Systems lab has undergone extensive adjustments in the knowledge structure, experimental topics, and lab manuals, including comprehensive use of PyTorch instead of TensorFlow, and the addition of experiments related to large models.
+- As the new lab topics and manuals have not been updated on the Cambricon Forum, the following repository is provided to store the new versions of the Intelligent Computing Systems lab topics, manuals, and individual experiment answers:
+- The resources for the new edition will be updated following the course schedule of the UCAS Spring Semester 2024, with completion expected by June 2024.
+- 2024 New labs, manuals, and answers created by @Yuichi: https://github.com/Yuichi1001/2024-AICS-EXP
+
+### Old Edition Experiments
+
+- Old edition coursework: 6 experiments (including writing convolution operators, adding operators to TensorFlow, writing operators with BCL and integrating them into TensorFlow, etc.) (details can be found on the official website)
+- Old edition lab manuals: [Experiment 2.0 Instruction Manual](https://forum.cambricon.com/index.php?m=content&c=index&a=show&catid=155&id=708)
+- Learning notes: https://sanzo.top/categories/AI-Computing-Systems/, notes summarized from the lab manuals (link is no longer active)
+- @ysj1173886760 has compiled all resources and homework implementations used in this course at [ysj1173886760/Learning: ai-system - GitHub](https://github.com/ysj1173886760/Learning/tree/master/ai-system).

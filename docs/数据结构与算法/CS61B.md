@@ -20,8 +20,8 @@
 
 ## 课程资源
 
-- 课程网站：<https://sp18.datastructur.es/>
-- 课程视频：<https://sp18.datastructur.es/>，每节课的链接详见课程网站
+- 课程网站：[spring2024](https://sp24.datastructur.es/), [fall2023](https://fa23.datastructur.es/), [spring2023](https://sp23.datastructur.es/), [spring2018](https://sp18.datastructur.es/)
+- 课程视频：原版视频参见课程网站，B站有中文翻译搬运。
 - 课程教材：无
 - 课程作业：每年略有不同，18 年春季学期有 14 个 Lab，10 个 Homework以及 3 个 Project，具体要求详见课程网站。
 

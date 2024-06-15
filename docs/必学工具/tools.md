@@ -45,6 +45,8 @@
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html): 数据结构与算法的可视化网站。
 - [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN): 可视化学习 git。
 - [UnicodeCharacter](https://unicode-table.com/en/): Unicode 字符集网站。
+- [cyrilex](https://extendsclass.com/regex-tester.html): 一个用于测试和可视化正则表达式的网站，支持各种编程语言标准。
+- [mockium](https://softwium.com/mockium/): 生成测试数据的平台。
 
 ## 学习网站
 
@@ -96,3 +98,4 @@
 - [keybr](https://www.keybr.com/): 学习盲打的网站。
 - [Awesome C++](https://cpp.libhunt.com/): 很棒的 C/C++ 框架、库、资源精选列表。
 - [HelloGitHub](https://hellogithub.com/): 分享 GitHub 上有趣、入门级的开源项目。
+- [Synergy](https://github.com/DEAKSoftware/Synergy-Binaries): 一套键鼠能控制多台电脑。

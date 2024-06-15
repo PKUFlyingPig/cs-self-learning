@@ -82,9 +82,16 @@ plugins:
             数学基础: Fundamental Mathematics
             数学进阶: Advanced Mathematics
             编程入门: Fundamental Programming
+            Python 语言: Python Language
+            Java 语言: Java Language
+            C 语言: C Language
+            C++ 语言: C++ Language
+            Rust 语言: Rust Language
+            函数式语言: Functional Programming
             电子基础: Fundamental Electronics
             数据结构与算法: Data Structures and Algorithms
             软件工程: Software Engineering
+            计算机系统基础: Computer Systems Principles
             体系结构: Computer Architecture
             操作系统: Operating Systems
             并行与分布式系统: Distributed Systems
@@ -158,17 +165,24 @@ nav:
   - 编程入门:
       - "MIT-Missing-Semester": "编程入门/MIT-Missing-Semester.md"
       - "Sysadmin DeCal": "编程入门/DeCal.md"
-      - "Harvard CS50: This is CS50x": "编程入门/CS50.md"
-      - "CS50P: CS50's Introduction to Programming with Python": "编程入门/CS50P.md"
-      - "UCB CS61A: Structure and Interpretation of Computer Programs": "编程入门/CS61A.md"
-      - "Duke University: Introductory C Programming Specialization": "编程入门/Duke-Coursera-Intro-C.md"
-      - "Stanford CS106B/X": "编程入门/CS106B_CS106X.md"
-      - "Stanford CS106L: Standard C++ Programming": "编程入门/CS106L.md"
-      - "Stanford CS110L: Safety in Systems Programming": "编程入门/CS110L.md"
-      - "AmirKabir University of Technology AP1400-2: Advanced Programming": "编程入门/AUT1400.md"
-      - "Haskell MOOC": "编程入门/Haskell-MOOC.md"
-      - "Cornell CS3110: OCaml Programming Correct + Efficient + Beautiful": "编程入门/CS3110.md"
-      - "KAIST CS431: Concurrent Programming": "编程入门/cs431.md"
+      - Python 语言:
+        - "UCB CS61A: Structure and Interpretation of Computer Programs": "编程入门/Python/CS61A.md"
+        - "CS50P: CS50's Introduction to Programming with Python": "编程入门/Python/CS50P.md"
+      - C 语言:
+        - "Harvard CS50: This is CS50x": "编程入门/C/CS50.md"
+        - "Duke University: Introductory C Programming Specialization": "编程入门/C/Duke-Coursera-Intro-C.md"
+      - C++ 语言:
+        - "AmirKabir University of Technology AP1400-2: Advanced Programming": "编程入门/cpp/AUT1400.md"
+        - "Stanford CS106L: Standard C++ Programming": "编程入门/cpp/CS106L.md"
+        - "Stanford CS106B/X": "编程入门/cpp/CS106B_CS106X.md"
+      - Java 语言:
+        - "MIT 6.092: Introduction To Programming In Java": "编程入门/Java/MIT 6.092.md"
+      - Rust 语言:
+        - "Stanford CS110L: Safety in Systems Programming": "编程入门/Rust/CS110L.md"
+        - "KAIST CS431: Concurrent Programming": "编程入门/Rust/cs431.md"
+      - 函数式语言:
+        - "Cornell CS3110: OCaml Programming Correct + Efficient + Beautiful": "编程入门/Functional/CS3110.md"
+        - "Haskell MOOC": "编程入门/Functional/Haskell-MOOC.md"
   - 电子基础:
       - "EE16A&B: Designing Information Devices and Systems I&II": "电子基础/EE16.md"
       - "UCB EE120 : Signal and Systems": "电子基础/signal.md"
@@ -182,10 +196,13 @@ nav:
   - 软件工程:
       - "MIT 6.031: Software Construction": "软件工程/6031.md"
       - "UCB CS169: software engineering": "软件工程/CS169.md"
+      - "CMU 17-803: Empirical Methods": "软件工程/17803.md"
+  - 计算机系统基础:
+      - "CMU 15-213: CSAPP": "计算机系统基础/CSAPP.md"
+      - "Stanford CS110: Principles of Computer Systems": "计算机系统基础/CS110.md"
   - 体系结构:
       - "Coursera: Nand2Tetris": "体系结构/N2T.md"
       - "UCB CS61C: Great Ideas in Computer Architecture": "体系结构/CS61C.md"
-      - "CMU 15-213: CSAPP": "体系结构/CSAPP.md"
       - "ETHz: Digital Design and Computer Architecture": "体系结构/DDCA.md"
       - "ETHz: Computer Architecture": "体系结构/CA.md"
   - 操作系统:
@@ -198,6 +215,7 @@ nav:
       - "MIT 6.824: Distributed System": "并行与分布式系统/MIT6.824.md"
   - 计算机系统安全:
       - "UCB CS161: Computer Security": "系统安全/CS161.md"
+      - "MIT 6.1600: Foundations of Computer Security": "系统安全/MIT6.1600.md"
       - "MIT 6.858: Computer System Security": "系统安全/MIT6.858.md"
       - "ASU CSE365: Introduction to Cybersecurity": "系统安全/CSE365.md"
       - "ASU CSE466: Computer Systems Security": "系统安全/CSE466.md"
@@ -213,11 +231,14 @@ nav:
       - "Stanford CS346: Database System Implementation": "数据库系统/CS346.md"
       - "CMU 15-799: Special Topics in Database Systems": "数据库系统/15799.md"
   - 编译原理:
+      - "PKU 编译原理实践": "编译原理/PKU-Compilers.md"
       - "Stanford CS143: Compilers": "编译原理/CS143.md"
+      - "NJU 编译原理": "编译原理/NJU-Compilers.md"
   - 编程语言设计与分析:
       - "Stanford CS242: Programming Languages": "编程语言设计与分析/CS242.md"
       - "NJU 软件分析": "编程语言设计与分析/NJU-SoftwareAnalysis.md"
       - "PKU 软件分析": "编程语言设计与分析/PKU-SoftwareAnalysis.md"
+      - "Cambridge: Semantics of Programming Languages": "编程语言设计与分析/Cambridge-Semantics.md"
   - 计算机图形学:
       - "GAMES101": "计算机图形学/GAMES101.md"
       - "GAMES202": "计算机图形学/GAMES202.md"
