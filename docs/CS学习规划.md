@@ -30,7 +30,7 @@ IDE (Integrated Development Environment)：集成开发环境，说白了就是�
 
 [CMake](必学工具/CMake.md)：一款功能比 GNU Make 更为强大的构建工具，建议掌握 GNU Make 之后再加以学习。
 
-[LaTex](必学工具/LaTeX.md)：<del>逼格提升</del> 论文排版工具。
+[LaTeX](必学工具/LaTeX.md)：<del>逼格提升</del> 论文排版工具。
 
 [Docker](必学工具/Docker.md)：一款相较于虚拟机更轻量级的软件打包与环境部署工具。
 
