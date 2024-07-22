@@ -708,6 +708,13 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://csdiy.wiki/en/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/CS143/"/>
     </url>
     <url>
+        <loc>https://csdiy.wiki/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/CS420/</loc>
+        <lastmod>2024-07-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://csdiy.wiki/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/CS420/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://csdiy.wiki/en/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/CS420/"/>
+    </url>
+    <url>
         <loc>https://csdiy.wiki/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/NJU-Compilers/</loc>
         <lastmod>2024-07-22</lastmod>
         <changefreq>daily</changefreq>
@@ -1537,6 +1544,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://csdiy.wiki/en/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/CS143/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://csdiy.wiki/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/CS143/"/>
+    </url>
+    <url>
+        <loc>https://csdiy.wiki/en/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/CS420/</loc>
+        <lastmod>2024-07-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://csdiy.wiki/en/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/CS420/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://csdiy.wiki/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/CS420/"/>
     </url>
     <url>
         <loc>https://csdiy.wiki/en/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/NJU-Compilers/</loc>
