@@ -234,6 +234,7 @@ nav:
       - "PKU 编译原理实践": "编译原理/PKU-Compilers.md"
       - "Stanford CS143: Compilers": "编译原理/CS143.md"
       - "NJU 编译原理": "编译原理/NJU-Compilers.md"
+      - "KAIST CS420: Compiler Design": "编译原理/CS420.md"
   - 编程语言设计与分析:
       - "Stanford CS242: Programming Languages": "编程语言设计与分析/CS242.md"
       - "NJU 软件分析": "编程语言设计与分析/NJU-SoftwareAnalysis.md"
