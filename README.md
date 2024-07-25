@@ -3,7 +3,7 @@
 </div>
 
 hello world
-
+from
 # CS 自学指南
 
 > *Everyone should enjoy CS if you have a good teacher to teach you a good course.*
