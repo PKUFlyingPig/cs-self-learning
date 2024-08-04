@@ -25,7 +25,8 @@ CS61B 和 CS61C 在本书中均有收录。
 ## 课程资源
 
 - 课程网站: [spring2024](https://inst.eecs.berkeley.edu/~cs61a/sp24), [fall2023](https://inst.eecs.berkeley.edu/~cs61a/fa23/), [spring2023](https://inst.eecs.berkeley.edu/~cs61a/sp23), [fall2022](https://inst.eecs.berkeley.edu/~cs61a/fall22)
-- 课程视频: [spring2023](https://www.bilibili.com/video/BV1s3411G7yM/?spm_id_from=333.337.search-card.all.click&vd_source=a4d76d1247665a7e7bec15d15fd12349), [fall2022](https://www.bilibili.com/video/BV1GK411Q7qp/?spm_id_from=333.337.search-card.all.click&vd_source=a4d76d1247665a7e7bec15d15fd12349)
+- 课程网站 (页面备份)：[fall2022](https://web.archive.org/web/20220913035803/http://cs61a.org/), [fall2020](https://web.archive.org/web/20201219202644/https://cs61a.org/)
+- 课程视频: [fall2022](https://www.bilibili.com/video/BV1GK411Q7qp/), [fall2020](https://www.bilibili.com/video/BV1s3411G7yM/)
 - 课程教材: <https://www.composingprograms.com/>
 - 课程教材中文翻译：<https://composingprograms.netlify.app/>
 - 课程作业: 课程网站会有每个作业对应的文档链接以及代码框架的下载链接。
