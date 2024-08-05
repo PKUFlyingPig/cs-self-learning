@@ -273,6 +273,7 @@ nav:
       - "Stanford CS224n: Natural Language Processing": "深度学习/CS224n.md"
       - "Stanford CS224w: Machine Learning with Graphs": "深度学习/CS224w.md"
       - "UCB CS285: Deep Reinforcement Learning": "深度学习/CS285.md"
+      - "计算机视觉之三维重建": "计算机视觉/3DReconstruction.md"
   - 机器学习进阶:
       - "进阶路线图": "机器学习进阶/roadmap.md"
       - "CMU 10-708: Probabilistic Graphical Models": "机器学习进阶/CMU10-708.md"
