@@ -173,6 +173,7 @@ nav:
         - "Duke University: Introductory C Programming Specialization": "编程入门/C/Duke-Coursera-Intro-C.md"
       - C++ 语言:
         - "AmirKabir University of Technology AP1400-2: Advanced Programming": "编程入门/cpp/AUT1400.md"
+        - "WUSTL CSE 532S: Advanced Multi-Paradigm Software Development" : "编程入门/cpp/CSE532s.md"
         - "Stanford CS106L: Standard C++ Programming": "编程入门/cpp/CS106L.md"
         - "Stanford CS106B/X": "编程入门/cpp/CS106B_CS106X.md"
       - Java 语言:
