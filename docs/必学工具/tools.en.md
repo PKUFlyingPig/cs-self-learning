@@ -4,7 +4,7 @@
 
 - [Sci-Hub](https://sci-hub.se/): A revolutionary site aiming to break knowledge barriers, greeted by the goddess Elbakyan.
 - [Library Genesis](http://libgen.is/): A website for downloading e-books.
-- [Z-library](https://zlibrary-global.se/): An e-book download site (works better under [Tor](https://www.torproject.org/), [link](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/)).
+- [Z-library](https://z-library.rs/): An e-book download site (works better under [Tor](https://www.torproject.org/), [link](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/)).
 - [Z-ePub](https://z-epub.com/): ePub e-book download site.
 - [PDF Drive](https://www.pdfdrive.com/): A PDF e-book search engine.
 - [MagazineLib](https://magazinelib.com/): A site for downloading PDF e-magazines.
