@@ -119,10 +119,7 @@ plugins:
       lang:
         - zh
         - en
-  - git-revision-date-localized:
-     type: datetime 
-     fallback_to_build_date: false 
- 
+  - git-revision-date:
   - minify:
       minify_html: true
 
