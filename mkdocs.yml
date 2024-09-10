@@ -119,7 +119,7 @@ plugins:
       lang:
         - zh
         - en
-  - git-revision-date-localized
+  - git-revision-date:
   - minify:
       minify_html: true
 
