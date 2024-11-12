@@ -28,3 +28,5 @@ In addition, there are 3 projects that give you the opportunity to be exposed to
 ## Personal resources
 
 All resources and homework implementations used by @PKUFlyingPig in this course are summarized in [PKUFlyingPig/CS61B - GitHub](https://github.com/PKUFlyingPig/CS61B).
+
+All resources and homework implementations used by @InsideEmpire in this course are summarized in [InsideEmpire/CS61B-PathwayToSuccess - GitHub](https://github.com/InsideEmpire/CS61B-PathwayToSuccess.git).
