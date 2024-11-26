@@ -282,6 +282,6 @@ nav:
       - "Stanford STATS214 / CS229M: Machine Learning Theory": "机器学习进阶/CS229M.md"
   - 大型语言模型与生成模型:
     - "CMU CS11-667: Large Language Models Methods and Application": "大型语言模型与生成模型/CS11-667.md"
-    - "Stanford CS324: Large Language Models" : "大型语言模型与生成模型/CS324.md"
+    - "Stanford CS324: Large Language Models": "大型语言模型与生成模型/CS324.md"
     - "UCB CS194/294-267: Understanding Large Language Models": "大型语言模型与生成模型/CS194-267.md"
   - 后记: "后记.md"
