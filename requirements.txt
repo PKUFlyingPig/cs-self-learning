@@ -3,3 +3,5 @@ mkdocs-minify-plugin==0.7.1
 mkdocs-git-revision-date-plugin
 jinja2==3.1.2
 mkdocs-static-i18n==1.2.0
+mkdocs-open-in-new-tab==1.0.8
+
