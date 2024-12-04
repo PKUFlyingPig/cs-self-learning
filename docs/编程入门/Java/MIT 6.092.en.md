@@ -31,3 +31,5 @@ For those who want to advance after completing this course, you can consider stu
 All the resources and assignments used by @SinanTang are maintained in [SinanTang/MIT6092-Introduction-to-Programming-in-Java_problem-sets - GitHub](https://github.com/SinanTang/MIT6092-Introduction-to-Programming-in-Java_problem-sets).
 
 All the resources and assignments used by @sirrice are maintained in [sirrice/6092 - GitHub](https://github.com/sirrice/6092).
+
+All the resources and assignments used by @Harbour-z are maintained in [Harbour-z/MIT6.092 - Github](https://github.com/Harbour-z/Course_learning/tree/main/MIT6.092).
