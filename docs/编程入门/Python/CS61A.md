@@ -29,6 +29,7 @@ CS61B 和 CS61C 在本书中均有收录。
 - 课程视频: [fall2022](https://www.bilibili.com/video/BV1GK411Q7qp/), [fall2020](https://www.bilibili.com/video/BV1s3411G7yM/)
 - 课程教材: <https://www.composingprograms.com/>
 - 课程教材中文翻译：<https://composingprograms.netlify.app/>
+- 在线的Interpreter: [61A Code](https://code.cs61a.org/)
 - 课程作业: 课程网站会有每个作业对应的文档链接以及代码框架的下载链接。
 
 ## 资源汇总
