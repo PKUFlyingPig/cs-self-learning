@@ -25,10 +25,10 @@ Note: If you have no prior programming experience at all, getting started with C
 ## Course Resources
 
 - Course Website: [spring2024](https://inst.eecs.berkeley.edu/~cs61a/sp24), [fall2023](https://inst.eecs.berkeley.edu/~cs61a/fa23/), [spring2023](https://inst.eecs.berkeley.edu/~cs61a/sp23), [fall2022](https://inst.eecs.berkeley.edu/~cs61a/fall22)
-- Course Website (backup): [spring2022](https://cs61a.vercel.app/)
-- Recordings: 
+- Course Website (backup): [fall2024](https://insideempire.github.io/CS61A-Website-Archive/), [spring2022](https://cs61a.vercel.app/), [fall2022](https://web.archive.org/web/20220913035803/http://cs61a.org/), [fall2020](https://web.archive.org/web/20201219202644/https://cs61a.org/)
+- Recordings: [fall2022](https://www.bilibili.com/video/BV1GK411Q7qp/), [fall2020](https://www.bilibili.com/video/BV1s3411G7yM/)
 - Textbook: <https://www.composingprograms.com/>
-- Assignments: refer to the course website
+- Assignments: [fall2024](https://github.com/InsideEmpire/CS61A-Assignments)
 
 ## Personal Resources
 
