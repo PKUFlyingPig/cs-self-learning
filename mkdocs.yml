@@ -267,6 +267,7 @@ nav:
       - "智能计算系统": "机器学习系统/AICS.md"
       - "CMU 10-414/714: Deep Learning Systems": "机器学习系统/CMU10-414.md"
       - "Machine Learning Compilation": "机器学习系统/MLC.md"
+      - "CMU 11868: Large Language Model Systems": "机器学习系统/CMU11868.md"
   - 深度学习:
       - "UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision": "深度学习/EECS498-007.md"
       - "Coursera: Deep Learning": "深度学习/CS230.md"
