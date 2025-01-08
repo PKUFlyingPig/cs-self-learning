@@ -266,11 +266,12 @@ nav:
   - 机器学习系统:
       - "智能计算系统": "机器学习系统/AICS.md"
       - "CMU 10-414/714: Deep Learning Systems": "机器学习系统/CMU10-414.md"
+      - "MIT6.5940: TinyML and Efficient Deep Learning Computing": "机器学习系统/EML.md"
       - "Machine Learning Compilation": "机器学习系统/MLC.md"
   - 深度学习:
-      - "UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision": "深度学习/EECS498-007.md"
       - "Coursera: Deep Learning": "深度学习/CS230.md"
       - "国立台湾大学: 李宏毅机器学习": "深度学习/LHY.md"
+      - "UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision": "深度学习/EECS498-007.md"
       - "Stanford CS231n: CNN for Visual Recognition": "深度学习/CS231.md"
       - "Stanford CS224n: Natural Language Processing": "深度学习/CS224n.md"
       - "Stanford CS224w: Machine Learning with Graphs": "深度学习/CS224w.md"
