@@ -24,4 +24,4 @@ The course materials and resources are available on the course website. Official
 
 ## Personal Resources
 
-All the resources and assignments used by @PKUFlyingPig in this course are maintained in [PKUFlyingPig/MIT6.5940_TinyML- GitHub](https://github.com/PKUFlyingPig/MIT6.5940_TinyML).
+All the resources and assignments used by @PKUFlyingPig in this course are maintained in [PKUFlyingPig/MIT6.5940_TinyML - GitHub](https://github.com/PKUFlyingPig/MIT6.5940_TinyML).
