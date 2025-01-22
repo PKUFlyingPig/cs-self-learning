@@ -15,7 +15,7 @@
 ## 课程资源
 
 - 课程网站：[fall2022](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/material-by-lecture/)
-- 课程视频：原版课程参考官网，B站也有正在进行的[免费精翻](https://www.bilibili.com/video/BV1WE421V7bL?spm_id_from=333.788.videopod.sections&vd_source=3181deb7fb0c10621dd8dbdf8ab90a04)
+- 课程视频：原版课程参考官网，B站也有正在进行的[中文免费精翻](https://www.bilibili.com/video/BV1WE421V7bL?spm_id_from=333.788.videopod.sections&vd_source=3181deb7fb0c10621dd8dbdf8ab90a04)
 - 课程教材：参考课程官网，有无教材基本不影响上课
 - 课程作业：课程官网已经将所有材料排列完备
 
