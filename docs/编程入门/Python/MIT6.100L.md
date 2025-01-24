@@ -23,4 +23,4 @@
 
 @Alidme 在学习这门课时，总结了一个将持续更新的此课程的文档[MIT6.100L食用指南](https://k14eszn58mj.feishu.cn/docx/NFxmd1JxPodkWjxeuHIcSK5Qnag)。
 
-@Alidme 在学习这门课的Prblem Sets的实现都汇总在 [Alidme/repo - GitHub](https://github.com/Alidme/MIT6.100L) 中。
+@Alidme 在学习这门课的Prblem Sets的实现都汇总在 [Alidme/MIT6.100L - GitHub](https://github.com/Alidme/MIT6.100L) 中。
