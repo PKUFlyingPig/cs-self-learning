@@ -22,4 +22,4 @@
 
 ## 资源汇总
 
-@Alidme 在学习这门课时，总结了关于此课程的相关文档 [MIT6.100L 食用指南(持续更新)](https://k14eszn58mj.feishu.cn/docx/NFxmd1JxPodkWjxeuHIcSK5Qnag)。此外，其在学习这门课的 Prblem Sets 的实现都汇总在 [Alidme/MIT6.100L - GitHub](https://github.com/Alidme/MIT6.100L) 中。
+@Alidme 在学习这门课时，总结了关于此课程的相关文档 [MIT6.100L 食用指南(持续更新)](https://k14eszn58mj.feishu.cn/docx/NFxmd1JxPodkWjxeuHIcSK5Qnag)。此外，其在学习这门课的 Problem Sets 的实现都汇总在 [Alidme/MIT6.100L - GitHub](https://github.com/Alidme/MIT6.100L) 中。
