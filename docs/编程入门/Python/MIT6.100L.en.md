@@ -23,4 +23,4 @@ The course consists of 26 lectures with ample in-class and post-class exercises,
 
 ## Personal Resources
 
-All the resources and assignments used by @Alidme in this course are maintained in [Alidme/repo - GitHub](https://github.com/Alidme/MIT6.100L).
+All the resources and assignments used by @Alidme in this course are maintained in [Alidme/MIT6.100L - GitHub](https://github.com/Alidme/MIT6.100L).
