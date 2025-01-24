@@ -6,13 +6,11 @@
 - Prerequisites: None
 - Programming Languages: Python
 - Difficulty: 🌟🌟
-- Class Hour: 40 hours
+- Class Hour: 50 hours+
 
-This course, introduced as part of MIT's curriculum reform in 2022, serves as the introductory programming course for the [6-3](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/) (Computer Science and Engineering), [6-4](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-4-artificial-intelligence-and-decision-making/) (Artificial Intelligence and Decision Making), and [6-5](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-5-electrical-engineering-with-computing/) (Electrical Engineering with Computing) programs. The course covers all content from 6.100A (one of the two mandatory courses for MIT's EECS department).
+This course is an introductory programming requirement for the [Computer Science and Engineering](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/), [Artificial Intelligence and Decision-Making](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-4-artificial-intelligence-and-decision-making/), and [Electrical Engineering and Computation](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-5-electrical-engineering-with-computing/) majors at MIT since the 2022 curriculum reform. It also covers the content of another introductory course, 6.100A.The course topics include fundamental concepts of computation, the Python programming language, basic algorithms and data structures, testing and debugging, and algorithmic complexity.
 
-The instructor, Ana Bell, has been a lecturer in the EECS department for nearly a decade (as of 2022). The course topics include concepts of computation, the Python programming language, basic algorithms and data structures, testing and debugging, and algorithmic complexity.
-
-The course consists of 26 lectures with ample in-class and post-class exercises, all of which include solutions (except for Problem Sets). The course and its assignments are well-paced, and all materials are freely available online. It provides a structured introduction to the world of computer science. To follow along effectively, download the course code in advance and work through it alongside the lectures.
+Professor Ana Bell, who has been a lecturer in the EECS department for many years, delivers clear and engaging explanations. The course consists of 26 lectures. Students are encouraged to download the course code in advance and follow along during the lectures. There is ample practice material both during and after class, with complete solutions provided (except for Problem Sets).With a smooth progression in difficulty, the course's official materials are freely available and open source, making it an excellent choice for beginners to gradually step into the world of Computer Science.
 
 ## Course Resources
 
