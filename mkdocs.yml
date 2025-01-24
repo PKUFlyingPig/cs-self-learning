@@ -169,6 +169,7 @@ nav:
       - Python 语言:
         - "UCB CS61A: Structure and Interpretation of Computer Programs": "编程入门/Python/CS61A.md"
         - "CS50P: CS50's Introduction to Programming with Python": "编程入门/Python/CS50P.md"
+        - "MIT6.100L: Introduction to CS and Programming using Python": "编程入门/Python/MIT6.100L.md"
       - C 语言:
         - "Harvard CS50: This is CS50x": "编程入门/C/CS50.md"
         - "Duke University: Introductory C Programming Specialization": "编程入门/C/Duke-Coursera-Intro-C.md"
