@@ -203,6 +203,8 @@ nav:
       - "CMU 15-213: CSAPP": "计算机系统基础/CSAPP.md"
       - "Stanford CS110: Principles of Computer Systems": "计算机系统基础/CS110.md"
       - "Brown CS0300: Fundamentals of Computer Systems": "计算机系统基础/CS0300.md"
+      - "Harvard CS 61: Systems Programming and Machine Organization": "计算机系统基础/CS61.md"
+
   - 体系结构:
       - "Coursera: Nand2Tetris": "体系结构/N2T.md"
       - "UCB CS61C: Great Ideas in Computer Architecture": "体系结构/CS61C.md"
