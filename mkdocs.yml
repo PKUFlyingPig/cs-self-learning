@@ -261,6 +261,7 @@ nav:
   - 人工智能:
       - "Harvard CS50's Introduction to AI with Python": "人工智能/CS50.md"
       - "UCB CS188: Introduction to Artificial Intelligence": "人工智能/CS188.md"
+      - "Harvard CS182: Artificial Intelligence": "人工智能/CS182.md"
   - 机器学习:
       - "Coursera: Machine Learning": "机器学习/ML.md"
       - "Stanford CS229: Machine Learning": "机器学习/CS229.md"
