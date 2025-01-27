@@ -167,24 +167,24 @@ nav:
       - "MIT-Missing-Semester": "编程入门/MIT-Missing-Semester.md"
       - "Sysadmin DeCal": "编程入门/DeCal.md"
       - Python 语言:
-        - "UCB CS61A: Structure and Interpretation of Computer Programs": "编程入门/Python/CS61A.md"
-        - "CS50P: CS50's Introduction to Programming with Python": "编程入门/Python/CS50P.md"
-        - "MIT6.100L: Introduction to CS and Programming using Python": "编程入门/Python/MIT6.100L.md"
+          - "UCB CS61A: Structure and Interpretation of Computer Programs": "编程入门/Python/CS61A.md"
+          - "CS50P: CS50's Introduction to Programming with Python": "编程入门/Python/CS50P.md"
+          - "MIT6.100L: Introduction to CS and Programming using Python": "编程入门/Python/MIT6.100L.md"
       - C 语言:
-        - "Harvard CS50: This is CS50x": "编程入门/C/CS50.md"
-        - "Duke University: Introductory C Programming Specialization": "编程入门/C/Duke-Coursera-Intro-C.md"
+          - "Harvard CS50: This is CS50x": "编程入门/C/CS50.md"
+          - "Duke University: Introductory C Programming Specialization": "编程入门/C/Duke-Coursera-Intro-C.md"
       - C++ 语言:
-        - "AmirKabir University of Technology AP1400-2: Advanced Programming": "编程入门/cpp/AUT1400.md"
-        - "Stanford CS106L: Standard C++ Programming": "编程入门/cpp/CS106L.md"
-        - "Stanford CS106B/X": "编程入门/cpp/CS106B_CS106X.md"
+          - "AmirKabir University of Technology AP1400-2: Advanced Programming": "编程入门/cpp/AUT1400.md"
+          - "Stanford CS106L: Standard C++ Programming": "编程入门/cpp/CS106L.md"
+          - "Stanford CS106B/X": "编程入门/cpp/CS106B_CS106X.md"
       - Java 语言:
-        - "MIT 6.092: Introduction To Programming In Java": "编程入门/Java/MIT 6.092.md"
+          - "MIT 6.092: Introduction To Programming In Java": "编程入门/Java/MIT 6.092.md"
       - Rust 语言:
-        - "Stanford CS110L: Safety in Systems Programming": "编程入门/Rust/CS110L.md"
-        - "KAIST CS431: Concurrent Programming": "编程入门/Rust/cs431.md"
+          - "Stanford CS110L: Safety in Systems Programming": "编程入门/Rust/CS110L.md"
+          - "KAIST CS431: Concurrent Programming": "编程入门/Rust/cs431.md"
       - 函数式语言:
-        - "Cornell CS3110: OCaml Programming Correct + Efficient + Beautiful": "编程入门/Functional/CS3110.md"
-        - "Haskell MOOC": "编程入门/Functional/Haskell-MOOC.md"
+          - "Cornell CS3110: OCaml Programming Correct + Efficient + Beautiful": "编程入门/Functional/CS3110.md"
+          - "Haskell MOOC": "编程入门/Functional/Haskell-MOOC.md"
   - 电子基础:
       - "EE16A&B: Designing Information Devices and Systems I&II": "电子基础/EE16.md"
       - "UCB EE120 : Signal and Systems": "电子基础/signal.md"
@@ -202,6 +202,9 @@ nav:
   - 计算机系统基础:
       - "CMU 15-213: CSAPP": "计算机系统基础/CSAPP.md"
       - "Stanford CS110: Principles of Computer Systems": "计算机系统基础/CS110.md"
+      - "Brown CS0300: Fundamentals of Computer Systems": "计算机系统基础/CS0300.md"
+      - "Harvard CS 61: Systems Programming and Machine Organization": "计算机系统基础/CS61.md"
+
   - 体系结构:
       - "Coursera: Nand2Tetris": "体系结构/N2T.md"
       - "UCB CS61C: Great Ideas in Computer Architecture": "体系结构/CS61C.md"
@@ -226,6 +229,7 @@ nav:
       - "USTC Computer Networking:A Top-Down Approach": "计算机网络/topdown_ustc.md"
       - "Computer Networking: A Top-Down Approach": "计算机网络/topdown.md"
       - "Stanford CS144: Computer Network": "计算机网络/CS144.md"
+      - "UCB CS168: Computer Network": "计算机网络/CS168.md"
   - 数据库系统:
       - "UCB CS186: Introduction to Database System": "数据库系统/CS186.md"
       - "CMU 15-445: Database Systems": "数据库系统/15445.md"
@@ -260,6 +264,7 @@ nav:
   - 人工智能:
       - "Harvard CS50's Introduction to AI with Python": "人工智能/CS50.md"
       - "UCB CS188: Introduction to Artificial Intelligence": "人工智能/CS188.md"
+      - "Harvard CS182: Artificial Intelligence": "人工智能/CS182.md"
   - 机器学习:
       - "Coursera: Machine Learning": "机器学习/ML.md"
       - "Stanford CS229: Machine Learning": "机器学习/CS229.md"
