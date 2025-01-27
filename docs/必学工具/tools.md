@@ -11,6 +11,7 @@
 -   [BitDownloader](https://bitdownloader.io/): 油管视频下载器。
 -   [qBittorrent](https://www.qbittorrent.org/download.php): BitTorrent 客户端。
 -   [uTorrent](https://www.utorrent.com): BitTorrent 客户端。
+-   [Internet Archive](https://archive.org/):可以查询历史网页快照，用来看已失效网页
 -   [全国标准信息公共服务平台](https://std.samr.gov.cn/)：各类标准查询和下载官方平台。
 -   [标准知识服务系统](http://www.standards.com.cn/)：检索与阅读所需标准。
 -   [MSDN,我告诉你](https://msdn.itellyou.cn/): Windows 操作系统镜像下载站，也有许多其他软件的下载。
