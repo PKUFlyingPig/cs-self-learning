@@ -42,9 +42,6 @@
 -   [gbmb](https://www.gbmb.org/): 数据单位转换。
 -   [tools](https://tools.fun/): 在线工具合集。
 -   [github1s](https://github1s.com/): 用网页版 VS Code 在线阅读 GitHub 代码。
--   [visualgo](https://visualgo.net/en): 算法可视化网站。
--   [DataStructureVisual](http://www.rmboot.com/): 数据结构可视化网站。
--   [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html): 数据结构与算法的可视化网站。
 -   [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN): 可视化学习 git。
 -   [UnicodeCharacter](https://unicode-table.com/en/): Unicode 字符集网站。
 -   [cyrilex](https://extendsclass.com/regex-tester.html): 一个用于测试和可视化正则表达式的网站，支持各种编程语言标准。
@@ -60,8 +57,10 @@
 -   [cs-video-courses](https://github.com/Developer-Y/cs-video-courses): 带有视频讲座的计算机科学课程列表。
 -   [bootlin](https://elixir.bootlin.com/linux/v2.6.39.4/source/include/linux): 在线阅读 Linux 源码。
 -   [ecust-CourseShare](https://github.com/tianyilt/ecnu-PGCourseShare): 华东师范大学研究生课程攻略共享计划。
+-       [khanacademy](https://www.khanacademy.org/computing):可汗学院网课
 -   [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT): 清华大学计算机系课程攻略。
--   [seu-master](https://github.com/oneman233/seu-master): 东南大学研究生课程资料整理。 -[Welcome Newbie Open Source Contributors!](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/tree/main)开源入门资源汇总
+-   [seu-master](https://github.com/oneman233/seu-master): 东南大学研究生课程资料整理。 
+-   [Welcome Newbie Open Source Contributors!](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/tree/main)开源入门资源汇总
 -   [菜鸟教程](https://www.runoob.com/): 计算机相关知识的简要的教程。
 -   [FreeBSD 从入门到跑路](https://book.bsdcn.org/): 一本 FreeBSD 的中文教程。
 -   [MDN Web Docs](https://developer.mozilla.org/zh-CN/docs/Learn): MDN 网络开发入门手册。
