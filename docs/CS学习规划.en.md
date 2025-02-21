@@ -154,6 +154,7 @@ As a computer science student, I often hear arguments about the uselessness of m
 
 - [CS50P: CS50's Introduction to Programming with Python](编程入门/Python/CS50P.md)
 - [UCB CS61A: Structure and Interpretation of Computer Programs](编程入门/Python/CS61A.md)
+- [MIT6.100L: Introduction to CS and Programming using Python](编程入门/Python/MIT6.100L.md)
 
 #### C++
 
