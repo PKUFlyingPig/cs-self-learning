@@ -17,7 +17,7 @@ The designers of this course have also written an open source textbook for this 
 ## Course Resources
 
 - Course Website: <https://github.com/mitmath/18330>
-- Textbook: <https://fncbook.github.io/fnc/frontmatter.html>
+- Textbook: <https://fncbook.com>
 - Assignments: 10 problem sets
 
 ## Personal Resources
