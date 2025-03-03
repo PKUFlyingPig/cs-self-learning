@@ -28,6 +28,7 @@ Note: If you have no prior programming experience at all, getting started with C
 - Course Website (backup): [fall2024](https://insideempire.github.io/CS61A-Website-Archive/), [spring2022](https://cs61a.vercel.app/), [fall2022](https://web.archive.org/web/20220913035803/http://cs61a.org/), [fall2020](https://web.archive.org/web/20201219202644/https://cs61a.org/)
 - Recordings: [spring2024](https://www.bilibili.com/video/BV1sy411z7nA/), [fall2022](https://www.bilibili.com/video/BV1GK411Q7qp/), [fall2020](https://www.bilibili.com/video/BV1s3411G7yM/)
 - [Textbook](https://www.composingprograms.com/)
+- [Epub of the Textbook](https://github.com/CC-bit/UCB-CS61A-Textbook/)
 - [Textbook(Chinese)](https://composingprograms.netlify.app/)
 - Assignments: [fall2024](https://github.com/InsideEmpire/CS61A-Assignments)
 
