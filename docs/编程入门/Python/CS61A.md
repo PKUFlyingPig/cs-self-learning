@@ -28,6 +28,7 @@ CS61B 和 CS61C 在本书中均有收录。
 - 课程网站 (页面备份): [fall2024](https://insideempire.github.io/CS61A-Website-Archive/), [spring2022](https://cs61a.vercel.app/), [fall2022](https://web.archive.org/web/20220913035803/http://cs61a.org/), [fall2020](https://web.archive.org/web/20201219202644/https://cs61a.org/)
 - 课程视频: [spring2024](https://www.bilibili.com/video/BV1sy411z7nA/), [fall2022](https://www.bilibili.com/video/BV1GK411Q7qp/), [fall2020](https://www.bilibili.com/video/BV1s3411G7yM/)
 - [课程教材](https://www.composingprograms.com/)
+- [课程教材电子书](https://github.com/CC-bit/UCB-CS61A-Textbook/)
 - [课程教材中文翻译](https://composingprograms.netlify.app/)
 - 课程作业: [fall2024](https://github.com/InsideEmpire/CS61A-Assignments)
 
