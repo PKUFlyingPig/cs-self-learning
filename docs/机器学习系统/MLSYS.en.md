@@ -8,7 +8,7 @@
 - Course Difficulty: 🌟🌟🌟
 - Estimated Study Hours: 50 hours
 
-This course, offered in the Winter 2025 term by Professor Hao Zhang at the University of California, San Diego, focuses on machine learning systems, encompassing the latest research developments in large (langauge) models, machine learning compilation, and distributed systems.
+This course, offered in the Winter 2025 quarter by Professor Hao Zhang at the University of California, San Diego, focuses on machine learning systems, encompassing the latest research developments in large (langauge) models, machine learning compilation, and distributed systems.
 
 The curriculum is divided into three main sections:
 
