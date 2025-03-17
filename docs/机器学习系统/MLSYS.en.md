@@ -14,7 +14,7 @@ The curriculum is divided into three main sections:
 
 1. **Fundamentals**: Covers topics such as deep learning, automatic differentiation, and an overview of machine learning systems.
 
-2. **Machine Learning Systems and Optimization**: Includes subjects like dataflow graph systems, machine learning compilation, memory and graph optimizations, and distributed machine learning optimization.
+2. **Machine Learning Systems and Optimization**: Includes subjects like machine learning compilation, memory and graph optimizations, and distributed machine learning optimization.
 
 3. **Large (Language) Models**: Explores cutting-edge topics such as training of large language models (LLMs), data preparation, inference and serving, attention mechanism optimization, and retrieval-augmented generation (RAG).
 
