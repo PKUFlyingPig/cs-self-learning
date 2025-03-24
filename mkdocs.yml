@@ -181,6 +181,7 @@ nav:
         - "MIT 6.092: Introduction To Programming In Java": "编程入门/Java/MIT 6.092.md"
       - Rust 语言:
         - "Stanford CS110L: Safety in Systems Programming": "编程入门/Rust/CS110L.md"
+        - "KAIST CS220: Programming Principles": "编程入门/Rust/cs220.md"
         - "KAIST CS431: Concurrent Programming": "编程入门/Rust/cs431.md"
       - 函数式语言:
         - "Cornell CS3110: OCaml Programming Correct + Efficient + Beautiful": "编程入门/Functional/CS3110.md"
