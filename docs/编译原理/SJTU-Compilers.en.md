@@ -19,11 +19,11 @@ In this course, you will learn how to use frameworks such as `flexc++`, `Bisonc+
 - Framework Code: See GitHub
 - Course Textbook: "Tiger Book" (Modern Compiler Implementation in C)
 - 2 Quizzes + 6 Labs
-  - Lab 1: Straight-line Program Interpreter
-  - Lab 2: Lexical Analysis
-  - Lab 3: Parsing
-  - Lab 4: Type Checking
-  - Lab 5:
-    - Part 1: Escape Analysis and Translation
-    - Part 2: Tiger Compiler without Register Allocation
-  - Lab 6: Register Allocation
+    - Lab 1: Straight-line Program Interpreter
+    - Lab 2: Lexical Analysis
+    - Lab 3: Parsing
+    - Lab 4: Type Checking
+    - Lab 5
+        - Part 1: Escape Analysis and Translation
+        - Part 2: Tiger Compiler without Register Allocation
+    - Lab 6: Register Allocation

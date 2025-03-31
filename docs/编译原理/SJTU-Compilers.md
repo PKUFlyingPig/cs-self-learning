@@ -23,11 +23,11 @@
 - 框架代码：参见 GitHub
 - 课程教材：虎书（Modern Compiler Implementation in C）
 - 2 次Quiz + 6 个Lab
-  - Lab 1: Straight-line Program Interpreter
-  - Lab 2: Lexical Analysis
-  - Lab 3: Parsing
-  - Lab 4: Type Checking
-  - Lab 5 
-    - Part 1: Escape Analysis and Translation
-    - Part 2: Tiger Compiler without register allocation
-  - Lab 6: Register Allocation
+    - Lab 1: Straight-line Program Interpreter
+    - Lab 2: Lexical Analysis
+    - Lab 3: Parsing
+    - Lab 4: Type Checking
+    - Lab 5
+        - Part 1: Escape Analysis and Translation
+        - Part 2: Tiger Compiler without register allocation
+    - Lab 6: Register Allocation
