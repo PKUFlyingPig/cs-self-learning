@@ -341,11 +341,11 @@ Due to the rapid development of deep learning, there are now many research branc
 
 - [Stanford CS224n: Natural Language Processing](深度学习/CS224n.md)
 
-#### Graph Neural Networks
+### Graph Neural Networks
 
 - [Stanford CS224w: Machine Learning with Graphs](深度学习/CS224w.md)
 
-#### Reinforcement Learning
+### Reinforcement Learning
 
 - [UCB CS285: Deep Reinforcement Learning](深度学习/CS285.md)
 

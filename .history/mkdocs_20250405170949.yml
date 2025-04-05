@@ -113,7 +113,7 @@ plugins:
             深度学习: Deep Learning
             "国立台湾大学: 李宏毅机器学习": NTU Machine Learning
             机器学习进阶: Advanced Machine Learning
-            大语言模型与智能体: Large Language Models and Agents
+            大语言模型与智能体: Lar and Agents
             进阶路线图: Roadmap
             后记: Postscript
   - search:
@@ -285,7 +285,4 @@ nav:
       - "Columbia STAT 8201: Deep Generative Models": "机器学习进阶/STAT8201.md"
       - "U Toronto STA 4273 Winter 2021: Minimizing Expectations": "机器学习进阶/STA4273.md"
       - "Stanford STATS214 / CS229M: Machine Learning Theory": "机器学习进阶/CS229M.md"
-  - 大语言模型与智能体:
-      - "UCB CS294: Large Language Models": "大语言模型与智能体/CS294.md"
-      - "Andrej Karpathy's Large Language Model Zero to Hero": "大语言模型与智能体/AI_Revolution.md"
   - 后记: "后记.md"

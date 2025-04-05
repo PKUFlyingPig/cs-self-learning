@@ -19,7 +19,6 @@
 ### 1. Introductory Lectures on LLMs
 
 #### [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
-
 - **Key Concepts**:
   - LLM definition and components
   - Training process (data requirements, computational resources)
@@ -55,7 +54,6 @@
   - [56m] WaveNet architecture implementation
 
 #### GPT Implementation
-
 - **[Let's build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY)**:
   - Transformer architecture implementation
   - Attention mechanism explanation
@@ -70,7 +68,6 @@
 ### 3. Tokenizer
 
 #### [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
-
 - Byte Pair Encoding implementation
 - Tokenizer training process
 - Common tokenization issues

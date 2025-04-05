@@ -287,5 +287,7 @@ nav:
       - "Stanford STATS214 / CS229M: Machine Learning Theory": "机器学习进阶/CS229M.md"
   - 大语言模型与智能体:
       - "UCB CS294: Large Language Models": "大语言模型与智能体/CS294.md"
-      - "Andrej Karpathy's Large Language Model Zero to Hero": "大语言模型与智能体/AI_Revolution.md"
+      -
+      - "Stanford CS224u: Transformers for Natural Language Processing": "大语言模型与智能体/CS224u.md"
+      - "Stanford CS224r: Transformers for Natural Language Processing": "大语言模型与智能体/CS224r.md"
   - 后记: "后记.md"

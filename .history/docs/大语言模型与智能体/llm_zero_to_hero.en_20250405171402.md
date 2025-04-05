@@ -70,7 +70,6 @@
 ### 3. Tokenizer
 
 #### [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
-
 - Byte Pair Encoding implementation
 - Tokenizer training process
 - Common tokenization issues
