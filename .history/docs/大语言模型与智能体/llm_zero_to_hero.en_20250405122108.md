@@ -2,10 +2,13 @@
 
 ## Course Overview
 
+- **Affiliation**: Independent (formerly OpenAI, Tesla)
 - **Prerequisites**: 
+  - Solid Python programming skills
+  - Basic calculus knowledge (e.g., derivatives)
 - **Programming Language**: Python
 - **Difficulty Level**: 🌟
-- **Estimated Study Time**: 50 hours
+- **Estimated Study Time**: 50-100 hours
 
 ## Course Resources
 
@@ -42,8 +45,8 @@
 ### 2. Neural Networks: Zero to Hero
 
 #### Building Blocks
-- **Micrograd**: [2h25m] [Introduction to neural networks and backpropagation](https://www.youtube.com/watch?v=VMj-3S1tku0&t=1s)
-- **[Makemore Series](https://www.youtube.com/watch?v=PaCmpygFfXo&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2)**:
+- **Micrograd**: [2h25m] Introduction to neural networks and backpropagation
+- **Makemore Series**:
   - [1h57m] Character-level language modeling
   - [1h15m] Multilayer perceptron implementation
   - [1h55m] Activations, gradients, and BatchNorm
@@ -62,13 +65,30 @@
   - Hyperparameter configuration
   - Results analysis
 
-### 3. Tokenizer
+### 3. Special Topics
 
 #### [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
 - Byte Pair Encoding implementation
 - Tokenizer training process
 - Common tokenization issues
 - Impact on model behavior
+
+## Learning Path Recommendations
+
+1. **Beginners**:
+   - Start with "Intro to Large Language Models"
+   - Proceed through the "Neural Networks: Zero to Hero" series in order
+   - Implement basic versions of each concept
+
+2. **Intermediate Learners**:
+   - Focus on the GPT implementation videos
+   - Experiment with the nanoGPT repository
+   - Study tokenization in depth
+
+3. **Advanced Practitioners**:
+   - Explore llm.c for optimized implementations
+   - Modify architectures for specific use cases
+   - Investigate performance optimization techniques
 
 ## Key Takeaways
 

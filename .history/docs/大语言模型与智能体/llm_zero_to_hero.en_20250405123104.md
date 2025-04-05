@@ -43,7 +43,7 @@
 
 #### Building Blocks
 - **Micrograd**: [2h25m] [Introduction to neural networks and backpropagation](https://www.youtube.com/watch?v=VMj-3S1tku0&t=1s)
-- **[Makemore Series](https://www.youtube.com/watch?v=PaCmpygFfXo&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2)**:
+- **Makemore Series[text](https://www.youtube.com/watch?v=PaCmpygFfXo&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2)**:
   - [1h57m] Character-level language modeling
   - [1h15m] Multilayer perceptron implementation
   - [1h55m] Activations, gradients, and BatchNorm
