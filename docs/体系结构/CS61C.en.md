@@ -18,7 +18,7 @@ In a word, this is the best computer architecture course I have ever taken.
 
 - [Course Website](https://cs61c.org/)
 - Course Website (Backup): [Fa24-WayBack Machine](https://web.archive.org/web/20241219154359/https://cs61c.org/fa24/), [Fa20-WayBack Machine](https://web.archive.org/web/20220120134001/https://inst.eecs.berkeley.edu/~cs61c/fa20/), [Fa20-Backup](https://www.learncs.site/docs/curriculum-resource/cs61c/syllabus)
-- Recordings: [Su20-Bilibili](://www.bilibili.com/video/BV1fC4y147iZ/?share_source=copy_web&vd_source=7c3823b46a52fbbef42b79e01d55c300), [Su20-Youtube](https://youtube.com/playlist?list=PLDoI-XvXO0aqgoMQvogzmf7CKiSMSUS3M&si=62aaH5a_PMGrAT2Y), [Fa20-Bilibili](https://www.bilibili.com/video/BV17b42177VG/?share_source=copy_web&vd_source=7c3823b46a52fbbef42b79e01d55c300), [Fa20-Youtube](https://youtube.com/playlist?list=PL0j-r-omG7i0-mnsxN5T4UcVS1Di0isqf&si=CG1EjQiPcw7r7Vs4)
+- Recordings: [Su20-Bilibili](https://www.bilibili.com/video/BV1fC4y147iZ/?share_source=copy_web&vd_source=7c3823b46a52fbbef42b79e01d55c300), [Su20-Youtube](https://youtube.com/playlist?list=PLDoI-XvXO0aqgoMQvogzmf7CKiSMSUS3M&si=62aaH5a_PMGrAT2Y), [Fa20-Bilibili](https://www.bilibili.com/video/BV17b42177VG/?share_source=copy_web&vd_source=7c3823b46a52fbbef42b79e01d55c300), [Fa20-Youtube](https://youtube.com/playlist?list=PL0j-r-omG7i0-mnsxN5T4UcVS1Di0isqf&si=CG1EjQiPcw7r7Vs4)
 - Assignments: [Fa20-Backup](https://github.com/InsideEmpire/CS61C-Assignment#)
 
 ## Personal Resources
