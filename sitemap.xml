@@ -778,6 +778,13 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://csdiy.wiki/en/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/PKU-Compilers/"/>
     </url>
     <url>
+        <loc>https://csdiy.wiki/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/SJTU-Compilers/</loc>
+        <lastmod>2025-06-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://csdiy.wiki/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/SJTU-Compilers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://csdiy.wiki/en/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/SJTU-Compilers/"/>
+    </url>
+    <url>
         <loc>https://csdiy.wiki/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/USTC-Compilers/</loc>
         <lastmod>2025-06-07</lastmod>
         <changefreq>daily</changefreq>
@@ -1658,6 +1665,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://csdiy.wiki/en/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/PKU-Compilers/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://csdiy.wiki/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/PKU-Compilers/"/>
+    </url>
+    <url>
+        <loc>https://csdiy.wiki/en/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/SJTU-Compilers/</loc>
+        <lastmod>2025-06-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://csdiy.wiki/en/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/SJTU-Compilers/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://csdiy.wiki/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/SJTU-Compilers/"/>
     </url>
     <url>
         <loc>https://csdiy.wiki/en/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/USTC-Compilers/</loc>
