@@ -112,8 +112,10 @@ plugins:
             智能计算系统: Intelligent Computing Systems
             深度学习: Deep Learning
             "国立台湾大学: 李宏毅机器学习": NTU Machine Learning
+            深度生成模型: Deep Generative Models
+            学习路线图: Roadmap
             机器学习进阶: Advanced Machine Learning
-            进阶路线图: Roadmap
+            学习路线图: Roadmap
             后记: Postscript
   - search:
       lang:
@@ -278,8 +280,10 @@ nav:
       - "Stanford CS224n: Natural Language Processing": "深度学习/CS224n.md"
       - "Stanford CS224w: Machine Learning with Graphs": "深度学习/CS224w.md"
       - "UCB CS285: Deep Reinforcement Learning": "深度学习/CS285.md"
+  - 深度生成模型:
+      - "学习路线图": "深度生成模型/roadmap.md"
   - 机器学习进阶:
-      - "进阶路线图": "机器学习进阶/roadmap.md"
+      - "学习路线图": "机器学习进阶/roadmap.md"
       - "CMU 10-708: Probabilistic Graphical Models": "机器学习进阶/CMU10-708.md"
       - "Columbia STAT 8201: Deep Generative Models": "机器学习进阶/STAT8201.md"
       - "U Toronto STA 4273 Winter 2021: Minimizing Expectations": "机器学习进阶/STA4273.md"
