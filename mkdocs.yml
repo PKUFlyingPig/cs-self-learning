@@ -114,6 +114,7 @@ plugins:
             "国立台湾大学: 李宏毅机器学习": NTU Machine Learning
             深度生成模型: Deep Generative Models
             学习路线图: Roadmap
+            "大语言模型": Large Language Models
             机器学习进阶: Advanced Machine Learning
             学习路线图: Roadmap
             后记: Postscript
@@ -282,6 +283,8 @@ nav:
       - "UCB CS285: Deep Reinforcement Learning": "深度学习/CS285.md"
   - 深度生成模型:
       - "学习路线图": "深度生成模型/roadmap.md"
+      - "大语言模型":
+        - "CMU 11868: Large Language Model System": "深度生成模型/大语言模型/CMU11-868.md"
   - 机器学习进阶:
       - "学习路线图": "机器学习进阶/roadmap.md"
       - "CMU 10-708: Probabilistic Graphical Models": "机器学习进阶/CMU10-708.md"
