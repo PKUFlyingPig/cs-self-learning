@@ -14,9 +14,11 @@ Although labeled as a machine learning course, the breadth of topics covered is 
 
 Don't be overly concerned about the difficulty of the assignments. All assignments come with example code from teaching assistants, guiding students through data processing, model building, and more. Students are required to make modifications based on the provided code. This presents an excellent opportunity to learn from high-quality code, and the assignments serve as valuable resources for those looking to breeze through course projects.
 
+The 2025 version of the course has undergone a reform of the course content, focusing more on RAG, AI Agent, LLM all sorts of fancier content; it differs greatly from the 2023 version and previous versions
+
 ## Course Resources
 
-- Course Websites：<https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php>
-- Course Videos：<https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php>
+- Course Websites：[Spring2023](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php), [Spring2025](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php)
+- Course Videos：[Spring2023](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php), [Spring2025](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php)
 - Course Textbook: N/A
-- Course Assignments：<https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php>, 15 labs covering a wide range of deep learning domains
+- Course Assignments：[Spring2023](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)(15 labs covering a wide range of deep learning domains), [Spring2025](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php) (focus on  LLM related work like AI Agent)
