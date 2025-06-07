@@ -1,4 +1,4 @@
-# Advanced Machine Learning
+# Advanced Machine Learning Roadmap
 
 This learning path is suitable for students who have already learned the basics of machine learning (ML, NLP, CV, RL), such as senior undergraduates or junior graduate students, and have published at least one paper in top conferences (NeurIPS, ICML, ICLR, ACL, EMNLP, NAACL, CVPR, ICCV) and are interested in pursuing a research path in machine learning.
 
