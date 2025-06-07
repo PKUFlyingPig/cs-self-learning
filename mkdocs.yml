@@ -284,8 +284,9 @@ nav:
   - 深度生成模型:
       - "学习路线图": "深度生成模型/roadmap.md"
       - "大语言模型":
-        - "CMU 11868: Large Language Model System": "深度生成模型/大语言模型/CMU11-868.md"
-        - "CMU 11667: Large Language Models: Methods and Applications": "深度生成模型/大语言模型/CMU11-667.md"
+        - "CMU 11-868: Large Language Model System": "深度生成模型/大语言模型/CMU11-868.md"
+        - "CMU 11-667: Large Language Models: Methods and Applications": "深度生成模型/大语言模型/CMU11-667.md"
+        - "CMU 11-711: Advanced Natural Language Processing": "深度生成模型/大语言模型/CMU11-711.md"
   - 机器学习进阶:
       - "学习路线图": "机器学习进阶/roadmap.md"
       - "CMU 10-708: Probabilistic Graphical Models": "机器学习进阶/CMU10-708.md"
