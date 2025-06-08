@@ -22,4 +22,4 @@ RL、Compression、Life-Long Learning 以及 Meta Learning。可谓是包罗万�
 - 课程网站：[Spring2023](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php), [Spring2025](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php)
 - 课程视频：[Spring2023](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php), [Spring2025](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php)，每节课的链接参见课程网站
 - 课程教材：无
-- 课程作业：[Spring2023](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php) (5 个 lab，几乎覆盖了主流深度学习的所有领域；部分作业colab上可能无法打开，这时候可以参考弘毅老师的github), [Spring2025](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php)1
+- 课程作业：[Spring2023](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php) (5 个 lab，几乎覆盖了主流深度学习的所有领域；部分作业colab上可能无法打开，这时候可以参考弘毅老师的github), [Spring2025](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php) (主要关注 AI Agent 等 LLM 相关领域)
