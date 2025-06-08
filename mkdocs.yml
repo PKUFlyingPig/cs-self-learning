@@ -227,9 +227,10 @@ nav:
       - "ASU CSE466: Computer Systems Security": "系统安全/CSE466.md"
       - "SU SEED Labs": "系统安全/SEEDLabs.md"
   - 计算机网络:
+      - "UCB CS168: Introduction to the Internet: Architecture and Protocols": "计算机网络/CS168.md"
+      - "Stanford CS144: Computer Network": "计算机网络/CS144.md"
       - "USTC Computer Networking:A Top-Down Approach": "计算机网络/topdown_ustc.md"
       - "Computer Networking: A Top-Down Approach": "计算机网络/topdown.md"
-      - "Stanford CS144: Computer Network": "计算机网络/CS144.md"
   - 数据库系统:
       - "UCB CS186: Introduction to Database System": "数据库系统/CS186.md"
       - "CMU 15-445: Database Systems": "数据库系统/15445.md"
