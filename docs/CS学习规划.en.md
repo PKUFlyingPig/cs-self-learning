@@ -243,11 +243,13 @@ In recent years, the most common phrase heard in CS lectures is "Moore's Law is 
 
 #### Parallel Computing
 
-[CMU 15-418/Stanford CS149: Parallel Computing](并行与分布式系统/CS149.md)
+[CMU 15-418 / Stanford CS149: Parallel Computing](并行与分布式系统/CS149.md) takes you deep into the design principles and trade-offs of modern parallel computing architectures. The course teaches you how to fully leverage hardware resources and software programming frameworks—such as CUDA, MPI, and OpenMP—to write high-performance parallel programs.
 
 #### Distributed Systems
 
-[MIT 6.824: Distributed System](并行与分布式系统/MIT6.824.md)
+[MIT 6.824: Distributed Systems](并行与分布式系统/MIT6.824.md), like MIT 6.S081, is offered by MIT’s renowned PDOS (Parallel and Distributed Operating Systems) lab. The course is taught by Professor Robert Morris, who was once a legendary hacker—famously known for creating the first computer worm, the Morris Worm.
+
+Each lecture focuses on an in-depth reading of a classic paper in the field of distributed systems, through which the course conveys essential principles and key techniques for designing and implementing distributed systems. The course is also famous for its challenging projects: over the course of four progressively difficult programming assignments, students build a key-value store framework based on the Raft consensus algorithm. These projects offer a firsthand experience of the randomness and complexity brought by concurrency and distribution—often felt most acutely during painful debugging sessions.
 
 ### System Security
 
@@ -256,10 +258,6 @@ Whether you chose computer science because of a youthful dream of becoming a hac
 #### Theoretical Courses
 
 [UCB CS161: Computer Security](系统安全/CS161.md) at UC Berkeley covers stack attacks, cryptography, website security, network security, and more.
-
-[ASU CSE365: Introduction to Cybersecurity](系统安全/CSE365.md) at Arizona State University focuses mainly on injections, assembly, and cryptography.
-
-[ASU CSE466: Computer Systems Security](系统安全/CSE466.md) at Arizona State University covers a wide range of topics in system security. It has a high barrier to entry, requiring familiarity with Linux, C, and Python.
 
 [SU SEED Labs](系统安全/SEEDLabs.md) at Syracuse University, supported by a $1.3 million grant from the NSF, has developed hands-on experimental exercises (called SEED Labs) for cybersecurity education. The course emphasizes both theoretical teaching and practical exercises, including detailed open-source lectures, video tutorials, textbooks (printed in multiple languages), and a ready-to-use virtual machine and Docker-based attack-defense environment. This project is currently used by 1,050 institutions worldwide and covers a wide range of topics in computer and information security, including software security, network security, web security, operating system security, and mobile app security.
 
@@ -277,7 +275,8 @@ After mastering this theoretical knowledge, it's essential to cultivate and hone
 
 The renowned [Stanford CS144: Computer Network](计算机网络/CS144.md) includes 8 projects that guide you in implementing the entire TCP/IP protocol stack.
 
-If you're just looking to understand computer networks theoretically, I recommend the famous networking textbook "A Top-Down Approach" and its accompanying learning resources [Computer Networking: A Top-Down Approach](计算机网络/topdown.md).
+If you're mainly interested in gaining a theoretical understanding of computer networks, it's recommended to read the [textbook](https://textbook.cs168.io/) that accompanies the course [UCB CS168](计算机网络/CS168.md).
+
 
 ### Database Systems
 
@@ -295,17 +294,13 @@ Berkeley, as the birthplace of the famous open-source database PostgreSQL, has i
 
 ### Web Development
 
-Front-end development is often overlooked in computer science curricula, but mastering these skills has many benefits, such as building your personal website or creating an impressive presentation website for your course projects.
+Front-end and back-end development are often overlooked in standard computer science curricula, but in reality, having these skills can be extremely beneficial—for example, creating your own personal website or building a polished demo page for a course project.
 
-#### Two-Week Crash Course
-
-[MIT web development course](Web开发/mitweb.md)
-
-#### Systematic Study Version
-
-[Stanford CS142: Web Applications](Web开发/CS142.md)
+If you're looking for a quick, two-week crash course, I recommend the [MIT Web Development Course](Web开发/mitweb.md). For a more comprehensive and structured learning experience, check out [Stanford CS142: Web Applications](Web开发/CS142.md).
 
 ### Computer Graphics
+
+I personally don't have much background in computer graphics, so I've collected a selection of high-quality courses recommended by the community for those interested in exploring the field.
 
 - [Stanford CS148](计算机图形学/CS148.md)
 - [Games101](计算机图形学/GAMES101.md)
@@ -326,28 +321,43 @@ The most significant recent progress in the field of machine learning is the eme
 
 However, completing this course will only give you a general understanding of the field of machine learning. To truly understand the mathematical principles behind these "magical" algorithms or to engage in related research, you need a more "mathematical" course, such as [Stanford CS229: Machine Learning](机器学习/CS229.md) or [UCB CS189: Introduction to Machine Learning](机器学习/CS189.md).
 
+If you plan to pursue scientific research in machine learning theory, you can refer to the [advanced learning roadmap](./机器学习进阶/roadmap.md) shared by [Yao Fu](https://franxyao.github.io/), which includes more in-depth, graduate-level courses.
+
+
 ### Deep Learning
 
 The popularity of AlphaGo a few years ago brought deep learning to the public eye, leading many universities to establish related majors. Many other areas of computer science also use deep learning technology for research, so regardless of your field, you will likely encounter some needs related to neural networks and deep learning. For a quick introduction, I again recommend Andrew Ng's (Enda Wu) [Coursera: Deep Learning](深度学习/CS230.md), a top-rated course on Coursera. Additionally, if you find English-language courses challenging, consider Professor Hongyi Li's course [National Taiwan University: Machine Learning](深度学习/LHY.md). Although titled "Machine Learning," this course covers almost all areas of deep learning and is very comprehensive, making it suitable for getting a broad overview of the field. The professor is also very humorous, with frequent witty remarks in class.
 
 Due to the rapid development of deep learning, there are now many research branches. For further in-depth study, consider the following representative courses:
 
-### Computer Vision
+#### Computer Vision
 
 - [UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision](深度学习/EECS498-007.md)
 - [Stanford CS231n: CNN for Visual Recognition](深度学习/CS231.md)
 
-### Natural Language Processing
+#### Natural Language Processing
 
 - [Stanford CS224n: Natural Language Processing](深度学习/CS224n.md)
 
-### Graph Neural Networks
+#### Graph Neural Networks
 
 - [Stanford CS224w: Machine Learning with Graphs](深度学习/CS224w.md)
 
-### Reinforcement Learning
+#### Reinforcement Learning
 
 - [UCB CS285: Deep Reinforcement Learning](深度学习/CS285.md)
+
+### Deep Learning Systems
+
+As deep learning models grow in importance and demand increasing computational resources, optimizing the underlying systems for training and inference has become increasingly critical. For those looking to enter this field, a highly recommended resource is [CMU 10-414/714: Deep Learning Systems](./机器学习系统/CMU10-414.md). This course provides a comprehensive "full-stack" understanding of deep learning systems—from high-level architectural design of modern frameworks, to the principles and implementation of automatic differentiation, down to low-level hardware acceleration and real-world deployment.
+
+To deepen theoretical understanding, students are tasked with building a deep learning library from scratch, called Needle, as part of the coursework. This library supports automatic differentiation on computational graphs, GPU-based acceleration, and includes modules for loss functions, data loaders, and optimizers. On top of this, students will implement several common neural network architectures including CNNs, RNNs, LSTMs, and Transformers.
+
+For those with foundational knowledge, the next step would be to explore [MIT 6.5940: TinyML and Efficient Deep Learning Computing](./机器学习系统/EML.md), taught by [Professor Song Han](https://hanlab.mit.edu/songhan). This course dives into techniques for making neural networks more efficient, such as pruning, quantization, distillation, and neural architecture search. It also covers cutting-edge system optimizations for advanced models, including large language models.
+
+### Deep Generative Models
+
+With the explosive popularity of large language models, understanding the principles behind them is essential to staying at the forefront of the field. You can refer to my recommended [learning roadmap](./深度生成模型/roadmap.md) for a guided approach to studying this area.
 
 ## Customize Your Course Map
 
