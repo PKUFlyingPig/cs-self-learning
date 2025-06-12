@@ -20,8 +20,8 @@
 
 - 课程网站：<https://ipads.se.sjtu.edu.cn/courses/compilers/index.shtml>
 - 课件：参见课程网站
-- 框架代码：<https://ipads.se.sjtu.edu.cn:2020/compilers-2023/compilers-2023>（无法打开可以使用其他相同且正在维护的仓库，例如<https://gitee.com/east-china-normal-university_ttb_cs/tiger-compiler-25sp>）
-- 课程教材：虎书（Modern Compiler Implementation in C）
+- 框架代码：<https://ipads.se.sjtu.edu.cn:2020/compilers-2024/compilers-2024>（如果无法打开，可以使用其他相同且正在维护的仓库，例如<https://gitee.com/east-china-normal-university_ttb_cs/tiger-compiler-25sp>）
+- 课程教材：虎书（Modern Compiler Implementation in C）<https://ipads.se.sjtu.edu.cn/courses/compilers/textbook/TigerBook-Chinese.pdf>
 - 2 次Quiz + 6 个Lab
     - Lab 1: Straight-line Program Interpreter
     - Lab 2: Lexical Analysis
