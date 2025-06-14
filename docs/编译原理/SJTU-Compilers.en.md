@@ -16,8 +16,8 @@ In this course, you will learn how to use frameworks such as `flexc++`, `Bisonc+
 
 - Course Website: <https://ipads.se.sjtu.edu.cn/courses/compilers/index.shtml>
 - Slides: See the course website
-- Framework Code: See GitHub
-- Course Textbook: "Tiger Book" (Modern Compiler Implementation in C)
+- Framework Code: <https://ipads.se.sjtu.edu.cn:2020/compilers-2024/compilers-2024> (If unable to access, you can use other similar and maintained repositories, such as <https://gitee.com/east-china-normal-university_ttb_cs/tiger-compiler-25sp>)
+- Course Textbook: "Tiger Book" (Modern Compiler Implementation in C) <https://ipads.se.sjtu.edu.cn/courses/compilers/textbook/TigerBook-English.pdf>
 - 2 Quizzes + 6 Labs
     - Lab 1: Straight-line Program Interpreter
     - Lab 2: Lexical Analysis
