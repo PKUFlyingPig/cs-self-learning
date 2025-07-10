@@ -5,6 +5,8 @@
 其实，大语言模型只是深度生成模型的一个分支，而其他生成模型例如 VAE，GAN，Diffusion Model，Flow 等等，都还在“生成”这一领域占有重要地位，所谓的 AIGC，就是泛指这一类技术。
 推荐学习下列课程：
 
+- [MIT 6.S184: Generative AI with Stochastic Differential Equations](./MIT6.S184.md): MIT IAP 小学期的 GenAI 入门课程，主要通过微分方程的视角讲解了 Flow Matching 和 Diffusion Model 背后的数学原理，并且配有简单的小实验让学生在实践中理解，适合对底层数学原理感兴趣的同学入门。
+
 - [MIT 6.S978: Deep Generative Models](https://mit-6s978.github.io/schedule.html): MIT 新晋明星教授何恺明亲授，涵盖了各种生成模型的基础理论和相关前沿论文，几次作业都有丰富的脚手架代码，难度不高但能加深理解，能对这个领域有个快速全貌了解。
 
 - [UCB CS294-158-SP24: Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp24/home): 强化学习领域的顶级巨佬 Pieter Abbeel 主讲，相比 MIT 的课程内容更加丰富全面，并且有配套课程视频和 Slides。此外课后作业只有测试代码，需要学生自主编写模型架构定义和训练代码，虽然硬核但很适合有志于炼丹的同学练手。众所周知，深度学习理论实践中存在着很多经验技巧，魔鬼往往存在于细节里。没有什么比自己上手训一个模型更能掌握这些细节了。

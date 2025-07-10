@@ -286,6 +286,7 @@ nav:
       - "UCB CS285: Deep Reinforcement Learning": "深度学习/CS285.md"
   - 深度生成模型:
       - "学习路线图": "深度生成模型/roadmap.md"
+      - "MIT 6.S184: Generative AI with Stochastic Differential Equations": "深度生成模型/MIT6.S184.md"
       - "大语言模型":
         - "CMU 11-868: Large Language Model System": "深度生成模型/大语言模型/CMU11-868.md"
         - "CMU 11-667: Large Language Models: Methods and Applications": "深度生成模型/大语言模型/CMU11-667.md"
