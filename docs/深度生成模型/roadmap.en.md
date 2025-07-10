@@ -6,6 +6,8 @@ In fact, LLMs are just one branch of deep generative models. Other types such as
 
 Recommended courses for learning:
 
+- [MIT 6.S184: Generative AI with Stochastic Differential Equations](./MIT6.S184.md): An introductory GenAI course offered during MIT's IAP term. It explains the mathematical foundations behind Flow Matching and Diffusion Models from the perspective of differential equations, accompanied by simple hands-on labs to help students grasp the concepts through practice. Ideal for those interested in the underlying mathematical principles.
+
 - [MIT 6.S978: Deep Generative Models](https://mit-6s978.github.io/schedule.html): Taught by MIT’s rising star Prof. Kaiming He, this course covers fundamental theories and cutting-edge papers related to various generative models. The assignments include well-prepared scaffold code. While not overly difficult, they help deepen understanding and provide a quick, comprehensive view of the field.
 
 - [UCB CS294-158-SP24: Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp24/home): Taught by reinforcement learning giant Pieter Abbeel. Compared to the MIT course, this one is more comprehensive and includes lecture videos and slides. The homework only provides test code, so students must implement model architecture and training code themselves. Though demanding, it’s ideal for those who want hands-on experience in training models. As is well known, there are many practical tricks in deep learning, and the devil is often in the details. Nothing teaches those details better than training a model yourself.
