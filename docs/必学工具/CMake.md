@@ -7,3 +7,6 @@ CMake 是类似于 GNU make 的跨平台自动软件构建工具，使用 CMakeL
 ## 如何学习 CMake
 
 `CMakeLists.txt` 比 `Makefile` 更为抽象，理解和使用难度也更大。现阶段很多 IDE (如 Visual Studio, CLion) 提供了自动生成 `CMakeLists.txt` 的功能，但掌握 `CMakeLists.txt` 的基本用法仍然很有必要。除了 [CMake 官方 Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html) 外，上海交通大学 IPADS 组新人培训也提供了[大约一小时的视频教程](https://www.bilibili.com/video/BV14h41187FZ)。
+
+**偏好更系统的学习**
+[Modern CMake for C++: Discover a better approach to building, testing, and packaging your software](https://www.amazon.com/Modern-CMake-Discover-approach-packaging/dp/1801070059)系统的介绍了软件构建,还提供软件构建各个方面的深入阅读材料.
