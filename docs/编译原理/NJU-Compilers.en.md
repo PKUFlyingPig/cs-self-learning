@@ -27,7 +27,7 @@ The biggest takeaway is that there is no longer a sense of difficulty or uncerta
 ## Course Resources
 
 - Course Website: <http://docs.compilers.cpl.icu/>
-- Recordings: <https://space.bilibili.com/479141149/channel/collectiondetail?sid=2312309>
+- Recordings: <https://space.bilibili.com/479141149/lists/2312309>
 - Textbook: Compilers: Principles, Techniques and Tools (Dragon Book)
 - Assignments: 10 written assignments + 8~10 programming labs
 
