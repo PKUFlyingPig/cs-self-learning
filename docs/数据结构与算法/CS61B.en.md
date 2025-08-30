@@ -12,6 +12,8 @@ It is the second course of UC Berkeley's CS61 series. It mainly focuses on the d
 
 I took the version for 2018 Spring. Josh Hug, the instructor, generously made the autograder open-source. You can use [gradescope](https://gradescope.com/) invitation code published on the website for free and easily test your implementation.
 
+According to the professor's latest policy, SP2021 CS61B is now open to the public. To get everything set up, go to Gradescope and select the "Add a course" button. Enter course code **MB7ZPY** to be added.
+
 All programming assignments in this course are done in Java. Students without Java experience don't have to worry. There will be detailed tutorials in the course from the configuration of IDEA to the core syntax and features of Java.
 
 The quality of homework in this class is also unparalleled. The 14 labs will allow you to implement most of the data structures mentioned in the class by yourself, and the 10 homework will allow you to use data structures and algorithms to solve practical problems.
@@ -20,7 +22,7 @@ In addition, there are 3 projects that give you the opportunity to be exposed to
 ## Resources
 ## Course Resources
 
-- Course Website: [spring2024](https://sp24.datastructur.es/), [fall2023](https://fa23.datastructur.es/), [spring2023](https://sp23.datastructur.es/), [spring2018](https://sp18.datastructur.es/)
+- Course Website: [spring2024](https://sp24.datastructur.es/), [fall2023](https://fa23.datastructur.es/), [spring2023](https://sp23.datastructur.es/), [spring2021](https://sp21.datastructur.es/), [spring2018](https://sp18.datastructur.es/)
 - Recordings: refer to the course website
 - Textbook: None
 - Assignments: Slightly different every year. In the spring semester of 2018, there are 14 Labs, 10 Homework and 3 Projects. Please refer to the course website for specific requirements.
