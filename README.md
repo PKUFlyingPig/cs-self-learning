@@ -2,8 +2,7 @@
    <sup>Special thanks to:</sup>
    <br>
    <a href="https://go.warp.dev/cs-self-learning">
-      <img alt="Warp sponsorship" width="400" src="
-https://github.com/warpdotdev/brand-assets/raw/640dffd347439bbcb535321ab36b7281cf4446c0/Github/Sponsor/Warp-Github-LG-02.png">
+      <img alt="Warp sponsorship" width="400" src="https://github.com/warpdotdev/brand-assets/blob/main/Github/Sponsor/Warp-Github-LG-02.png">
    </a>
 
 ### [Warp, built for coding with multiple AI agents](https://go.warp.dev/cs-self-learning)
