@@ -11,9 +11,9 @@ https://github.com/warpdotdev/brand-assets/raw/640dffd347439bbcb535321ab36b7281c
 [Available for MacOS, Linux, & Windows](https://go.warp.dev/cs-self-learning)
 <br>
 
----
-
 </div>
+
+---
 
 <div align="center">
   <img src=./docs/images/title.png >
