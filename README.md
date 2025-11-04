@@ -7,7 +7,7 @@
 
 ### [Warp, built for coding with multiple AI agents](https://go.warp.dev/cs-self-learning)
 
-[Available for MacOS, Linux, & Windows](https://go.warp.dev/cs-self-learning)
+Available for MacOS, Linux, & Windows
 <br>
 
 </div>
