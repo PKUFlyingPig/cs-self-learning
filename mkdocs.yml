@@ -264,7 +264,7 @@ nav:
   - 数据科学:
       - "UCB Data100: Principles and Techniques of Data Science": "数据科学/Data100.md"
   - 人工智能:
-      - "Neural Networks: Zero to Hero": "人工智能/Neural Networks: Zero to Hero.md"
+      - "Neural Networks: Zero to Hero": "人工智能/Neural Networks：Zero to Hero.md"
       - "Harvard CS50's Introduction to AI with Python": "人工智能/CS50.md"
       - "UCB CS188: Introduction to Artificial Intelligence": "人工智能/CS188.md"
   - 机器学习:
