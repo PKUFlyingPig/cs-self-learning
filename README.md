@@ -15,13 +15,13 @@
 <div align="center" markdown="1">
    <sup>Special thanks to:</sup>
    <br>
-   <a href="https://go.automq.com/cswiki_automq">
+   <a href="https://opensource.automq.com">
       <img alt="AutoMQ sponsorship" width="400" src="https://github.com/user-attachments/assets/3bfff2bc-8da2-4936-9354-8834a347a70c">
    </a>
 
-### [学了那么多分布式理论，“工业级”的代码长什么样？](https://go.automq.com/cswiki_automq)
+### [学了那么多分布式理论，“工业级”的代码长什么样？](https://opensource.automq.com)
 
-[AutoMQ 带你深入一线代码，直观理解数据结构与分布式系统的工程实践。](https://go.automq.com/cswiki_automq)
+[AutoMQ 带你深入一线代码，直观理解数据结构与分布式系统的工程实践。](https://opensource.automq.com)
 
 <br>
 
