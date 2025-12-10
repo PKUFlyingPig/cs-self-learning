@@ -3,7 +3,7 @@ name: Sync Upstream
 on:
   workflow_dispatch:   # 手动触发
   schedule:
-    - cron: "0 11 * * *"   # 每天(utc+8)凌晨3点自动同步（可自行设置）
+    - cron: "0 19 * * *"   # 每天(utc+8)凌晨3点自动同步（可自行设置）
 
 permissions:
   contents: write
