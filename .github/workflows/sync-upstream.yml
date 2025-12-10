@@ -1,0 +1,49 @@
+name: Sync Upstream
+
+on:
+  workflow_dispatch:   # 手动触发
+  schedule:
+    - cron: "0 11 * * *"   # 每天(utc)凌晨3点自动同步（可自行设置）
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout your repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # 必须拉取完整历史
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 配置 Git 信息
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      # 添加 upstream（如果不存在）
+      - name: Add upstream remote
+        run: |
+          git remote add upstream https://github.com/PKUFlyingPig/cs-self-learning || true
+          git fetch upstream
+
+#      # 方法1：merge（推荐，最稳定）
+#      - name: Merge upstream into main
+#        run: |
+#          git checkout master
+#          git merge upstream/master --no-edit || true
+
+      # 方法2：rebase（更干净的历史）
+      - name: Rebase onto upstream
+        run: |
+          git checkout master
+          git rebase upstream/master || true
+
+      # 推送到你的仓库
+      - name: Push changes
+        run: |
+          git push origin master
