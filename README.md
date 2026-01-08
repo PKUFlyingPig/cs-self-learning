@@ -1,20 +1,6 @@
 <div align="center" markdown="1">
    <sup>Special thanks to:</sup>
    <br>
-   <a href="https://go.warp.dev/cs-self-learning">
-      <img alt="Warp sponsorship" width="400" src="https://github.com/warpdotdev/brand-assets/blob/main/Github/Sponsor/Warp-Github-LG-02.png">
-   </a>
-
-### [Warp, built for coding with multiple AI agents](https://go.warp.dev/cs-self-learning)
-
-[Available for MacOS, Linux, & Windows](https://go.warp.dev/cs-self-learning)
-<br>
-
-</div>
-
-<div align="center" markdown="1">
-   <sup>Special thanks to:</sup>
-   <br>
    <a href="https://opensource.automq.com">
       <img alt="AutoMQ sponsorship" width="400" src="https://github.com/user-attachments/assets/3bfff2bc-8da2-4936-9354-8834a347a70c">
    </a>
