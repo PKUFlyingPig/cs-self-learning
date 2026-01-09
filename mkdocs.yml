@@ -267,6 +267,8 @@ nav:
       - "Neural Networks: Zero to Hero": "人工智能/Neural Networks：Zero to Hero.md"
       - "Harvard CS50's Introduction to AI with Python": "人工智能/CS50.md"
       - "UCB CS188: Introduction to Artificial Intelligence": "人工智能/CS188.md"
+  - 机器人理论相关:
+      - "国立台湾大学：林沛群机器人学": "机器人理论相关/NTURob1.md"
   - 机器学习:
       - "Coursera: Machine Learning": "机器学习/ML.md"
       - "Stanford CS229: Machine Learning": "机器学习/CS229.md"
