@@ -71,11 +71,13 @@
 - [Python3 Documentation](https://docs.python.org/zh-cn/3/): Python3 官方中文文档。
 - [C++ Reference](https://en.cppreference.com/w/): C++ 参考手册。
 - [OI Wiki](https://oi-wiki.org/): 编程竞赛知识整合站点。
+- [CTF Wiki](https://ctf-wiki.org/)：网络安全竞赛相关知识与工具的整合站点。
 - [Microsoft Learn](https://learn.microsoft.com/zh-cn/): 微软官方的学习平台，包含了绝大多数微软产品的文档。
 - [Arch Wiki](https://wiki.archlinux.org/): 专为 Arch Linux 而写的 Wiki，包含了大量 Linux 相关的知识。
 - [Qt Wiki](https://wiki.qt.io/Main): Qt 官方 Wiki。
 - [OpenCV 中文文档](https://opencv.apachecn.org/#/): OpenCV 的社区版中文文档。
 - [npm Docs](https://docs.npmjs.com/): npm 官方文档。
+- [developer-roadmap](https://roadmap.sh/)：帮助开发者了解学习路径并在职业生涯中不断成长。
 
 ## 交流平台
 - [GitHub](https://github.com/): 许多开源项目的托管平台，也是许多开源项目的主要交流平台，通过查看 issue 可以解决许多问题。

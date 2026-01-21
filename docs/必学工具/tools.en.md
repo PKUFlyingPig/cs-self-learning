@@ -71,11 +71,13 @@
 - [Python3 Documentation](https://docs.python.org/zh-cn/3/): Official Chinese documentation for Python3.
 - [C++ Reference](https://en.cppreference.com/w/): C++ reference manual.
 - [OI Wiki](https://oi-wiki.org/): An integrated site for programming competition knowledge.
+- [CTF Wiki](https://ctf-wiki.org/): An integrated site for knowledge and tools related to cybersecurity competitions.
 - [Microsoft Learn](https://learn.microsoft.com/zh-cn/): Microsoft's official learning platform, containing most Microsoft product documentation.
 - [Arch Wiki](https://wiki.archlinux.org/): Wiki written for Arch Linux, containing a lot of Linux-related knowledge.
 - [Qt Wiki](https://wiki.qt.io/Main): Official Qt Wiki.
 - [OpenCV Chinese Documentation](https://opencv.apachecn.org/#/): Community version of OpenCV's Chinese documentation.
 - [npm Docs](https://docs.npmjs.com/): Official npm documentation.
+- [developer-roadmap](https://roadmap.sh/): provides roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings.
 
 ## Communication Platforms
 
