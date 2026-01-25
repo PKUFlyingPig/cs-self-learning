@@ -18,6 +18,8 @@ OpenAI 的 GPT 系列让大语言模型在 Scaling Law 的指引下展现出惊�
 
 - [Stanford CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/index.html): 正如课程标题写的，在这门课程中你将从头编写大语言模型的所有核心组件，例如 Tokenizer，模型架构，训练优化器，底层算子，训练数据清洗，后训练算法等等。每次作业的 handout 都有四五十页 pdf，相当硬核。如果你想充分吃透大语言模型的所有底层细节，那么非常推荐学习这门课程。
 
+- [CMU 15-779: Advanced Topics in Machine Learning Systems (LLM Edition)](./大语言模型/CMU15-779.md) / [EN](./大语言模型/CMU15-779.en.md): 偏系统与性能优化视角，重点讲清“高层模型如何分解成 kernel 并在异构加速器与分布式环境中高效执行”，覆盖 CUDA、ML 编译、图级优化、自动并行化、LLM Serving 与推理加速等内容，并配套按周论文阅读与期末系统项目。
+
 - [CMU 11868: Large Language Model Systems](https://llmsystem.github.io/llmsystem2025spring/): CMU 的大语言模型系统课程，侧重底层系统优化，例如 GPU 加速，分布式训练和推理，以及各种前沿技术。非常适合从事系统领域的同学对这个方向有个全貌性的了解。课表里还包含了一篇我发表的 PD 分离相关的文章，因此私心推荐一下。课程作业的话会让你先实现一个迷你 Pytorch，然后在上面实现各种大语言模型的系统级优化。
 
 - [CMU 11667: Large Language Models: Methods and Applications](https://cmu-llms.org/) 和 [CMU 11711: Advanced NLP](https://www.phontron.com/class/anlp-fall2024/): 和前两门课相比，这两门课更偏重上层算法和应用，而且每节课都列举了很多相关阅读材料，适合对大语言模型发展前沿的各个方向都有个粗糙的认识，如果对某个子领域感兴趣的话再寻着参考资料深入学习。
