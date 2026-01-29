@@ -19,11 +19,15 @@
 
 ## 课程资源
 
-- 课程网站：<https://cs61c.org/su20/>
-- 课程视频：[B 站](https://www.bilibili.com/video/BV1fC4y147iZ), [Youtube](https://www.youtube.com/playlist?list=PLDoI-XvXO0aqgoMQvogzmf7CKiSMSUS3M)
-- 课程教材：无
-- 课程作业：11 个 Lab，4 个 Project，具体要求详见课程网站
+- [课程网站](https://cs61c.org/)
+- 课程网站 (页面备份): [Fa24-WayBack Machine](https://web.archive.org/web/20241219154359/https://cs61c.org/fa24/), [Fa20-WayBack Machine](https://web.archive.org/web/20220120134001/https://inst.eecs.berkeley.edu/~cs61c/fa20/), [Fa20-备份](https://www.learncs.site/docs/curriculum-resource/cs61c/syllabus)
+- 课程视频: [Su20-Bilibili](https://www.bilibili.com/video/BV1fC4y147iZ/?share_source=copy_web&vd_source=7c3823b46a52fbbef42b79e01d55c300), [Su20-Youtube](https://youtube.com/playlist?list=PLDoI-XvXO0aqgoMQvogzmf7CKiSMSUS3M&si=62aaH5a_PMGrAT2Y), [Fa20-Bilibili](https://www.bilibili.com/video/BV17b42177VG/?share_source=copy_web&vd_source=7c3823b46a52fbbef42b79e01d55c300), [Fa20-Youtube](https://youtube.com/playlist?list=PL0j-r-omG7i0-mnsxN5T4UcVS1Di0isqf&si=CG1EjQiPcw7r7Vs4)
+- 课程作业: [Fa20-备份](https://github.com/InsideEmpire/CS61C-Assignment#)
 
 ## 资源汇总
 
 @PKUFlyingPig 在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPig/CS61C-summer20 - GitHub](https://github.com/PKUFlyingPig/CS61C-summer20) 中。
+
+@InsideEmpire 在学习这门课中用到的所有资源和作业实现都汇总在 [@InsideEmpire/CS61C-fall20 - GitHub](https://github.com/InsideEmpire/CS61C-PathwayToSuccess) 中。
+
+@RisingUppercut 在学习这门课中用到的所有资源和作业实现都汇总在 [@RisingUppercut/CS61C-fall24 - GitHub](https://github.com/RisingUppercut/CS61C_2024_Fall) 中。

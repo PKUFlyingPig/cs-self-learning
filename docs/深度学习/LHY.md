@@ -15,9 +15,11 @@ RL、Compression、Life-Long Learning 以及 Meta Learning。可谓是包罗万�
 
 大家也大可不必担心作业的难度，因为所有作业都会提供助教的示例代码，帮你完成数据处理、模型搭建等，你只需要在其基础上进行适量的修改即可。这也是一个学习别人优质代码的极好机会，大家需要水课程大作业的话，这里也是一个不错的资料来源。
 
+2025年版课程的课程内容发生改革，更加侧重于RAG、AI Agent、LLM种种更fasion的内容；与2023版及之前版本差异极大
+
 ## 课程资源
 
-- 课程网站：<https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php>
-- 课程视频：<https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php>，每节课的链接参见课程网站
+- 课程网站：[Spring2023](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php), [Spring2025](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php)
+- 课程视频：[Spring2023](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php), [Spring2025](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php)，每节课的链接参见课程网站
 - 课程教材：无
-- 课程作业：<https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php>，15 个 lab，几乎覆盖了主流深度学习的所有领域
+- 课程作业：[Spring2023](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php) (5 个 lab，几乎覆盖了主流深度学习的所有领域；部分作业colab上可能无法打开，这时候可以参考弘毅老师的github), [Spring2025](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php) (主要关注 AI Agent 等 LLM 相关领域)

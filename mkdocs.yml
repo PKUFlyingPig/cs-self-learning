@@ -112,8 +112,11 @@ plugins:
             智能计算系统: Intelligent Computing Systems
             深度学习: Deep Learning
             "国立台湾大学: 李宏毅机器学习": NTU Machine Learning
+            深度生成模型: Deep Generative Models
+            学习路线图: Roadmap
+            "大语言模型": Large Language Models
             机器学习进阶: Advanced Machine Learning
-            进阶路线图: Roadmap
+            学习路线图: Roadmap
             后记: Postscript
   - search:
       lang:
@@ -181,6 +184,7 @@ nav:
         - "MIT 6.092: Introduction To Programming In Java": "编程入门/Java/MIT 6.092.md"
       - Rust 语言:
         - "Stanford CS110L: Safety in Systems Programming": "编程入门/Rust/CS110L.md"
+        - "KAIST CS220: Programming Principles": "编程入门/Rust/cs220.md"
         - "KAIST CS431: Concurrent Programming": "编程入门/Rust/cs431.md"
       - 函数式语言:
         - "Cornell CS3110: OCaml Programming Correct + Efficient + Beautiful": "编程入门/Functional/CS3110.md"
@@ -223,9 +227,10 @@ nav:
       - "ASU CSE466: Computer Systems Security": "系统安全/CSE466.md"
       - "SU SEED Labs": "系统安全/SEEDLabs.md"
   - 计算机网络:
+      - "UCB CS168: Introduction to the Internet: Architecture and Protocols": "计算机网络/CS168.md"
+      - "Stanford CS144: Computer Network": "计算机网络/CS144.md"
       - "USTC Computer Networking:A Top-Down Approach": "计算机网络/topdown_ustc.md"
       - "Computer Networking: A Top-Down Approach": "计算机网络/topdown.md"
-      - "Stanford CS144: Computer Network": "计算机网络/CS144.md"
   - 数据库系统:
       - "UCB CS186: Introduction to Database System": "数据库系统/CS186.md"
       - "CMU 15-445: Database Systems": "数据库系统/15445.md"
@@ -238,6 +243,7 @@ nav:
       - "NJU 编译原理": "编译原理/NJU-Compilers.md"
       - "KAIST CS420: Compiler Design": "编译原理/CS420.md"
       - "USTC 编译原理与技术": "编译原理/USTC-Compilers.md"
+      - "SJTU 编译原理": "编译原理/SJTU-Compilers.md"
   - 编程语言设计与分析:
       - "Stanford CS242: Programming Languages": "编程语言设计与分析/CS242.md"
       - "NJU 软件分析": "编程语言设计与分析/NJU-SoftwareAnalysis.md"
@@ -258,6 +264,7 @@ nav:
   - 数据科学:
       - "UCB Data100: Principles and Techniques of Data Science": "数据科学/Data100.md"
   - 人工智能:
+      - "Neural Networks: Zero to Hero": "人工智能/Neural Networks：Zero to Hero.md"
       - "Harvard CS50's Introduction to AI with Python": "人工智能/CS50.md"
       - "UCB CS188: Introduction to Artificial Intelligence": "人工智能/CS188.md"
   - 机器学习:
@@ -277,8 +284,15 @@ nav:
       - "Stanford CS224n: Natural Language Processing": "深度学习/CS224n.md"
       - "Stanford CS224w: Machine Learning with Graphs": "深度学习/CS224w.md"
       - "UCB CS285: Deep Reinforcement Learning": "深度学习/CS285.md"
+  - 深度生成模型:
+      - "学习路线图": "深度生成模型/roadmap.md"
+      - "MIT 6.S184: Generative AI with Stochastic Differential Equations": "深度生成模型/MIT6.S184.md"
+      - "大语言模型":
+        - "CMU 11-868: Large Language Model System": "深度生成模型/大语言模型/CMU11-868.md"
+        - "CMU 11-667: Large Language Models: Methods and Applications": "深度生成模型/大语言模型/CMU11-667.md"
+        - "CMU 11-711: Advanced Natural Language Processing": "深度生成模型/大语言模型/CMU11-711.md"
   - 机器学习进阶:
-      - "进阶路线图": "机器学习进阶/roadmap.md"
+      - "学习路线图": "机器学习进阶/roadmap.md"
       - "CMU 10-708: Probabilistic Graphical Models": "机器学习进阶/CMU10-708.md"
       - "Columbia STAT 8201: Deep Generative Models": "机器学习进阶/STAT8201.md"
       - "U Toronto STA 4273 Winter 2021: Minimizing Expectations": "机器学习进阶/STA4273.md"

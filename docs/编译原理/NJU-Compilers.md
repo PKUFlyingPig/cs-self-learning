@@ -33,7 +33,7 @@ ANTLR 4 是 LL 解析器生成器，比起 LR 和 LALR 解析器生成器，它�
 ## 课程资源
 
 - 课程网站：<http://docs.compilers.cpl.icu/>
-- 课程视频：<https://space.bilibili.com/479141149/channel/collectiondetail?sid=2312309>
+- 课程视频：<https://space.bilibili.com/479141149/lists/2312309>
 - 课程教材：龙书等
 - 课程作业：10 个书面作业 + 8 ~ 10 个编程作业带你实现一个编译器
 
