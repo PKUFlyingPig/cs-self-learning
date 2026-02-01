@@ -13,5 +13,5 @@ Just as the course name indicated, this course will teach the missing things in 
 ## Course Resources
 
 - Course Website: <https://missing.csail.mit.edu/>
-- Recordings: <https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J>
+- Recordings: [IAP 2020](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J), [IAP 2026](https://www.youtube.com/playlist?list=PLyzOVJj3bHQunmnnTXrNbZnBaCA-ieK4L) in YouTube
 - Assignments: Some exercises after each lecture, refer to the course website.
