@@ -276,6 +276,7 @@ nav:
       - "CMU 10-414/714: Deep Learning Systems": "机器学习系统/CMU10-414.md"
       - "MIT6.5940: TinyML and Efficient Deep Learning Computing": "机器学习系统/EML.md"
       - "Machine Learning Compilation": "机器学习系统/MLC.md"
+      - "UCSD CSE234: Data Systems for Machine Learning": "机器学习系统/CSE234.md"
   - 深度学习:
       - "Coursera: Deep Learning": "深度学习/CS230.md"
       - "国立台湾大学: 李宏毅机器学习": "深度学习/LHY.md"
