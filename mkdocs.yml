@@ -213,7 +213,7 @@ nav:
       - "ETHz: Computer Architecture": "体系结构/CA.md"
   - 操作系统:
       - "MIT 6.S081: Operating System Engineering": "操作系统/MIT6.S081.md"
-      - "UCB CS162: Operating System": "操作系统/CS162.md"
+      - "UCB CS162: Operating Systems and Systems Programming": "操作系统/CS162.md"
       - "NJU OS: Operating System Design and Implementation": "操作系统/NJUOS.md"
       - "HIT OS: Operating System": "操作系统/HITOS.md"
   - 并行与分布式系统:
