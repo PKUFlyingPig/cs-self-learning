@@ -330,6 +330,14 @@ The popularity of AlphaGo a few years ago brought deep learning to the public ey
 
 Due to the rapid development of deep learning, there are now many research branches. For further in-depth study, consider the following representative courses:
 
+If you want rigorous fundamentals, start with CMU 11-785: it is dense, practical, and has very little filler content. MIT 6.7960 provides broader coverage beyond mainstream LLM topics, including CV-oriented material, and its assignments/projects are feasible for self-learners. NYU DLSP21 is especially notable because it is taught by Yann LeCun, offering a rare public opportunity to follow a full deep learning course from him.
+
+#### Fundamentals and Breadth
+
+- [CMU 11-785: Introduction to Deep Learning](深度学习/CMU11-785.md)
+- [MIT 6.7960: Deep Learning](深度学习/MIT6-7960.md)
+- [NYU DLSP21: NYU Deep Learning Spring 2021](深度学习/NYU-DLSP21.md)
+
 #### Computer Vision
 
 - [UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision](深度学习/EECS498-007.md)
