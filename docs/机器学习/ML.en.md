@@ -14,9 +14,11 @@ The class is extremely friendly to novices, and Andrew has the ability to make m
 
 Of course, as a public mooc, the difficulty of this course has been deliberately lowered, and many mathematical derivations are skimmed over. If you are interested in machine learning theory and want to investigate the mathematical theory behind these algorithms, you can refer to [CS229](./CS229.md) and [CS189](./CS189.md).
 
+The new course is rebuilt into a specialization consisting of three courses.
+
 ## Course Resources
 
-- Course Website: <https://www.coursera.org/learn/machine-learning>
+- Course Website: <https://www.coursera.org/specializations/machine-learning-introduction>
 - Recordings: refer to the course website
 - Textbook: None
 - Assignments: refer to the course website
