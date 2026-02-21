@@ -323,6 +323,16 @@ Berkeley 作为著名开源数据库 postgres 的发源地也不遑多让，[UCB
 
 当然因为深度学习领域发展非常迅速，已经拥有了众多研究分支，如果想要进一步深入，可以按需学习下面罗列的代表课程:
 
+如果你想系统打牢基础，可以优先看 CMU 11-785：这门课风格非常扎实，内容一点不水，作业也能很好地锻炼训练与调参能力；MIT 6.7960 的覆盖面更广，除了主流 LLM 路线之外也兼顾 CV 等方向，作业和项目对自学者也比较友好；NYU DLSP21 的亮点则是 Yann LeCun 亲自授课，对很多人来说这是非常难得的公开系统课程资源。
+
+#### 综合与基础
+
+[CMU 11-785: Introduction to Deep Learning](深度学习/CMU11-785.md)
+
+[MIT 6.7960: Deep Learning](深度学习/MIT6-7960.md)
+
+[NYU DLSP21: NYU Deep Learning Spring 2021](深度学习/NYU-DLSP21.md)
+
 #### 计算机视觉
 
 [UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision](深度学习/EECS498-007.md)
