@@ -5,7 +5,7 @@
 - Offered by: UC Berkeley
 - Prerequisites: None
 - Programming Languages: Python, Scheme, SQL
-- Difficulty: 🌟🌟
+- Difficulty: 🌟🌟🌟
 - Class Hour: 50 hours
 
 This is the first course in the Berkeley CS61 series, and my introductory course to Python.
@@ -24,16 +24,15 @@ Note: If you have no prior programming experience at all, getting started with C
 
 ## Course Resources
 
-- [Course Website](https://cs61a.org)
-- Course Website (backup): [fall2024](https://insideempire.github.io/CS61A-Website-Archive/), [spring2022](https://cs61a.vercel.app/), [fall2022](https://web.archive.org/web/20220913035803/http://cs61a.org/), [fall2020](https://web.archive.org/web/20201219202644/https://cs61a.org/)
+- Course Website: [Latest](https://cs61a.org/)
+- Course Website Backups: [fall2024](https://insideempire.github.io/CS61A-Website-Archive/), [spring2022](https://cs61a.vercel.app/)
 - Recordings: [spring2024](https://www.bilibili.com/video/BV1sy411z7nA/), [fall2022](https://www.bilibili.com/video/BV1GK411Q7qp/), [fall2020](https://www.bilibili.com/video/BV1s3411G7yM/)
-- [Textbook](https://www.composingprograms.com/)
-- [Epub of the Textbook](https://github.com/CC-bit/UCB-CS61A-Textbook/)
-- [Textbook(Chinese)](https://composingprograms.netlify.app/)
-- Assignments: [fall2024](https://github.com/InsideEmpire/CS61A-Assignments)
+- Textbook: [Composing Programs](https://www.composingprograms.com/), [Chinese Translation](https://composingprograms.netlify.app/), [Ebook](https://github.com/CC-bit/UCB-CS61A-Textbook/)
 
 ## Personal Resources
 
 All the resources and assignments used by @PKUFlyingPig in this course are maintained in [PKUFlyingPig/CS61A - GitHub](https://github.com/PKUFlyingPig/CS61A)
 
 All the resources and assignments used by @InsideEmpire in this course are maintained in [InsideEmpire/CS61A - GitHub](https://github.com/InsideEmpire/CS61A-PathwayToSuccess/)
+
+All the resources and assignments used by @mancuoj in this course are maintained in [csfive/CS61A - GitHub](https://github.com/csfive/CS61A)
