@@ -20,6 +20,7 @@ In a word, this is the best computer architecture course I have ever taken.
 - Course Website (Backup): [Fa24-WayBack Machine](https://web.archive.org/web/20241219154359/https://cs61c.org/fa24/), [Fa24-Backup](https://z0z0r4.github.io/cs61c-fa24-website/), [Fa20-WayBack Machine](https://web.archive.org/web/20220120134001/https://inst.eecs.berkeley.edu/~cs61c/fa20/), [Fa20-Backup](https://www.learncs.site/docs/curriculum-resource/cs61c/syllabus)
 - Recordings: [Fa24-Bilibili](https://www.bilibili.com/video/BV1eGwFeQEfm), [Su20-Bilibili](https://www.bilibili.com/video/BV1fC4y147iZ), [Su20-Youtube](https://youtube.com/playlist?list=PLDoI-XvXO0aqgoMQvogzmf7CKiSMSUS3M&si=62aaH5a_PMGrAT2Y), [Fa20-Bilibili](https://www.bilibili.com/video/BV17b42177VG), [Fa20-Youtube](https://youtube.com/playlist?list=PL0j-r-omG7i0-mnsxN5T4UcVS1Di0isqf&si=CG1EjQiPcw7r7Vs4)
 - Assignments: [Fa20-Backup](https://github.com/InsideEmpire/CS61C-Assignment#)
+- Course Notes: [CS 61C: Course Notes](https://notes.cs61c.org/)
 
 ## Personal Resources
 
