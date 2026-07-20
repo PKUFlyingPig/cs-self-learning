@@ -14,7 +14,7 @@ In addition to the course materials, the famous Youtuber **3Blue1Brown**'s video
 
 ## Course Resources
 
-- Course Website: [18.01](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/syllabus/), [18.02](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
+- Course Website: [18.01](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/), [18.02](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
 - Recordings: refer to course website
 - Textbook: refer to course website
 - Assignments: refer to course website
