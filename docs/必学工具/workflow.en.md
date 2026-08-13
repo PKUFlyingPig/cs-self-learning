@@ -119,3 +119,4 @@ By the way, this article discusses the evolution of the workflow. If you're inte
 
 1. [3000+ Hours Accumulated Learning Workflow](https://sspai.com/post/75969)
 2. [Advanced Techniques in Obsidian | Creating Notes that Link to Any File Format](https://juejin.cn/post/7145351315705577485)
+3. [Obsidian Workflow Overview Video Sharing](https://www.bilibili.com/video/BV19At3emEuU/?vd_source=fc2cc5a122e0091fcf3d1453b89a917c)
