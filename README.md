@@ -43,7 +43,7 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=PKUFlyingPig/cs-self-learning&type=Timeline)](https://star-history.com/#PKUFlyingPig/cs-self-learning&Timeline)
+[![Star History Chart](https://star-history.dera.page/svg?repos=PKUFlyingPig/cs-self-learning&type=Timeline)](https://star-history.dera.page/#PKUFlyingPig/cs-self-learning&Timeline)
 
 ## ✨ 鸣谢
 
