@@ -9,6 +9,8 @@
 
 - [MIT 6.S978: Deep Generative Models](https://mit-6s978.github.io/schedule.html): MIT 新晋明星教授何恺明亲授，涵盖了各种生成模型的基础理论和相关前沿论文，几次作业都有丰富的脚手架代码，难度不高但能加深理解，能对这个领域有个快速全貌了解。
 
+- [Stanford CS236: Deep Generative Models](https://deepgenerativemodels.github.io/): Stanford 的经典生成模型课程，由 Stefano Ermon 主讲，从 Autoregressive Model 和 Maximum Likelihood 出发，系统覆盖 VAE、Normalizing Flow、GAN、EBM、Score-based Model 和 Diffusion Model 等主流生成模型。相比 MIT 6.S184，这门课更偏概率建模视角，ELBO、Change of Variables、Score Matching 等常见概念都会从头推导，数学不少但循序渐进。如果你不满足于“会调 Diffusion”，而是想真正理解各种生成模型为什么这样设计，非常推荐把这门课作为主线系统学习。
+
 - [UCB CS294-158-SP24: Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp24/home): 强化学习领域的顶级巨佬 Pieter Abbeel 主讲，相比 MIT 的课程内容更加丰富全面，并且有配套课程视频和 Slides。此外课后作业只有测试代码，需要学生自主编写模型架构定义和训练代码，虽然硬核但很适合有志于炼丹的同学练手。众所周知，深度学习理论实践中存在着很多经验技巧，魔鬼往往存在于细节里。没有什么比自己上手训一个模型更能掌握这些细节了。
 
 - [CMU 10423: Generative AI](https://www.cs.cmu.edu/~mgormley/courses/10423/schedule.html): CMU 的 GenAI 课程，相比前两门课更侧重于大语言模型一些，其他内容和前两门课重合较多。不过课程作业都挺有意思，推荐闲暇时间练练手。
