@@ -218,7 +218,7 @@ nav:
       - "HIT OS: Operating System": "操作系统/HITOS.md"
   - 并行与分布式系统:
       - "CMU 15-418/Stanford CS149: Parallel Computing": "并行与分布式系统/CS149.md"
-      - "MIT 6.824: Distributed System": "并行与分布式系统/MIT6.824.md"
+      - "MIT 6.5840 (6.824): Distributed System": "并行与分布式系统/MIT6.824.md"
   - 计算机系统安全:
       - "UCB CS161: Computer Security": "系统安全/CS161.md"
       - "MIT 6.1600: Foundations of Computer Security": "系统安全/MIT6.1600.md"

@@ -247,9 +247,9 @@ In recent years, the most common phrase heard in CS lectures is "Moore's Law is 
 
 #### Distributed Systems
 
-[MIT 6.824: Distributed Systems](并行与分布式系统/MIT6.824.md), like MIT 6.S081, is offered by MIT’s renowned PDOS (Parallel and Distributed Operating Systems) lab. The course is taught by Professor Robert Morris, who was once a legendary hacker—famously known for creating the first computer worm, the Morris Worm.
+[MIT 6.5840 (formerly 6.824): Distributed Systems](并行与分布式系统/MIT6.824.md), like MIT 6.S081, is offered by MIT’s renowned PDOS (Parallel and Distributed Operating Systems) lab. The course is taught by Professor Robert Morris, who was once a legendary hacker—famously known for creating the first computer worm, the Morris Worm.
 
-Each lecture focuses on an in-depth reading of a classic paper in the field of distributed systems, through which the course conveys essential principles and key techniques for designing and implementing distributed systems. The course is also famous for its challenging projects: over the course of four progressively difficult programming assignments, students build a key-value store framework based on the Raft consensus algorithm. These projects offer a firsthand experience of the randomness and complexity brought by concurrency and distribution—often felt most acutely during painful debugging sessions.
+Each lecture focuses on an in-depth reading of a classic paper in the field of distributed systems, through which the course conveys essential principles and key techniques for designing and implementing distributed systems. The course is also famous for its challenging projects: over the course of five progressively difficult programming assignments, students build a key-value store framework based on the Raft consensus algorithm. These projects offer a firsthand experience of the randomness and complexity brought by concurrency and distribution—often felt most acutely during painful debugging sessions.
 
 ### System Security
 
