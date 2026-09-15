@@ -1,4 +1,4 @@
-# MIT6.824: Distributed System
+# MIT 6.5840 (formerly 6.824): Distributed System
 
 ## Descriptions
 
@@ -8,18 +8,20 @@
 - Difficulty: 🌟🌟🌟🌟🌟🌟
 - Class Hour: 200 hours
 
+Since Spring 2023, this course has been renumbered from 6.824 to 6.5840. The content remains the same.
+
 This course, the same as MIT 6.S081, comes from the renowned MIT PDOS Lab. The instructor, Professor Robert Morris, was once a famous hacker who created 'Morris', the first worm virus in the world.
 
-Each lecture will discuss a classic paper in the field of distributed systems, teaching you the important principles and key techniques of distributed systems design and implementation. The Project is known for its difficulty. In four programming assignments, you will implement a KV-store framework step by step based on the Raft consensus algorithm, allowing you to experience the randomness and complexity to implement and debug a distributed system.
+Each lecture will discuss a classic paper in the field of distributed systems, teaching you the important principles and key techniques of distributed systems design and implementation. The Project is known for its difficulty. In five programming assignments, you will implement a KV-store framework step by step based on the Raft consensus algorithm, allowing you to experience the randomness and complexity to implement and debug a distributed system.
 
 This course is so famous that you can easily have access to the project solutions on the Internet. It is highly recommended to implement the projects on your own.
 
 ## Resources
 
-- Course Website: <https://pdos.csail.mit.edu/6.824/schedule.html>
+- Course Website: <https://pdos.csail.mit.edu/6.5840/schedule.html>
 - Assignments: refer to the course website.
 - Textbook: None
-- Assignments: 4 torturing projects, the course website has specific requirements.
+- Assignments: 5 torturing projects, the course website has specific requirements.
 
 ## Personal Resources
 
