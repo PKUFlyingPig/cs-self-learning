@@ -229,7 +229,7 @@ Computer systems are a vast and profound topic. Before delving into a specific a
 
 Operating systems provide a set of elegant abstractions to virtualize various complex underlying hardware, providing rich functional support for all application software. Understanding the design principles and internal mechanisms of operating systems is greatly beneficial for a programmer who is not satisfied with just being a coder. Out of love for operating systems, I have taken many operating system courses in different colleges, each with its own focus and merits. You can choose based on your interests.
 
-[MIT 6.S081: Operating System Engineering](操作系统/MIT6.S081.md), offered by the famous PDOS lab at MIT, features 11 projects that modify an elegantly implemented Unix-like operating system xv6. This course made me realize that systems is not about reading PPTs; it's about writing tens of thousands of lines of code.
+[MIT 6.1810 (formerly 6.S081): Operating System Engineering](操作系统/MIT6.S081.md), offered by the famous PDOS lab at MIT, features 11 projects that modify an elegantly implemented Unix-like operating system xv6. This course made me realize that systems is not about reading PPTs; it's about writing tens of thousands of lines of code.
 
 [UCB CS162: Operating System](操作系统/CS162.md), UC Berkeley’s operating system course, uses the same Project as Stanford — an educational operating system, Pintos. As the teaching assistant for Peking University’s 2022 and 2023 Spring Semester Operating Systems Course, I introduced and improved this Project. The course resources are fully open-sourced, with details on [the course website](https://pku-os.github.io).
 

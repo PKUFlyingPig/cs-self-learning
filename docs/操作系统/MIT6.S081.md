@@ -1,4 +1,4 @@
-# MIT 6.S081: Operating System Engineering
+# MIT 6.1810 (原 6.S081): Operating System Engineering
 
 ## 课程简介
 
@@ -7,6 +7,8 @@
 - 编程语言：C, RISC-V
 - 课程难度：🌟🌟🌟🌟🌟
 - 预计学时：150 小时
+
+这门课自 2022 年秋季学期起，课程编号由 6.S081 变更为 6.1810，课程内容保持不变。
 
 麻省理工学院大名鼎鼎的 PDOS 实验室开设的面向MIT本科生的操作系统课程。开设这门课的教授之一 —— Robert Morris 教授曾是一位顶尖黑客，世界上第一个蠕虫病毒 Morris 就是出自他之手。
 
@@ -20,7 +22,7 @@
 
 ## 课程资源
 
-- 课程网站：<https://pdos.csail.mit.edu/6.828/2021/schedule.html>
+- 课程网站：<https://pdos.csail.mit.edu/6.828/2021/schedule.html>（2021 年秋季版本，与下方中文翻译文档对应；最新一届见 <https://pdos.csail.mit.edu/6.1810/>）
 - 课程视频：<https://www.youtube.com/watch?v=L6YqHxYHa7A>，每节课的链接详见课程网站
 - 课程视频翻译文档：<https://mit-public-courses-cn-translatio.gitbook.io/mit6-s081/>
 - 课程教材：<https://pdos.csail.mit.edu/6.828/2021/xv6/book-riscv-rev2.pdf>
