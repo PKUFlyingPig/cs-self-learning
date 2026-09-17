@@ -18,7 +18,7 @@ The course content includes:
 
 The assignments in the lab are not very difficult, and many of them are discussed in the following lecture after each lab session. The key point to note is that coding is a skill that requires practical experience. For beginners, the most important aspect of learning to code is to practice and write code regularly, whether in lectures or lab sessions.
 
-For those who want to advance after completing this course, you can consider studying [MIT 6.005/6.031](../../软件工程/6031.en.md).
+For those who want to advance after completing this course, you can consider studying [MIT 6.102 (formerly 6.005/6.031)](../../软件工程/6031.en.md).
 
 ## Course Resources
 

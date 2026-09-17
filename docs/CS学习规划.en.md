@@ -197,7 +197,7 @@ For those interested in more advanced algorithms and NP problems, consider UC Be
 
 #### Introductory Course
 
-There is a fundamental difference between “working” code and high-quality industrial code. Therefore, I highly recommend senior students to take [MIT 6.031: Software Construction](软件工程/6031.md). Based on Java, this course teaches how to write high-quality code that is **bug-resistant, clear, and easy to maintain and modify** with rich and detailed reading materials and well-designed programming exercises. From macro data structure design to minor details like how to write comments, following these details and experiences summarized by predecessors can greatly benefit your future programming career.
+There is a fundamental difference between “working” code and high-quality industrial code. Therefore, I highly recommend senior students to take [MIT 6.102 (formerly 6.031): Software Construction](软件工程/6031.md). Based on Java, this course teaches how to write high-quality code that is **bug-resistant, clear, and easy to maintain and modify** with rich and detailed reading materials and well-designed programming exercises. From macro data structure design to minor details like how to write comments, following these details and experiences summarized by predecessors can greatly benefit your future programming career.
 
 
 
