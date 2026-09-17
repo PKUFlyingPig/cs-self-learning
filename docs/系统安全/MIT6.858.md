@@ -1,4 +1,4 @@
-# MIT 6.858: Computer System Security
+# MIT 6.566 (原 6.858): Computer System Security
 
 ## 课程简介
 
@@ -7,6 +7,8 @@
 - 编程语言：C, Python
 - 课程难度：🌟🌟🌟🌟🌟
 - 预计学时：150 小时
+
+这门课自 2023 年春季学期起，课程编号由 6.858 变更为 6.5660，2024 年春季学期起进一步简化为 6.566，课程内容保持不变。
 
 MIT 的计算机系统安全课程，实验环境是一个 Web Application Zoobar。学生学习攻防技术并应用于该 Web Application。
 
@@ -21,7 +23,7 @@ MIT 的计算机系统安全课程，实验环境是一个 Web Application Zooba
 
 ## 课程资源
 
-- 课程网站：<http://css.csail.mit.edu/6.858/2022/>
+- 课程网站：<https://css.csail.mit.edu/6.566/2026/>（最新一届；上方 Final Project 的描述对应 [2022 年春季版本](https://css.csail.mit.edu/6.858/2022/)）
 - 课程视频：参见课程网站
 - 课程教材：无
 - 课程作业：4 个 Lab + Final Project / Lab5
