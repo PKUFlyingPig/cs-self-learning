@@ -7,6 +7,8 @@
 
 - [MIT 6.S184: Generative AI with Stochastic Differential Equations](./MIT6.S184.md): MIT IAP 小学期的 GenAI 入门课程，主要通过微分方程的视角讲解了 Flow Matching 和 Diffusion Model 背后的数学原理，并且配有简单的小实验让学生在实践中理解，适合对底层数学原理感兴趣的同学入门。
 
+- [MIT 6.S183: A Practical Introduction to Diffusion Models](./MIT6.S183.md): MIT IAP 2026 的实践型扩散模型短课，公开 6 讲录像、两次作业与 mini project，并使用轻量 `smalldiffusion` 教学代码；适合与偏数学视角的 MIT 6.S184 搭配学习。
+
 - [MIT 6.S978: Deep Generative Models](https://mit-6s978.github.io/schedule.html): MIT 新晋明星教授何恺明亲授，涵盖了各种生成模型的基础理论和相关前沿论文，几次作业都有丰富的脚手架代码，难度不高但能加深理解，能对这个领域有个快速全貌了解。
 
 - [Stanford CS236: Deep Generative Models](https://deepgenerativemodels.github.io/): Stanford 的经典生成模型课程，由 Stefano Ermon 主讲，从 Autoregressive Model 和 Maximum Likelihood 出发，系统覆盖 VAE、Normalizing Flow、GAN、EBM、Score-based Model 和 Diffusion Model 等主流生成模型。相比 MIT 6.S184，这门课更偏概率建模视角，ELBO、Change of Variables、Score Matching 等常见概念都会从头推导，数学不少但循序渐进。如果你不满足于“会调 Diffusion”，而是想真正理解各种生成模型为什么这样设计，非常推荐把这门课作为主线系统学习。
