@@ -14,10 +14,10 @@ CS50的番外篇，依旧由 David J. Malan 授课。在该课程中你将学会
 
 ## 课程资源
 
-- 课程网站：[2022](https://cs50.harvard.edu/python/2022/)
-- 课程视频：[2022](https://www.bilibili.com/video/BV1z5411X7wX)
+- 课程网站：[CS50P](https://cs50.harvard.edu/python/)
+- 课程视频：[CS50P_2022](https://www.bilibili.com/video/BV1z5411X7wX)
 - 课程教材：无
-- 课程作业：[2022](https://cs50.harvard.edu/python/2022/)
+- 课程作业：[CS50P](https://cs50.harvard.edu/python/)
 
 ## 资源汇总
 
