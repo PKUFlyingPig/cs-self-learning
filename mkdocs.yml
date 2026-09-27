@@ -162,7 +162,7 @@ nav:
   - 数学进阶:
       - "UCB CS70: discrete Math and probability theory": "数学进阶/CS70.md"
       - "UCB CS126: probability theory": "数学进阶/CS126.md"
-      - "MIT 6.042J: Mathematics for Computer Science": "数学进阶/6.042J.md"
+      - "MIT 6.1200J (6.042J): Mathematics for Computer Science": "数学进阶/6.042J.md"
       - "MIT18.330: Introduction to numerical analysis": "数学进阶/numerical.md"
       - "Standford EE364A: Convex Optimization": "数学进阶/convex.md"
       - "The Information Theory, Pattern Recognition, and Neural Networks": "数学进阶/The_Information_Theory_Pattern_Recognition_and_Neural_Networks.md"
