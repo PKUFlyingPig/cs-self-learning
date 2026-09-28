@@ -349,6 +349,8 @@ Berkeley 作为著名开源数据库 postgres 的发源地也不遑多让，[UCB
 
 #### 强化学习
 
+[Stanford CS224R: Deep Reinforcement Learning](深度学习/CS224R.md) 侧重深度强化学习在机器人和大语言模型中的应用，适合已有机器学习与深度学习基础的同学。
+
 [UCB CS285: Deep Reinforcement Learning](深度学习/CS285.md)
 
 

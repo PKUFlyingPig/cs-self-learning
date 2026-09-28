@@ -288,6 +288,7 @@ nav:
       - "Stanford CS231n: CNN for Visual Recognition": "深度学习/CS231.md"
       - "Stanford CS224n: Natural Language Processing": "深度学习/CS224n.md"
       - "Stanford CS224w: Machine Learning with Graphs": "深度学习/CS224w.md"
+      - "Stanford CS224R: Deep Reinforcement Learning": "深度学习/CS224R.md"
       - "UCB CS285: Deep Reinforcement Learning": "深度学习/CS285.md"
   - 深度生成模型:
       - "学习路线图": "深度生成模型/roadmap.md"
