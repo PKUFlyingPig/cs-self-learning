@@ -353,6 +353,7 @@ If you want rigorous fundamentals, start with CMU 11-785: it is dense, practical
 
 #### Reinforcement Learning
 
+- [Stanford CS224R: Deep Reinforcement Learning](深度学习/CS224R.md) focuses on applications in robotics and large language models, for learners with a foundation in machine learning and deep learning.
 - [UCB CS285: Deep Reinforcement Learning](深度学习/CS285.md)
 
 ### Deep Learning Systems
