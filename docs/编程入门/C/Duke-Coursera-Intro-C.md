@@ -20,6 +20,8 @@
 ## 课程资源
 
 - 课程网站：<https://www.coursera.org/specializations/c-programming>
+- 课程镜像(免费): [Vannnesa/obsidian](https://github.com/Vannnesa/obsidian-study)
+注:课程镜像需搭配Obsidian使用,内置全部课程作业和复刻的评分系统。
 - 课程视频：同上
 - 课程教材：同上
 - 课程作业：同上
