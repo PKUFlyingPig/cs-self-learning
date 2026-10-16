@@ -273,6 +273,7 @@ nav:
       - "UCB CS189: Introduction to Machine Learning": "机器学习/CS189.md"
   - 机器学习系统:
       - "CMU 15-442/642: Machine Learning Systems": "机器学习系统/CMU15-442.md"
+      - "Harvard CS2680: Modern AI Systems: Agents and System Optimizations": "机器学习系统/CS2680.md"
       - "智能计算系统": "机器学习系统/AICS.md"
       - "CMU 10-414/714: Deep Learning Systems": "机器学习系统/CMU10-414.md"
       - "MIT6.5940: TinyML and Efficient Deep Learning Computing": "机器学习系统/EML.md"
